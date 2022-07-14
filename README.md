@@ -1,6 +1,12 @@
 ## Welcome to Victoria's Teaching Portfolio
 
+# About me
+## I’m passionate about innovative teaching methodology with a student-centered approach. I have over 10 years of experience strategizing innovative learning  experiences for students from preschoolers to adults. I grew up in a coastal city in southeast China, am an avid STEAM project developer and choreography dancer. I’m excited to work with you!
+
 # Teaching Philosophy
+## The Period of Self-awareness
+### When I started as a teacher for IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. I began to realize that something was wrong witnessing students’ struggle against cram exam-oriented education. It has prompted me with a long journey to inquire about effective learning. 
+
 # Teaching Documentation
 # Evaluation of Teaching
 # Student Learning 
