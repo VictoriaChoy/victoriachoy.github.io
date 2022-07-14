@@ -3,7 +3,7 @@
 # About me
 ## I’m passionate about innovative teaching methodology with a student-centered approach. I have over 10 years of experience strategizing innovative learning  experiences for students from preschoolers to adults. I grew up in a coastal city in southeast China, am an avid STEAM project developer and choreography dancer. I’m excited to work with you!
 
-# Teaching Philosophy
+# - Teaching Philosophy
 ## The Period of Self-awareness
 ### When I started as a teacher for IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. I began to realize that something was wrong witnessing students’ struggle against cram exam-oriented education. It has prompted me with a long journey to inquire about effective learning. 
 
@@ -15,7 +15,7 @@
 # Honors
 
 - Bulleted
-- List
+- List I'm passonate about innovative teaching methodology with a student-centered approach. I have over 10 years of experience strategizing innovative learning experiences for students 
 
 1. Numbered
 2. List
@@ -31,6 +31,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictoriaChoy/victoriachoy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
