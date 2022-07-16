@@ -5,6 +5,19 @@
 # About me 
 I’m passionate about innovative teaching methodology with a student-centered approach. I have over 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and fan of choreography and music. I’m excited to work with you!
 
+3D Printing Project
+
+![微信图片_202108131218393](https://user-images.githubusercontent.com/109213222/179352604-0b9f142f-4682-4629-8f5c-c09446e1b423.jpg)  
+![toad](https://user-images.githubusercontent.com/109213222/179352688-3edfc55d-1d4d-42ea-8f71-5e0310859c46.png)
+
+Mechanic Ox-cart in - Chinese Ancient Transport Vehicle 
+
+![mechanic ox](https://user-images.githubusercontent.com/109213222/179352731-34f4ae9f-d92a-4cfb-a30a-a239335cc0c7.png)
+
+English Music Class with a Piano Software
+
+![piano software](https://user-images.githubusercontent.com/109213222/179352795-705d70ba-3c4e-4130-9c62-a0d5ab84f806.png)
+
 # Self-introduction Video
 https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
 
@@ -21,9 +34,7 @@ As an empathetic teacher, I extended concerns for low-achievers and trouble make
 Apart from my major responsibility to deliver innovative classes to early learners, I was a problem solver to cover sick colleagues' classes on short notice with equal quality and impression on students whom she met for the first time. 
 
 
-
 ## - The Period of Identity Establishment
-
 
 # Teaching Documentation
 # Evaluation of Teaching
