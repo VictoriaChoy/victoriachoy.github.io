@@ -3,7 +3,7 @@
 
 
 # About me 
-I’m passionate about innovative teaching methodology with a student-centered approach. I have over 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and fan of choreography and music. I’m excited to work with you!
+I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and fan of choreography and music. I’m excited to work with you!
 
 3D Printing Project
 
