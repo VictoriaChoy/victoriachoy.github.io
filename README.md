@@ -1,7 +1,8 @@
  # Welcome to Victoria's Teaching Portfolio!
  
  ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
-
+ 
+ 
  
  ## About me
   - [Self-introduction Video](#sub-heading)
