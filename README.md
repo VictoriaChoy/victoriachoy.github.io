@@ -2,22 +2,23 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
 
-
-Table of Contents: 
-
-1. About me
-2. Teaching Philosophy
-3. Teaching Documentation
-4. Evaluation of Teaching
-5. Student Learning
-6. Instruction Improvement
-7. Curriculum Development
-8. Honors
-9. Plans for Future Growth 
-10. Assosiations
+## Table of Contents
+- [About me](#heading-1)
+- [Teaching Philosophy](#heading-1)
+- [Teaching Documentation](#heading-1)
+- [Evaluation of Teaching](#heading-1)
+- [Student Learning](#heading-1)
+- [Instruction Improvement](#heading-1)
+- [Curriculum Development](#heading-1)
+- [Honors](#heading-1)
+- [Plans for Future Growth](#heading-1)
+- [Associations](#heading-1)
 
 # About me 
-I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+
+> I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+
+<!-- toc -->
 
 3D Printing Project
 
@@ -47,6 +48,46 @@ An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Trainin
 
 ## Self-introduction Video
 https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
+
+
+
+# Teaching Philosophy
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+
 
 # Teaching Philosophy
 ## - The Period of Self-awareness (2013-2014)
