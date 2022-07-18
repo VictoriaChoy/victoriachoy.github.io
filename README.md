@@ -11,37 +11,37 @@
     * [The Period of Collaboration & Leadership](#sub-sub-heading-3)
     * [The Period of Identity Construction](#sub-sub-heading-4)
     
-- [Teaching Documentation](#heading-3)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Teaching Documentation](#heading-3)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
 
-- [Evaluation of Teaching](#heading-4)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Evaluation of Teaching](#heading-4)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
     
-- [Student Learning](#heading-5)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Student Learning](#heading-5)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
 
-- [Professional Learning](#heading-6)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Professional Learning](#heading-6)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
 
-- [Curriculum Development](#heading-7)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Curriculum Development](#heading-7)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
 
-- [Honors](#heading-8)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Honors](#heading-8)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
 
-- [Plans for Future Growth](#heading-9)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  - [Plans for Future Growth](#heading-9)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)
     
-- [Associations](#heading-10)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)    
+  - [Associations](#heading-10)
+    * [Sub-heading](#sub-heading-1)
+      + [Sub-sub-heading](#sub-sub-heading-1)    
   
 # About me
 
