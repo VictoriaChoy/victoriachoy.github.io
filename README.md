@@ -1,5 +1,17 @@
 ![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
 
+Table of Contents: 
+
+1. About me
+2. Teaching Philosophy
+3. Teaching Documentation
+4. Evaluation of Teaching
+5. Student Learning
+6. Instruction Improvement
+7. Curriculum Development
+8. Honors
+9. Assosiations
+
 # About me 
 I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
@@ -29,7 +41,7 @@ An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Trainin
 
 ![music academy](https://user-images.githubusercontent.com/109213222/179379911-a865d3f9-fbc7-424d-95d7-368a7c0b2fc6.JPG)
 
-# Self-introduction Video
+## Self-introduction Video
 https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
 
 # Teaching Philosophy
@@ -71,7 +83,7 @@ Apart from my major responsibility to deliver innovative classes to early learne
 
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
 
-# Teacher Collaboration & Leadership (2017- now)
+## - Teacher Collaboration & Leadership (2017- now)
 
 I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, puppetry theater for marketing and parental meetings. 
 
@@ -105,6 +117,12 @@ Life Club
 
 # Teaching Documentation
 
+In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. 
+
+
+Unit of Inquiry about Fire, One of the Five Transdisciplinary Elements of Chinese Wuxing
+
+https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing
 
 # Evaluation of Teaching
 
