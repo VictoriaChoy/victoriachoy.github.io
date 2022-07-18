@@ -49,7 +49,7 @@ _How English testing is failing Chinese students by driving numbers, not profici
 https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students
 
 ## - The Period of Practice & Collaboration (2015-2017)
-The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of expressive skills. The hands-on approach has been well developed since then.
+The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
 
 ![ef 50](https://user-images.githubusercontent.com/109213222/179381872-a5ed300a-3dfd-4422-8490-607b2a53ac7f.JPG)
 
@@ -67,13 +67,13 @@ Movable Origami Monkey for Grammar Drill (6-7 years old)
 
 ![photo](https://user-images.githubusercontent.com/109213222/179361146-ab19a608-7cc5-4338-bcc6-a500343edcf3.JPG)
 
-Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues and was a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street), and setting up a home router for a new comer. 
+Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA. 
 
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
 
 # Teacher Collaboration & Leadership (2017- now)
 
-I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as marketing and parental meetings. 
+I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, puppetry theater for marketing and parental meetings. 
 
 ![prototype door](https://user-images.githubusercontent.com/109213222/179357124-7f973710-7a68-4173-9bc3-891e55eb436c.JPG)
 
@@ -83,11 +83,20 @@ I made prototypes for teachers to decorate their classrooms, sampled photoframes
 
 ![ceiling small](https://user-images.githubusercontent.com/109213222/179357564-9622e0fd-617d-4687-90af-72cfee4fa5a4.JPG)
 
+Picture Book Project
 ![birthday](https://user-images.githubusercontent.com/109213222/179357622-c09abe75-21f0-4957-8420-de2d79a95d84.JPG)
 
 ![picture book small](https://user-images.githubusercontent.com/109213222/179360543-d4baf3e4-2d18-42a6-89ad-44d7b2970e12.JPG)
 
+Puppetry Show for Marketing
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
+
+Life Club
+
+![image](https://user-images.githubusercontent.com/109213222/179455485-3be4634d-cc75-4dae-b130-a77a0ada0746.png)
+
+![image](https://user-images.githubusercontent.com/109213222/179455511-ff99281c-70e4-45ee-98cf-d80f49ca64d5.png)
+
 
 ## - The Period of Identity Establishment (2021- now)
 
