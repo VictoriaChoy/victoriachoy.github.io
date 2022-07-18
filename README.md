@@ -1,6 +1,6 @@
 ## Welcome to Victoria's Teaching Portfolio 
 
-https://raw.githubusercontent.com/VictoriaChoy/victoriachoy.github.io/main/Social%20Preview.JPG
+![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
 
 # About me 
 I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
@@ -42,7 +42,11 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html
 
+_How English testing is failing Chinese students by driving numbers, not proficiency_
 
+![image](https://user-images.githubusercontent.com/109213222/179449911-7e20fb5c-334d-44c7-adb4-f29d5e99d588.png)
+
+https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students
 
 ## - The Period of Practice & Collaboration (2015-2017)
 The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of expressive skills. The hands-on approach has been well developed since then.
