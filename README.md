@@ -44,42 +44,46 @@
     * [Sub-heading](#sub-heading-1)
       + [Sub-sub-heading](#sub-sub-heading-1)    
   
-## About me
+  <!-- toc -->
+  
+  # About me 
 
-I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+> I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
-3D Printing Project
+## Transdisciplinary Projects 
+
+3D Printing Project (STEAM)
 
 ![3d printer](https://user-images.githubusercontent.com/109213222/179355995-9ea3d0c3-c83d-46fc-90d3-1b53b2af006d.JPG)
 
 ![toad small](https://user-images.githubusercontent.com/109213222/179360333-d2746ad5-a655-462b-9dc1-8d780706ee16.PNG)
 
-Assembled Mechanic Ox-cart - a Chinese Ancient Transport Vehicle 
+Assembled Mechanic Ox-cart - a Chinese Ancient Transport Vehicle (STEAM)
 
 ![mechanic ox cart small](https://user-images.githubusercontent.com/109213222/179356034-8443f180-25da-44c1-a271-71205f96ebfe.PNG)
 
-English Music Class with a Piano Software
+English Music Class with a Piano Software (Lieracy, Music and Technology)
 
 ![piano software small](https://user-images.githubusercontent.com/109213222/179356062-52f2d4d5-bbaf-4b33-a024-d015813f846c.PNG)
 
-Dance Warm-Up 
+Dance Warm-Up (Literacy, Music and Dance)
 
 ![dance small](https://user-images.githubusercontent.com/109213222/179379604-f9acb73b-1436-421e-a733-5b89aa94e0ae.PNG)
 
-Jazz Dance Contest
+Jazz Dance Contest (Coordination Skills, Communication Skills, Dance and Music)
 
 ![jazz](https://user-images.githubusercontent.com/109213222/179379810-00be2e32-775c-4c44-bea6-6e3213b04d81.JPG)
 
-An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Training Session at the Music Academy of Xiamen University 
+An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Training Session at the Music Academy of Xiamen University (Music, Receptive and Productive Skills, Communication Skills)
 
 ![music academy](https://user-images.githubusercontent.com/109213222/179379911-a865d3f9-fbc7-424d-95d7-368a7c0b2fc6.JPG)
 
+
 ### Self-introduction Video
 
-https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
+(https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing)
 
-
-### Teaching Philosophy
+## Teaching Philosophy
 
 #### - The Period of Self-awareness (2013-2014)
 After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, , identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
@@ -226,6 +230,19 @@ https://www.uopeople.edu/
 
 https://world-schools.com/the-best-international-schools-in-asia/ 
 
+# Heading levels
+
+> This is a fixture to test heading levels
+
+<!-- toc -->
+
+## Heading
+
+This is an h1 heading
+
+### Self-introduction Video
+
+(https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing)
 
 
 
