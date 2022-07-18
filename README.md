@@ -1,11 +1,10 @@
-# [About me](#heading)
-  * [Self-introduction Video](#sub-heading)
-    
-- [Teaching Philosophy](#heading-2)
-  * [The Period of Self-awareness](#sub-heading-1)
-  * [The Period of Practice & Collaboration](#sub-heading-2)
-  * [The Period of Collaboration & Leadership](#sub-heading-3)
-  * [The Period of Identity Construction](#sub-heading-4)
+ # About me
+  - [Self-introduction Video](#sub-heading)
+  - [Teaching Philosophy](#heading-2)
+    * [The Period of Self-awareness](#sub-sub-heading-1)
+    * [The Period of Practice & Collaboration](#sub-sub-heading-2)
+    * [The Period of Collaboration & Leadership](#sub-sub-heading-3)
+    * [The Period of Identity Construction](#sub-sub-heading-4)
     
 - [Teaching Documentation](#heading-3)
   * [Sub-heading](#sub-heading-1)
@@ -38,8 +37,7 @@
 - [Associations](#heading-10)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)    
-    
-
+  
 # About me
 
 I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
@@ -70,15 +68,13 @@ An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Trainin
 
 ![music academy](https://user-images.githubusercontent.com/109213222/179379911-a865d3f9-fbc7-424d-95d7-368a7c0b2fc6.JPG)
 
-### Self-introduction Video
+## Self-introduction Video
 
 https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
 
 
-
-
-
 # Teaching Philosophy
+
 ## - The Period of Self-awareness (2013-2014)
 After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, , identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
 
@@ -93,6 +89,7 @@ _How English testing is failing Chinese students by driving numbers, not profici
 https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students
 
 ## - The Period of Practice & Collaboration (2015-2017)
+
 The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
 
 EF 50th Anniversary Party
