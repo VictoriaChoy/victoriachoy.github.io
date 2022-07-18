@@ -1,50 +1,46 @@
- Welcome to Victoria's Teaching Portfolio!
+ # Welcome to Victoria's Teaching Portfolio!
  
  ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
  
- 
- 
  # About me
-  - [Self-introduction Video](#sub-heading)
-  - [Teaching Philosophy](#heading-2)
-    * [The Period of Self-awareness](#sub-sub-heading-1)
-    * [The Period of Practice & Collaboration](#sub-sub-heading-2)
-    * [The Period of Collaboration & Leadership](#sub-sub-heading-3)
-    * [The Period of Identity Construction](#sub-sub-heading-4)
+  - Self-introduction Video
+  - Teaching Philosophy
+    * The Period of Self-awareness
+    * The Period of Practice & Collaboration
+    * The Period of Collaboration & Leadership
+    * The Period of Identity Construction
     
-  - [Teaching Documentation](#heading-3)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Teaching Documentation
+    * Sub-heading
+      + Sub-sub-heading
 
-  - [Evaluation of Teaching](#heading-4)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Evaluation of Teaching
+    * Sub-heading
+      + Sub-sub-heading
     
-  - [Student Learning](#heading-5)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Student Learning
+    * Sub-heading
+      + Sub-sub-heading
 
-  - [Professional Learning](#heading-6)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Professional Learning
+    * Sub-heading
+      + Sub-sub-heading
 
-  - [Curriculum Development](#heading-7)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Curriculum Development
+    * Sub-heading
+      + Sub-sub-heading
 
-  - [Honors](#heading-8)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Honors
+    * Sub-heading
+      + Sub-sub-heading
 
-  - [Plans for Future Growth](#heading-9)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)
+  - Plans for Future Growth
+    * Sub-heading
+      + Sub-sub-heading
     
-  - [Associations](#heading-10)
-    * [Sub-heading](#sub-heading-1)
-      + [Sub-sub-heading](#sub-sub-heading-1)    
-  
-  <!-- toc -->
+  - Associations
+    * Sub-heading
+      
   
   # About me 
 
