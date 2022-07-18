@@ -86,11 +86,13 @@ I made prototypes for teachers to decorate their classrooms, sampled photoframes
 ![ceiling small](https://user-images.githubusercontent.com/109213222/179357564-9622e0fd-617d-4687-90af-72cfee4fa5a4.JPG)
 
 Picture Book Project
+
 ![birthday](https://user-images.githubusercontent.com/109213222/179357622-c09abe75-21f0-4957-8420-de2d79a95d84.JPG)
 
 ![picture book small](https://user-images.githubusercontent.com/109213222/179360543-d4baf3e4-2d18-42a6-89ad-44d7b2970e12.JPG)
 
 Puppetry Show for Marketing
+
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
 
 Life Club
