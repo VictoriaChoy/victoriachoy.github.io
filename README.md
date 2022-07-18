@@ -1,8 +1,4 @@
-# Welcome to Victoria's Teaching Portfolio !
-
-![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
-
-- [About me](#heading-1)
+# [About me](#heading)
   * [Self-introduction Video](#sub-heading)
     
 - [Teaching Philosophy](#heading-2)
@@ -43,9 +39,6 @@
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)    
     
-# Heading levels
-
-> This is a fixture to test heading levels
 
 # About me
 
