@@ -13,7 +13,8 @@ Table of Contents:
 6. Instruction Improvement
 7. Curriculum Development
 8. Honors
-9. Assosiations
+9. Plans for Future Growth 
+10. Assosiations
 
 # About me 
 I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
@@ -180,6 +181,7 @@ Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
 
+# Plans for Future Growth
 
 # Associations 
 
