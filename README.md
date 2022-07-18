@@ -2,36 +2,32 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
 
-# Table of Contents
-
-- [About me](#heading-1)
-
-  - [Self-introduction Video](#sub-heading-1)
-  
+- [About me](#heading)
+  * [Self-introduction Video](#sub-heading)
+    
 - [Teaching Philosophy](#heading-1)
-  
-  - [The Period of Self-awareness](#sub-heading-1)
-  
-  - [The Period of Practice & Collaboration](#sub-heading-1)
-  
-  - [The Period of Teacher Collaboration and Leadership](#sub-heading-1)
-  
-  - [The Period of Identity Construction](#sub-heading-1)
-  
-- [Teaching Documentation](#heading-1)
+  * [The Period of Self-awareness](#sub-heading-1)
+  * [The Period of Practice & Collaboration](#sub-heading-2)
+  * [The Period of Collaboration & Leadership](#sub-heading-3)
+  * [The Period of Identity Construction](#sub-heading-4)
+    
+- [Teaching Documentation](#heading-2)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
 
-  - [The Period of Self-awareness](#sub-heading-1)
-  
-  - 
-- [Evaluation of Teaching](#heading-1)
-- [Student Learning](#heading-1)
-- [Instruction Improvement](#heading-1)
-- [Curriculum Development](#heading-1)
-- [Honors](#heading-1)
-- [Plans for Future Growth](#heading-1)
-- [Associations](#heading-1)
+- [Evaluation of Teaching](#heading-3)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+    
+- [Student Learning](#heading-4)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
 
-# About me 
+- [Student Learning](#heading-5)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+
+# About me
 
 > I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
@@ -61,6 +57,49 @@ An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Trainin
 
 ![music academy](https://user-images.githubusercontent.com/109213222/179379911-a865d3f9-fbc7-424d-95d7-368a7c0b2fc6.JPG)
 
+### Self-introduction Video
+
+https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
+
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+
+
+  
+- [Evaluation of Teaching](#heading-1)
+- [Student Learning](#heading-1)
+- [Instruction Improvement](#heading-1)
+- [Curriculum Development](#heading-1)
+- [Honors](#heading-1)
+- [Plans for Future Growth](#heading-1)
+- [Associations](#heading-1)
+
+
+
+
 
 
 
@@ -70,7 +109,7 @@ This is an h1 heading
 
 ## Self-introduction Video
 
-https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
+
 
 This is an h2 heading
 
