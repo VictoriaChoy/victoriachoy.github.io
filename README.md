@@ -1,3 +1,6 @@
+ # Welcome to Victoria's Teaching Portfolio!
+ 
+ 
  # About me
   - [Self-introduction Video](#sub-heading)
   - [Teaching Philosophy](#heading-2)
