@@ -1,6 +1,6 @@
 ## Welcome to Victoria's Teaching Portfolio 
 
-![蔡小燕 round small](https://user-images.githubusercontent.com/109213222/179379406-90a18b4b-4d50-4b6e-89fb-e2a27a8d7e8c.PNG)
+
 
 
 # About me 
@@ -43,7 +43,9 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html
 
-## - The Period of Practice & Collaboration (2015-2020)
+
+
+## - The Period of Practice & Collaboration (2015-2017)
 The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of expressive skills. The hands-on approach has been well developed since then.
 
 ![ef 50](https://user-images.githubusercontent.com/109213222/179381872-a5ed300a-3dfd-4422-8490-607b2a53ac7f.JPG)
@@ -66,7 +68,7 @@ Apart from my major responsibility to deliver innovative classes to early learne
 
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
 
-Teacher Collaboration Projects 
+# Teacher Collaboration & Leadership (2017- now)
 
 I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as marketing and parental meetings. 
 
