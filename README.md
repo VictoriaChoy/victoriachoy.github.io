@@ -106,11 +106,62 @@ Life Club
 
 
 # Teaching Documentation
+
+
 # Evaluation of Teaching
+
+
 # Student Learning 
+
 # Instruction Improvement
+
+MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology 
+
+https://docs.google.com/document/d/1DKzvqS63BbkXQ8761YNgKmGeUz0J-vPa/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
+
+Academic Report- Grade A for Course EDUC 5010 Education in Context: History, Philosophy and Sociology 
+
+![image](https://user-images.githubusercontent.com/109213222/179459422-f399f5d0-fb72-49aa-b10d-e6fa6de5948c.png)
+
+IB Educator Certificate Course Transcript 
+
+IB Bilingual Education Workshop Certificate of Participation
+
+![image](https://user-images.githubusercontent.com/109213222/179465935-766dfb46-72b7-40e6-8dc4-027a8cbed8e1.png)
+
+International Chinese Language Teaching Certificate of Participation
+
+![image](https://user-images.githubusercontent.com/109213222/179466080-5570b443-bc9c-46fc-b691-66de49b508a5.png)
+
+TESOL Diploma
+
+![image](https://user-images.githubusercontent.com/109213222/179466727-80fb1463-10a3-4adc-90b7-d0ee80be22b7.png)
+
+
+TEFL 120 Hours
+
+![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
+
+
 # Curriculum Development
+
+The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate. 
+
+Final topic: international-mindedness
+
+Group Inquiry Question: 
+
+How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
+
+https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
+
 # Honors
+
+Embassador of University of the People 
+
+![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
+
+
 # Associations 
 
 https://www.ibo.org
