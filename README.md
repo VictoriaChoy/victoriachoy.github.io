@@ -1,4 +1,7 @@
+# Welcome to Victoria's Teaching Portfolio !
+
 ![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
+
 
 Table of Contents: 
 
