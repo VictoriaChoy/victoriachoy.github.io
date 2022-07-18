@@ -2,36 +2,53 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179449880-3995a301-cd67-4e67-929b-99ef8521ed3b.png)
 
-- [About me](#heading)
+- [About me](#heading-1)
   * [Self-introduction Video](#sub-heading)
     
-- [Teaching Philosophy](#heading-1)
+- [Teaching Philosophy](#heading-2)
   * [The Period of Self-awareness](#sub-heading-1)
   * [The Period of Practice & Collaboration](#sub-heading-2)
   * [The Period of Collaboration & Leadership](#sub-heading-3)
   * [The Period of Identity Construction](#sub-heading-4)
     
-- [Teaching Documentation](#heading-2)
+- [Teaching Documentation](#heading-3)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 
-- [Evaluation of Teaching](#heading-3)
+- [Evaluation of Teaching](#heading-4)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
     
-- [Student Learning](#heading-4)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-
 - [Student Learning](#heading-5)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 
+- [Professional Learning](#heading-6)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+
+- [Curriculum Development](#heading-7)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+
+- [Honors](#heading-8)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+
+- [Plans for Future Growth](#heading-9)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+    
+- [Associations](#heading-10)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)    
+    
+
 # About me
 
-> I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM project developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
-> 3D Printing Project
+3D Printing Project
 
 ![3d printer](https://user-images.githubusercontent.com/109213222/179355995-9ea3d0c3-c83d-46fc-90d3-1b53b2af006d.JPG)
 
@@ -62,69 +79,6 @@ An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Trainin
 https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing 
 
 
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-
-
-  
-- [Evaluation of Teaching](#heading-1)
-- [Student Learning](#heading-1)
-- [Instruction Improvement](#heading-1)
-- [Curriculum Development](#heading-1)
-- [Honors](#heading-1)
-- [Plans for Future Growth](#heading-1)
-- [Associations](#heading-1)
-
-
-
-
-
-
-
-# Heading
-
-This is an h1 heading
-
-## Self-introduction Video
-
-
-
-This is an h2 heading
-
-
-# Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
 
 
 
