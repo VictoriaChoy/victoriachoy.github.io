@@ -163,7 +163,8 @@ https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=shari
 # Evaluation of Teaching & Educational Leadership
 
 
-![image](https://user-images.githubusercontent.com/109213222/179682931-f19a1ab7-bf6d-4feb-94a7-7492efa06009.png)
+![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
+
 
 https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader
 
