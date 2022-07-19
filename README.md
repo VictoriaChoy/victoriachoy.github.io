@@ -109,7 +109,7 @@ Movable Origami Monkey for Grammar Drill (6-7 years old)
 
 ![mobile monkey](https://user-images.githubusercontent.com/109213222/179360441-f9b9ae98-367c-4f09-ae0a-982eb9430ef6.JPG)
 
-2D Shapes Developed into a 3D Project (3-5 years old): This project was for an unit of 2D shapes. In order for preschoolers to inquire about the shapes with a hands-on approach, I developed the project connecting with their prior knowledge of flowers, arts, handicraft (wind chime), and robot toys. 
+2D Shapes Developed into 3D Projects (3-5 years old): This project was for an unit of 2D shapes. In order for preschoolers to inquire about the shapes with a hands-on approach, I developed the project connecting with their prior knowledge of flowers, arts, handicraft (wind chime), and robot toys. 
 
 ![3d shapes](https://user-images.githubusercontent.com/109213222/179360363-0ab0b4bf-2188-42a3-82ce-cb016e50fda6.JPG)
 
