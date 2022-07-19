@@ -74,7 +74,6 @@ An Interpreter for a Conductor of the Vienna Concert Hall during a Vocal Trainin
 
 ![music academy](https://user-images.githubusercontent.com/109213222/179379911-a865d3f9-fbc7-424d-95d7-368a7c0b2fc6.JPG)
 
-
 ### Self-introduction Video
 
 (https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing)
@@ -161,7 +160,11 @@ Unit of Inquiry about Fire, One of the Five Transdisciplinary Elements of Chines
 
 https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing
 
-# Evaluation of Teaching
+# Evaluation of Teaching & Educational Leadership
+
+
+![image](https://user-images.githubusercontent.com/109213222/179682931-f19a1ab7-bf6d-4feb-94a7-7492efa06009.png)
+
 
 
 # Student Learning 
@@ -226,19 +229,6 @@ https://www.uopeople.edu/
 
 https://world-schools.com/the-best-international-schools-in-asia/ 
 
-# Heading levels
-
-> This is a fixture to test heading levels
-
-<!-- toc -->
-
-## Heading
-
-This is an h1 heading
-
-### Self-introduction Video
-
-(https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing)
 
 
 
