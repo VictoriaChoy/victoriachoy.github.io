@@ -165,7 +165,7 @@ https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=shari
 
 ![image](https://user-images.githubusercontent.com/109213222/179682931-f19a1ab7-bf6d-4feb-94a7-7492efa06009.png)
 
-
+https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader
 
 # Student Learning 
 
