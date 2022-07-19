@@ -109,11 +109,13 @@ Movable Origami Monkey for Grammar Drill (6-7 years old)
 
 ![mobile monkey](https://user-images.githubusercontent.com/109213222/179360441-f9b9ae98-367c-4f09-ae0a-982eb9430ef6.JPG)
 
-2D Shapes Developed into a 3D Project (3-5 years old)
+2D Shapes Developed into a 3D Project (3-5 years old): This project was for an unit of 2D shapes. In order for preschoolers to inquire about the shapes with a hands-on approach, I developed the project connecting with their prior knowledge of flowers, arts, handicraft (wind chime), and robot toys. 
 
 ![3d shapes](https://user-images.githubusercontent.com/109213222/179360363-0ab0b4bf-2188-42a3-82ce-cb016e50fda6.JPG)
 
 ![photo](https://user-images.githubusercontent.com/109213222/179361146-ab19a608-7cc5-4338-bcc6-a500343edcf3.JPG)
+
+![image](https://user-images.githubusercontent.com/109213222/179732879-928cc954-01eb-45f5-8ca0-f1f384606794.png)
 
 Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA. 
 
@@ -131,13 +133,13 @@ I made prototypes for teachers to decorate their classrooms, sampled photoframes
 
 ![ceiling small](https://user-images.githubusercontent.com/109213222/179357564-9622e0fd-617d-4687-90af-72cfee4fa5a4.JPG)
 
-Picture Book Project
+Picture Book Project: the book is about a birthday party from _Oxford Reading Tree_ with an ort program to operate on the computer. Apart from using the interactive white board with the program, we used the project-based approach to engage early learners based on different teacher strengths. The idea of mango slices arranged in the shape of a birthday cake with letter-shaped biscuits was co-deveoped by the team. The white board decorated with balloons and laminated letter cards served as a setting for early learners to put on a puppet show in the same theme.
 
 ![birthday](https://user-images.githubusercontent.com/109213222/179357622-c09abe75-21f0-4957-8420-de2d79a95d84.JPG)
 
 ![picture book small](https://user-images.githubusercontent.com/109213222/179360543-d4baf3e4-2d18-42a6-89ad-44d7b2970e12.JPG)
 
-Puppetry Show for Marketing
+Puppetry Show for Marketing: this show was organized for the marketing department 
 
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
 
