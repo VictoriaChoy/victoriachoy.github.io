@@ -107,8 +107,6 @@ Origami Animals for Puppetry Theater and Rewards (2-4 years old) (Literacy, Natu
 
 ![image](https://user-images.githubusercontent.com/109213222/179966290-eb690e5d-42e5-42a8-9e04-7c9ee2ce74fa.png)
 
-![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
-
 ![Puppetry theater](https://user-images.githubusercontent.com/109213222/179356144-0c4fcb18-9162-439e-88bd-3797449c12cc.JPG)
 
 Movable Origami Monkey for Grammar Drill (6-7 years old)
@@ -124,6 +122,12 @@ The project was developed for both receptive and productive skills. Students lea
 ![photo](https://user-images.githubusercontent.com/109213222/179361146-ab19a608-7cc5-4338-bcc6-a500343edcf3.JPG)
 
 ![image](https://user-images.githubusercontent.com/109213222/179732879-928cc954-01eb-45f5-8ca0-f1f384606794.png)
+
+Children's Day Gathering
+
+Families were invited to join our celebration of Children's Day that has been the happiest day of children in the year. Shows were put on in an exhibition style. All children learned something from the center, and their parents felt very proud of it. 
+
+![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
 Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA. 
 
