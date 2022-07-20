@@ -131,6 +131,12 @@ Families were invited to join our celebration of Children's Day that has been th
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
+Weekly Life Club: teachers take turns to host the life club in different themes at the big kitchen with a projector, a screen and a host computer, so that students could take related classes and prepare snack food. 
+
+![image](https://user-images.githubusercontent.com/109213222/179455485-3be4634d-cc75-4dae-b130-a77a0ada0746.png)
+
+![image](https://user-images.githubusercontent.com/109213222/179455511-ff99281c-70e4-45ee-98cf-d80f49ca64d5.png)
+
 Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA. 
 
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
@@ -157,19 +163,14 @@ Puppetry Show for Marketing: this show was organized for the marketing departmen
 
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
 
-Weekly Life Club: teachers take turns to host the life club in different themes at the big kitchen with a projector, a screen and a host computer, so that students could take related classes and prepare snack food. 
-
-![image](https://user-images.githubusercontent.com/109213222/179455485-3be4634d-cc75-4dae-b130-a77a0ada0746.png)
-
-![image](https://user-images.githubusercontent.com/109213222/179455511-ff99281c-70e4-45ee-98cf-d80f49ca64d5.png)
-
 
 ## - The Period of Identity Establishment (2021- now)
 
+In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. During the journey of inquiry about my own identity and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. 
 
 # Teaching Documentation
 
-In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. 
+
 
 
 Unit of Inquiry about Fire, One of the Five Transdisciplinary Elements of Chinese Wuxing
