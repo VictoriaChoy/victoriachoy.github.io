@@ -101,21 +101,19 @@ EF 50th Anniversary Party
 
 ![ef 50](https://user-images.githubusercontent.com/109213222/179381872-a5ed300a-3dfd-4422-8490-607b2a53ac7f.JPG)
 
-Origami Animals for Puppetry Theater and Rewards (2-4 years old) (Lieracy, Natural Science, Math)
+Based on my childhood experience with my mom who taught me how to make origami toys, I understood that students would love this hands-on approach, so I incorporated it into lesson planning, which aimed to develop children's understanding of lines and symmetrical shapes, related to story characters and new vocabularies such as animals, clothes and home furniture. Sometimes parents would help their small children with some steps. They were always welcome to attend our classes and activities. The involvement of parents faciliated student learning and built a strong connection among students, parents and the school. I would say the humanistic approach I have adopted based on students’ interest, agency, self-efficacy, and the learning community has prepared me to “internalize” IB methodology, according to my IB instructors. 
 
-I taught students to make origami toys requiring a symmetrical understanding of shapes and lines, related to story characters and new vocabularies such as animals, clothes and home furniture. Sometimes parents would help their small children with some steps. They were always welcome to attend our classes and activities. The involvement of parents faciliated student learning and built a strong connection among students, parents and the school. I would say the humanistic approach I have adopted based on students’ interest, agency, self-efficacy, and the learning community has prepared me to “internalize” IB methodology, according to my IB instructors.  
+Origami Animals for Puppetry Theater and Rewards (2-4 years old) (Literacy, Natural Science, Math)
 
-![image](https://user-images.githubusercontent.com/109213222/179963637-f8dd609e-ce90-4a89-a8e1-7b2ff6206e7a.png)
+![image](https://user-images.githubusercontent.com/109213222/179966290-eb690e5d-42e5-42a8-9e04-7c9ee2ce74fa.png)
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
 ![Puppetry theater](https://user-images.githubusercontent.com/109213222/179356144-0c4fcb18-9162-439e-88bd-3797449c12cc.JPG)
 
-![image](https://user-images.githubusercontent.com/109213222/179962612-982393bc-9463-4479-963c-47f11070ed82.png)
-
 Movable Origami Monkey for Grammar Drill (6-7 years old)
 
-The project was developed for both receptive and productive skills. Students learned to say the prepositional phrases and sentence patterns of positions while being engaged with the movable origami monkey. Grammar has been the most painful The design targeted motivating students to overcome their  
+The project was developed for both receptive and productive skills. Students learned to say the prepositional phrases and sentence patterns of positions while being engaged with the movable origami monkey. Grammar has been the most painful learning experience for early learners with their logic thinking still developing, so the hands-on transdisciplinary approach fostered students' interest in learing grammar, avoiding the most-used tedious drills. When students completed their own projects, they practice productive skills with a sense of achievement boosting their self-efficacy, and in turn, enhancing their agency.  
 
 ![mobile monkey](https://user-images.githubusercontent.com/109213222/179360441-f9b9ae98-367c-4f09-ae0a-982eb9430ef6.JPG)
 
