@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-## [About me](#about-me)
+# [About me](#about-me)
 
   * [Transdisciplinary Projects and Hobbies](#transdisciplinary-projects-and-hobbies)
 
@@ -83,17 +83,17 @@
 
 ![abb robot small](https://user-images.githubusercontent.com/109213222/179381242-ff499c02-a2a7-47dd-9d92-db34cdb5343f.PNG)
 
-https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html
+[robot](https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html)
 
 _How English testing is failing Chinese students by driving numbers, not proficiency_
 
 ![image](https://user-images.githubusercontent.com/109213222/179449911-7e20fb5c-334d-44c7-adb4-f29d5e99d588.png)
 
-https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students
+[ielts](https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students)
 
 ## The Period of Practice & Collaboration (2015-2017)
 
-The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
+> The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
 
 ##  * EF 50th Anniversary Party
 
@@ -139,7 +139,7 @@ Apart from my major responsibility to deliver innovative classes to early learne
 
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
 
-##  Teacher Collaboration & Leadership (2017-now)
+##  The Period of Collaboration and Leadership (2017-now)
 
 I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, holiday celebrations, puppetry theater for marketing, and parental meetings. 
 
@@ -242,12 +242,12 @@ I would complete the MEd in 2025. After that, I would consider taking a degree i
 
 # Associations 
 
-https://www.ibo.org
+[ibo.org](https://www.ibo.org)
 
-https://www.uwindsor.ca/
+[The University of Windsor](https://www.uwindsor.ca/)
 
-https://www.uopeople.edu/
+[University of the People](https://www.uopeople.edu/)
 
-https://world-schools.com/the-best-international-schools-in-asia/ 
+[world schools](https://world-schools.com/the-best-international-schools-in-asia/) 
 
 
