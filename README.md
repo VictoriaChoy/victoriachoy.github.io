@@ -26,28 +26,21 @@
      
 
   ## [Evaluation of Teaching](#evaluation-of-teaching)
-    * Sub-heading
-      + Sub-sub-heading
+ 
     
   ## [Student Learning](#student-learning)
-    * Sub-heading
-      + Sub-sub-heading
+   
 
   ## [Professional Learning](#professional-learning)
-    * Sub-heading
-      + Sub-sub-heading
+   
 
   ## [Curriculum Development](#curriculum-development)
-    * Sub-heading
-      + Sub-sub-heading
-
+    
   ## [Honors](#honors)
-    * Sub-heading
-      + Sub-sub-heading
+ 
 
   ## [Plans of Future Growth](#plans-for-future-growth)
-    * Sub-heading
-      + Sub-sub-heading
+   
     
   ## [Associations](#associations)
 
