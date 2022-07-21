@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-## [1.About me](#1-about-me)
+## [About me](#about-me)
 
   * [Transdisciplinary Projects and Hobbies](#transdisciplinary-projects-and-hobbies)
 
