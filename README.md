@@ -10,7 +10,7 @@
 
   * [Self-introduction Video](#self-introduction-video)
 
-## [Teaching Philosophy](#teaching-philosophy)
+# [Teaching Philosophy](#teaching-philosophy)
 
   * [The Period of Self-awareness (2013-2014)](#the-period-of-self-awareness-2013-2014)
 
@@ -20,23 +20,23 @@
 
   * [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
 
-  ## [Teaching Documentation](#teaching-documentation)
+# [Teaching Documentation](#teaching-documentation)
 
   * [Unit of Inquiry](#unit-of-inquiry)
      
-  ## [Evaluation of Teaching](#evaluation-of-teaching)
+# [Evaluation of Teaching](#evaluation-of-teaching)
     
-  ## [Student Learning](#student-learning)
+# [Student Learning](#student-learning)
     
-  ## [Professional Learning](#professional-learning)
+# [Professional Learning](#professional-learning)
   
-  ## [Curriculum Development](#curriculum-development)
+# [Curriculum Development](#curriculum-development)
   
-  ## [Honors](#honors)
+# [Honors](#honors)
   
-  ## [Plans of Future Growth](#plans-for-future-growth)
+# [Plans of Future Growth](#plans-for-future-growth)
     
-  ## [Associations](#associations)
+# [Associations](#associations)
 
       
   
