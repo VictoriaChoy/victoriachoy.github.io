@@ -2,7 +2,10 @@
  
  ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
  
- # About me
+ # Table of Contents
+ 
+  - About me
+  - Transdisciplinary Projects and Hobbies
   - Self-introduction Video
   - Teaching Philosophy
     * The Period of Self-awareness
@@ -39,10 +42,6 @@
       + Sub-sub-heading
     
   - Associations
-    * Sub-heading
-      
-  
-  # About me 
 
 > I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
