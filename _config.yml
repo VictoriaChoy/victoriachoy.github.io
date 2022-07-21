@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+- name: submodules-init
+  uses: snickerbockers/submodules-init@v4
