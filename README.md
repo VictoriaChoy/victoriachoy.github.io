@@ -1,19 +1,28 @@
 # Welcome to Victoria's Teaching Portfolio
+
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
 
 # Table of Contents
+
 ## [About me](#about-me)
+
 ### [Transdisciplinary Projects and Hobbies](#transdisciplinary-projects-and-hobbies)
+
 ### [Self-introduction Video](#self-introduction-video)
+
   ## [Teaching Philosophy](#teaching-philosophy)
+  
   ### [The Period of Self-awareness (2013-2014)](#the-period-of-self-awareness-2013-2014)
+  
   ### [The Period of Practice and Collaboration (2015-2017)](#the-period-of-practice--collaboration-2015-2017)
+  
   ### [The Period of Collaboration and Leadership (2017-now)](#the-period-of-collaboration-and-leadership-2017-now)
+  
   ### [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
 
   ## [Teaching Documentation](#teaching-documentation)
+  
   ### [Unit of Inquiry](#unit-of-inquiry)
-     
 
   ## [Evaluation of Teaching](#evaluation-of-teaching)
     * Sub-heading
