@@ -4,8 +4,8 @@
  
  # Table of Contents
  
-  ## [About me](#About-me)
-  ### [Transdisciplinary Projects and Hobbies](#Transdisciplinary-Projects_and-Hobbies)
+  ## [About me](##About-me)
+  ### [Transdisciplinary Projects and Hobbies](###Transdisciplinary-Projects)
   Self-introduction Video
   - Teaching Philosophy
     * The Period of Self-awareness
@@ -43,10 +43,10 @@
     
   - Associations
 
-# About me
+## About me
 > I’m passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
-## Transdisciplinary Projects 
+### Transdisciplinary Projects 
 
 3D Printing Project (STEAM)
 
