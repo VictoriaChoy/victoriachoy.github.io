@@ -25,7 +25,7 @@
 3.2 [Unit of Inquiry](#unit-of-inquiry)
      
 
-4.1 Evaluation of Teaching](#evaluation-of-teaching)
+4.1 [Evaluation of Teaching](#evaluation-of-teaching)
  
     
 5.1 [Student Learning](#student-learning)
