@@ -4,45 +4,45 @@
 
 # Table of Contents
 
-## [About me](#about-me)
+1.1 [About me](#about-me)
 
-### [Transdisciplinary Projects and Hobbies](#transdisciplinary-projects-and-hobbies)
+1.2 [Transdisciplinary Projects and Hobbies](#transdisciplinary-projects-and-hobbies)
 
-### [Self-introduction Video](#self-introduction-video)
+1.3 [Self-introduction Video](#self-introduction-video)
 
-  ## [Teaching Philosophy](#teaching-philosophy)
+2.1 [Teaching Philosophy](#teaching-philosophy)
 
-  ### [The Period of Self-awareness (2013-2014)](#the-period-of-self-awareness-2013-2014)
+2.2 [The Period of Self-awareness (2013-2014)](#the-period-of-self-awareness-2013-2014)
 
-  ### [The Period of Practice and Collaboration (2015-2017)](#the-period-of-practice--collaboration-2015-2017)
+2.3 [The Period of Practice and Collaboration (2015-2017)](#the-period-of-practice--collaboration-2015-2017)
 
-  ### [The Period of Collaboration and Leadership (2017-now)](#the-period-of-collaboration-and-leadership-2017-now)
+2.4 [The Period of Collaboration and Leadership (2017-now)](#the-period-of-collaboration-and-leadership-2017-now)
 
-  ### [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
+2.5 [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
 
-  ## [Teaching Documentation](#teaching-documentation)
+3.1 [Teaching Documentation](#teaching-documentation)
   
-  ### [Unit of Inquiry](#unit-of-inquiry)
+3.2 [Unit of Inquiry](#unit-of-inquiry)
      
 
-  ## [Evaluation of Teaching](#evaluation-of-teaching)
+4.1 Evaluation of Teaching](#evaluation-of-teaching)
  
     
-  ## [Student Learning](#student-learning)
+5.1 [Student Learning](#student-learning)
    
 
-  ## [Professional Learning](#professional-learning)
+6.1 [Professional Learning](#professional-learning)
    
 
-  ## [Curriculum Development](#curriculum-development)
+7.1 [Curriculum Development](#curriculum-development)
     
-  ## [Honors](#honors)
+8.1 [Honors](#honors)
  
 
-  ## [Plans of Future Growth](#plans-for-future-growth)
+9.1 [Plans of Future Growth](#plans-for-future-growth)
    
     
-  ## [Associations](#associations)
+10.1 [Associations](#associations)
 
       
   
@@ -50,7 +50,7 @@
 
 > I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
-## Transdisciplinary Projects
+## Transdisciplinary Projects and Hobbies
 
 3D Printing Project (STEAM)
 
