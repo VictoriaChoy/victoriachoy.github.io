@@ -20,21 +20,17 @@
 
   * [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
 
-## [Teaching Documentation](#teaching-documentation)
+## [Teaching and Learning](#teaching-and-learning)
 
   * [Unit of Inquiry](#unit-of-inquiry)
+ 
+  * Curriculum Development](#curriculum-development)
      
-## [Evaluation of Teaching](#evaluation-of-teaching)
+  * [Evaluation of Teaching](#evaluation-of-teaching)
     
-## [Student Learning](#student-learning)
-    
-## [Professional Learning](#professional-learning)
-  
-## [Curriculum Development](#curriculum-development)
+## [Professional Learning & Future Growth](#professional-learning)
   
 ## [Honors](#honors)
-  
-## [Plans of Future Growth](#plans-for-future-growth)
     
 ## [Associations](#associations)
   
@@ -168,54 +164,14 @@ https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-e
 
 > In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. During the journey of inquiry about my own identity and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. 
 
-# Teaching Documentation
+## Teaching and Learning
 
-## Unit of Inquiry 
+  ## -Unit of Inquiry 
 about Fire, One of the Five Transdisciplinary Elements of Chinese Wuxing
 
-https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing
+  https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing
 
-# Evaluation of Teaching & Educational Leadership
-
-> I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
-
-![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
-
-[boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
-
-# Student Learning 
-
-# Instruction Improvement
-
-## MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology 
-
-https://docs.google.com/document/d/1DKzvqS63BbkXQ8761YNgKmGeUz0J-vPa/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
-
-## Academic Report- Grade A for Course EDUC 5010 Education in Context: History, Philosophy and Sociology 
-
-![image](https://user-images.githubusercontent.com/109213222/179459422-f399f5d0-fb72-49aa-b10d-e6fa6de5948c.png)
-
-## IB Educator Certificate Course Transcript 
-
-## IB Bilingual Education Workshop Certificate of Participation
-
-![image](https://user-images.githubusercontent.com/109213222/179465935-766dfb46-72b7-40e6-8dc4-027a8cbed8e1.png)
-
-## International Chinese Language Teaching Certificate of Participation
-
-![image](https://user-images.githubusercontent.com/109213222/179466080-5570b443-bc9c-46fc-b691-66de49b508a5.png)
-
-## TESOL Diploma
-
-![image](https://user-images.githubusercontent.com/109213222/179466727-80fb1463-10a3-4adc-90b7-d0ee80be22b7.png)
-
-
-## TEFL 120 Hours
-
-![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
-
-
-# Curriculum Development
+  ## -Curriculum Development
 
 The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate. 
 
@@ -223,28 +179,64 @@ Final topic: international-mindedness
 
 Group Inquiry Question: 
 
-How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
+  How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
 
-https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
+  https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
 
-# Honors
+  ## -Evaluation of Teaching & Educational Leadership
+
+> I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
+
+![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
+
+[boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
+
+## Professional Learning and Future Growth
+
+  ## -MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology 
+
+https://docs.google.com/document/d/1DKzvqS63BbkXQ8761YNgKmGeUz0J-vPa/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
+
+  ## -Academic Report- Grade A for Course EDUC 5010 Education in Context: History, Philosophy and Sociology 
+
+![image](https://user-images.githubusercontent.com/109213222/179459422-f399f5d0-fb72-49aa-b10d-e6fa6de5948c.png)
+
+  ## -IB Educator Certificate Course Transcript 
+
+  ## -IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
+
+![image](https://user-images.githubusercontent.com/109213222/179465935-766dfb46-72b7-40e6-8dc4-027a8cbed8e1.png)
+
+  ## -International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
+
+![image](https://user-images.githubusercontent.com/109213222/179466080-5570b443-bc9c-46fc-b691-66de49b508a5.png)
+
+  ## -TESOL Diploma
+
+![image](https://user-images.githubusercontent.com/109213222/179466727-80fb1463-10a3-4adc-90b7-d0ee80be22b7.png)
+
+  ## -TEFL 120 Hours
+
+![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
+
+  ## -Plans for Future Growth
+
+I would complete the MEd in 2025. After that, I would consider taking a degree in MBA. At the same time, I would go to Hong Kong to study the PGDE program as my mother has settled down in the region.
+
+## Honors
 
 Embassador of University of the People 
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
 
-# Plans for Future Growth
+## Associations 
 
-I would complete the MEd in 2025. After that, I would consider taking a degree in MBA. At the same time, I would go to Hong Kong to study the PGDE program as my mother has settled down in the region.
+IBO Official Website: https://www.ibo.org
 
-# Associations 
+The University of Windsor:https://www.uwindsor.ca/
+ 
+University of the People: https://www.uopeople.edu/
 
-[ibo.org](https://www.ibo.org)
-
-[The University of Windsor](https://www.uwindsor.ca/)
-
-[University of the People](https://www.uopeople.edu/)
-
-[world schools](https://world-schools.com/the-best-international-schools-in-asia/) 
+World schools:https://world-schools.com/the-best-international-schools-in-asia/
 
 
