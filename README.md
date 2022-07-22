@@ -23,7 +23,31 @@
 ## [Teaching and Learning](#teaching-and-learning)
   
   * [Key Elements of the IB PYP Program](#key-elements-of-the-IB-PYP-program)
-
+  
+  * [Principles of Lesson Planning](#principles-of-lesson-planning)
+  
+  * [Asessment Design](#assessment-design)
+  
+  * [Universal-design Learning](#Universal-design-learning)
+  
+  * [Differentiated Learning](#differentiated-learning)
+  
+  * [Visible Thinking Routines](#visible-thinking-routines)
+  
+  * [Computational Thinking](#computational-thinking)
+  
+  * [Cases](#cases)
+  
+  * ### [Early Learning System](#early-learning-system)
+  
+  * * The Reggio Emilia Approach
+  
+  * * Montessori
+  
+  * * EYFS
+  
+  * * IB
+  
   * [Unit of Inquiry](#unit-of-inquiry)
  
   * [Curriculum Development](#curriculum-development)
@@ -37,7 +61,7 @@
 ## [Honors](#honors)
     
 ## [Associations](#associations)
-  
+
 ## About me 
 
 > I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
