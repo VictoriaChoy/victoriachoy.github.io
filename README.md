@@ -72,7 +72,7 @@
 
 ![music academy](https://user-images.githubusercontent.com/109213222/179379911-a865d3f9-fbc7-424d-95d7-368a7c0b2fc6.JPG)
 
-##  * Self-introduction Video
+##  Self-introduction Video
 
 (https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing)
 
