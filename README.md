@@ -24,9 +24,11 @@
 
   * [Unit of Inquiry](#unit-of-inquiry)
  
-  * Curriculum Development](#curriculum-development)
+  * [Curriculum Development](#curriculum-development)
      
   * [Evaluation of Teaching](#evaluation-of-teaching)
+  
+  * [Evaluation of Educational Leadership](#evaluation-of-educational-leadership)
     
 ## [Professional Learning & Future Growth](#professional-learning)
   
@@ -183,13 +185,16 @@ Group Inquiry Question:
 
   https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true
 
-  ## -Evaluation of Teaching & Educational Leadership
+  ## -Evaluation of Teaching 
+  
+  ## -Evaluation of Educational Leadership
 
 > I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
 
 ![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
 
 [boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
+
 
 ## Professional Learning and Future Growth
 
