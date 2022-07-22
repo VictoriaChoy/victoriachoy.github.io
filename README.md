@@ -43,7 +43,7 @@
 
 ##  Transdisciplinary Projects and Hobbies
 
-  ## -3D Printing Project (STEAM)
+  ### 3D Printing Project (STEAM)
 
 ![3d printer](https://user-images.githubusercontent.com/109213222/179355995-9ea3d0c3-c83d-46fc-90d3-1b53b2af006d.JPG)
 
