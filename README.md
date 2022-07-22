@@ -4,13 +4,13 @@
 
 # Table of Contents
 
-# [About me](#About-me)
+## [About me](#About-me)
 
   * [Transdisciplinary Projects and Hobbies](#transdisciplinary-projects-and-hobbies)
 
   * [Self-introduction Video](#self-introduction-video)
 
-# [Teaching Philosophy](#teaching-philosophy)
+## [Teaching Philosophy](#teaching-philosophy)
 
   * [The Period of Self-awareness (2013-2014)](#the-period-of-self-awareness-2013-2014)
 
@@ -20,25 +20,25 @@
 
   * [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
 
-# [Teaching Documentation](#teaching-documentation)
+## [Teaching Documentation](#teaching-documentation)
 
   * [Unit of Inquiry](#unit-of-inquiry)
      
-# [Evaluation of Teaching](#evaluation-of-teaching)
+## [Evaluation of Teaching](#evaluation-of-teaching)
     
-# [Student Learning](#student-learning)
+## [Student Learning](#student-learning)
     
-# [Professional Learning](#professional-learning)
+## [Professional Learning](#professional-learning)
   
-# [Curriculum Development](#curriculum-development)
+## [Curriculum Development](#curriculum-development)
   
-# [Honors](#honors)
+## [Honors](#honors)
   
-# [Plans of Future Growth](#plans-for-future-growth)
+## [Plans of Future Growth](#plans-for-future-growth)
     
-# [Associations](#associations)
+## [Associations](#associations)
   
-# About me 
+## About me 
 
 > I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
