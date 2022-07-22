@@ -21,6 +21,8 @@
   * [The Period of Identity Construction (2021-now)](#the-period-of-identity-establishment-2021--now)
 
 ## [Teaching and Learning](#teaching-and-learning)
+  
+  * [Key Elements of the IB PYP Program](#key-elements-of-the-IB-PYP-program)
 
   * [Unit of Inquiry](#unit-of-inquiry)
  
