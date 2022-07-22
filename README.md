@@ -97,7 +97,7 @@ https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-e
 
 ![ef 50](https://user-images.githubusercontent.com/109213222/179381872-a5ed300a-3dfd-4422-8490-607b2a53ac7f.JPG)
 
-Based on my childhood experience with my mom who taught me how to make origami toys, I understood that students would love this hands-on approach, so I incorporated it into lesson planning, which aimed to develop children's understanding of lines and symmetrical shapes, related to story characters and new vocabularies such as animals, clothes and home furniture. Sometimes parents would help their small children with some steps. They were always welcome to attend our classes and activities. The involvement of parents faciliated student learning and built a strong connection among students, parents and the school. I would say the humanistic approach I have adopted based on students’ interest, agency, self-efficacy, and the learning community has prepared me to “internalize” IB methodology, according to my IB instructors. 
+> Based on my childhood experience with my mom who taught me how to make origami toys, I understood that students would love this hands-on approach, so I incorporated it into lesson planning, which aimed to develop children's understanding of lines and symmetrical shapes, related to story characters and new vocabularies such as animals, clothes and home furniture. Sometimes parents would help their small children with some steps. They were always welcome to attend our classes and activities. The involvement of parents faciliated student learning and built a strong connection among students, parents and the school. I would say the humanistic approach I have adopted based on students’ interest, agency, self-efficacy, and the learning community has prepared me to “internalize” IB methodology, according to my IB instructors. 
 
   ## -Origami Animals for Puppetry Theater and Rewards (2-4 years old) (Literacy, Natural Science, Math)
 
@@ -107,13 +107,13 @@ Based on my childhood experience with my mom who taught me how to make origami t
 
   ## -Movable Origami Monkey for Grammar Drill (6-7 years old)
 
-The project was developed for both receptive and productive skills. Students learned to say the prepositional phrases and sentence patterns of positions while being engaged with the movable origami monkey. Grammar has been the most painful learning experience for early learners with their logic thinking still developing, so the hands-on transdisciplinary approach fostered students' interest in learing grammar, avoiding the most-used tedious drills. When students completed their own projects, they practice productive skills with a sense of achievement boosting their self-efficacy, and in turn, enhancing their agency.  
+> The project was developed for both receptive and productive skills. Students learned to say the prepositional phrases and sentence patterns of positions while being engaged with the movable origami monkey. Grammar has been the most painful learning experience for early learners with their logic thinking still developing, so the hands-on transdisciplinary approach fostered students' interest in learing grammar, avoiding the most-used tedious drills. When students completed their own projects, they practice productive skills with a sense of achievement boosting their self-efficacy, and in turn, enhancing their agency.  
 
 ![mobile monkey](https://user-images.githubusercontent.com/109213222/179360441-f9b9ae98-367c-4f09-ae0a-982eb9430ef6.JPG)
 
   ## -2D Shapes Developed into 3D Projects (3-5 years old)
 
-The projects were for an unit of 2D shapes from _Journeys_ , a famous reading program for grades K-6 published by Houghton Mifflin Harcourt. In order for preschoolers to inquire about the shapes and their attributes with a hands-on approach, I developed the projects as models for students to talk about what they could build with the shapes, connecting with their prior knowledge of flowers, arts, handicraft (wind chime), and robot toys. 
+> The projects were for an unit of 2D shapes from _Journeys_ , a famous reading program for grades K-6 published by Houghton Mifflin Harcourt. In order for preschoolers to inquire about the shapes and their attributes with a hands-on approach, I developed the projects as models for students to talk about what they could build with the shapes, connecting with their prior knowledge of flowers, arts, handicraft (wind chime), and robot toys. 
 
 ![3d shapes](https://user-images.githubusercontent.com/109213222/179360363-0ab0b4bf-2188-42a3-82ce-cb016e50fda6.JPG)
 
@@ -123,7 +123,7 @@ The projects were for an unit of 2D shapes from _Journeys_ , a famous reading pr
 
   ## -Children's Day Gathering
 
-Families were invited to join our celebration of Children's Day that has been the happiest day of children in the year. Shows were put on in an exhibition style. All children learned something from the center, and their parents felt very proud of it. 
+> Families were invited to join our celebration of Children's Day that has been the happiest day of children in the year. Shows were put on in an exhibition style. All children learned something from the center, and their parents felt very proud of it. 
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
@@ -133,13 +133,13 @@ Families were invited to join our celebration of Children's Day that has been th
 
 ![image](https://user-images.githubusercontent.com/109213222/179455511-ff99281c-70e4-45ee-98cf-d80f49ca64d5.png)
 
-Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA. 
+> Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA. 
 
-As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
+> As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education. 
 
 ## The Period of Collaboration and Leadership (2017-now)
 
-I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, holiday celebrations, puppetry theater for marketing, and parental meetings. 
+> I made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, holiday celebrations, puppetry theater for marketing, and parental meetings. 
 
 ![prototype door](https://user-images.githubusercontent.com/109213222/179357124-7f973710-7a68-4173-9bc3-891e55eb436c.JPG)
 
@@ -151,7 +151,7 @@ I made prototypes for teachers to decorate their classrooms, sampled photoframes
 
   ## -Picture Book Project
 
-The book is about a birthday party from _Oxford Reading Tree_ with an ort program to operate on the computer. Apart from using the interactive white board with the program, we used the project-based approach to engage early learners based on different teacher strengths. The idea of mango slices arranged in the shape of a birthday cake with letter-shaped biscuits was co-deveoped by the team. The white board decorated with balloons and laminated letter cards served as a setting for early learners to put on a puppet show in the same theme.
+> The book is about a birthday party from _Oxford Reading Tree_ with an ort program to operate on the computer. Apart from using the interactive white board with the program, we used the project-based approach to engage early learners based on different teacher strengths. The idea of mango slices arranged in the shape of a birthday cake with letter-shaped biscuits was co-deveoped by the team. The white board decorated with balloons and laminated letter cards served as a setting for early learners to put on a puppet show in the same theme.
 
 ![birthday](https://user-images.githubusercontent.com/109213222/179357622-c09abe75-21f0-4957-8420-de2d79a95d84.JPG)
 
@@ -159,14 +159,14 @@ The book is about a birthday party from _Oxford Reading Tree_ with an ort progra
 
   ## -Puppetry Show for Marketing
 
-This show was organized for the marketing department targeting the age group from toddlers to lower-primary students. We first created a forest setting with cardboards, drawings and glue gun. Then teachers were paired to put on one mini-show, keeping in mind effective interaction with the audience. A section was designed for children volunteers to take part in the show with English expressions learned on the spot. 
+> This show was organized for the marketing department targeting the age group from toddlers to lower-primary students. We first created a forest setting with cardboards, drawings and glue gun. Then teachers were paired to put on one mini-show, keeping in mind effective interaction with the audience. A section was designed for children volunteers to take part in the show with English expressions learned on the spot. 
 
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
 
 
 ## The Period of Identity Establishment (2021- now)
 
-In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. During the journey of inquiry about my own identity and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. 
+> In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. During the journey of inquiry about my own identity and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. 
 
 # Teaching Documentation
 
@@ -177,7 +177,7 @@ https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=shari
 
 # Evaluation of Teaching & Educational Leadership
 
-I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
+> I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
 
 ![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
 
