@@ -32,7 +32,7 @@
   
   * [Evaluation of Educational Leadership](#evaluation-of-educational-leadership)
     
-## [Professional Learning & Future Growth](#professional-learning)
+## [Professional Learning and Future Growth](#professional-learning-and-future-growth)
   
 ## [Honors](#honors)
     
