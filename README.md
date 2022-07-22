@@ -59,9 +59,9 @@
 2.1 The Period of Self-awareness (2012-2013)
 > After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
 
-<https://user-images.githubusercontent.com/109213222/179381242-ff499c02-a2a7-47dd-9d92-db34cdb5343f.PNG>)
+![image](https://user-images.githubusercontent.com/109213222/180481037-0904f246-a3b4-45da-ab66-4858b22d69ba.png)
 
-[robot](https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html)
+[ABB robot arms](https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html)
 
 * _How English testing is failing Chinese students by driving numbers, not proficiency_
 
