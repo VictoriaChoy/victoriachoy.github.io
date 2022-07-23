@@ -157,7 +157,7 @@ Here is an example.
 
 My instructor's feedback of my reflection on the experience is below.
 
-image.png
+![image](https://user-images.githubusercontent.com/109213222/180602136-7b599cfb-08e6-457e-b81f-83334067c22e.png)
 
 A link to my entire journal.
 
@@ -185,18 +185,41 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 > The trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
+![image](https://user-images.githubusercontent.com/109213222/180602369-c5bd72de-89c7-41d0-a030-f53cfc330131.png)
 
-
->He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
-
-
-
+> He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
 
 3.1.2 An Engaging Instructor
 
-3.1.3 A Life-long Inquirer
+I have been practicing the project-based and hands-on approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning. I also rely on my personality and body language to engage early learners. Here are some examples.
 
-3.1.4 A Collaborator and Dedicated Servant for the Learning Community
+Laminated paper roulettes were used for phonics and counting toys with literacy.
+
+![image](https://user-images.githubusercontent.com/109213222/180602600-5ef1d5a8-7716-4e25-9d49-d26fc48985aa.png)
+
+![image](https://user-images.githubusercontent.com/109213222/180602593-f66f6700-5d79-4433-a7e8-4db96426ddcc.png)
+
+The letter monster was designed for phonics, including phonetic proficiency associated with the recognition of letter shapes. 
+
+![image](https://user-images.githubusercontent.com/109213222/180603083-ae0feb26-dfef-4779-aea6-7696da46bb96.png)
+
+I pretended to cover my ears to encourage students' loud responses. 
+
+![image](https://user-images.githubusercontent.com/109213222/180603091-f67369e2-d909-4527-b43d-018b2be33e7f.png)
+
+The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the transdisciplinary theme "how the world works", emphasising the impact of human activities on the nature. 
+
+![image](https://user-images.githubusercontent.com/109213222/180602906-82471b49-7236-4b7b-952d-ade6a3dc5c77.png)
+
+Students were being dressed up like the characters in the picture book about a constume party from _Oxford Reading Tree_. 
+
+![image](https://user-images.githubusercontent.com/109213222/180603186-a731ac18-0a3d-4ba7-bb6d-3d2361222413.png)
+
+
+3.1.3 A Collaborator and Dedicated Servant for the Learning Community
+
+3.1.4 A Life-long Inquirer
+
 
 3.3 Researches for Teaching
 
