@@ -148,26 +148,66 @@
 
 2.4 The Period of Identity Establishment (2021- now)
 
-> In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
-> Since I began to learn IB educator certificate at the University of Windsor, I have been inquiring about my own identity, who I am for myself, my family, my friends, my students, and my country. With some preliminary research on international-mindedness in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the eastern humanism represented by Confucianism and the western humanism. Then more findings have been connecting with each other enabling me to make new meanings of what I can do as an IB educator, and analyze critically the similarities and differences between IB philosophy and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible integration.
+> During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
+
+Here is an example.
+
+> In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between western educational philosophy and traditional Chinese counterpart because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with positive discipline (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in discipline, cooperative learning, autonomous leadership, and initiative in learning.
+> Therefore, I thought the western humanism with an emphasis on “human freedom, natural goodness, human growth and potential, personal and social values” (Sharpes, 2013, p.158) triumphed over the traditional Chinese philosophy which emphasized teacher authority and student obedience. Then I saw the possibility to integrate the two philosophies when I read George Walker’s (2010) _East is East and West is West_ forwarded by my IB instructor, after reflecting on the universal education of values for the common good of mankind in all educational systems, despite Walker’s acknowledgement that “international education is not truly international but developed from a very influential Western humanist tradition of learning” (p.6).
+
+My instructor's feedback of my reflection on the experience is below.
+
+image.png
+
+A link to my entire journal.
+
+<https://docs.google.com/document/d/1LpDPu2gfndcJ6MJpE2lHohhNA4qhAO1sWHOJ09Vsb6c/edit?usp=sharing>
+
+> Since I began to learn IB educator certificate at the University of Windsor, the inquiry about my own identity has become increasingly clear, i.e. who I am for myself, my family, my friends, my students, and my country. With some preliminary research on international-mindedness in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the eastern humanism represented by Confucianism and the western humanism. Having been learning the MEd. at University of the People, I was able to connect more findings with each other, enabling myself to make new meanings of what I can do as an IB educator, and analyze critically the similarities and differences between IB philosophy and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible integration.
+
+References:
+
+Dr. Jane Nelsen, _Positive Discipline_
+
+<https://www.positivediscipline.com/>
+
+George Walker, 2010, _East is East and West is West_
+
+<https://www.ibo.org/globalassets/publications/east-is-east-and-west-is-west-en.pdf>
+
+Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational foundations for teachers: The history, philosophy, and culture of schooling_ (pp. 399-430)
 
 ### Teaching and Learning
 
-3.1 Key Elements of the IB PYP Program
+> My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
 
-3.2 Principles of Lesson Planning
+3.1.1 A Facilitator of Learning
 
-3.3 Assessment Design
+> The trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
-3.4 Universal-design Learning
 
-3.5 Differentiated Instruction
 
-3.6 Visible thinking routines
+>He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
 
-3.7 Design Thinking
 
-3.8 Computational Thinking
+
+
+3.1.2 An Engaging Instructor
+
+3.1.3 A Life-long Inquirer
+
+3.1.4 A Collaborator and Dedicated Servant for the Learning Community
+
+3.3 Researches for Teaching
+
+3.3.1 Assessment Design
+
+3.3.2 Universal-design Learning
+
+3.3.3 Differentiated Instruction
+
+3.3.4 Visible thinking routines
+
 
 3.9 Cases
 
@@ -206,16 +246,15 @@ Group Inquiry Question:
 3.9.6 University Interdisciplinary Learning (Adults)
 
 3.9.7 IELTS Exam-Preparation
-
-3.10 Evaluation of Teaching
   
-3.11 Evaluation of Educational Leadership
+3.11  Educational Leadership
 
 > I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
 
 ![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
 
 [boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
+
 
 ### Professional Learning and Future Growth
 
