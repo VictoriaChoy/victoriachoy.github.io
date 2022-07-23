@@ -61,7 +61,7 @@
 
 [ABB robot arms](https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html)
 
-* _How English testing is failing Chinese students by driving numbers, not proficiency_
+-_How English testing is failing Chinese students by driving numbers, not proficiency_
 
 ![image](https://user-images.githubusercontent.com/109213222/179449911-7e20fb5c-334d-44c7-adb4-f29d5e99d588.png)
 
@@ -69,7 +69,7 @@
 
 2.2 The Period of Practice & Collaboration (2014-2017)
 
-> The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
+> The journey began when I got an offer as an ESL teacher from English First, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
 
 2.2.1 EF 50th Anniversary Party
 
@@ -112,7 +112,6 @@
 ![image](https://user-images.githubusercontent.com/109213222/179455511-ff99281c-70e4-45ee-98cf-d80f49ca64d5.png)
 
 > Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA.
-
 > As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education.
 
 2.3 The Period of Collaboration and Leadership (2017-now)
@@ -148,7 +147,6 @@
 2.4 The Period of Identity Establishment (2021- now)
 
 > In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found such a large amount of resonance in IB philosophical cornerstones and methodology.
-
 > Since I began to learn IB educator certificate at the University of Windsor, I have been inquiring about my own identity, who I am for myself, my family, my friends, my students, and my country. With some preliminary research on international-mindedness in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the eastern humanism represented by Confucianism and the western humanism. Then more findings have been connecting with each other enabling me to make new meanings of what I can do for the people I know, and analyze critically the similarities and differences between IB philosophy and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible integration.
 
 ## Teaching and Learning
