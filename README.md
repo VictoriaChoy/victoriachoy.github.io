@@ -1,22 +1,22 @@
-# Welcome to Victoria's Teaching Portfolio
+![image](https://user-images.githubusercontent.com/109213222/180589525-f493dc18-ae35-4d93-ac45-361f3187fd7e.png)
 
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
 
-## Table of Contents
+# Table of Contents
 
-### [About me](#About-me)
+## [About me](#About-me)
 
-### [Teaching Philosophy](#teaching-philosophy)
+## [Teaching Philosophy](#teaching-philosophy)
 
-### [Teaching and Learning](#teaching-and-learning)
+## [Teaching and Learning](#teaching-and-learning)
   
-### [Professional Learning and Future Growth](#professional-learning-and-future-growth)
+## [Professional Learning and Future Growth](#professional-learning-and-future-growth)
   
-### [Honors](#honors)
+## [Honors](#honors)
 
-### [Associations](#associations)
+## [Associations](#associations)
 
-### About me
+## About me
 
 > I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
@@ -52,7 +52,7 @@
 
 <https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing>
 
-### Teaching Philosophy
+## Teaching Philosophy
 
 > My preliminary understanding of teaching philosophy is about the student-based methodology. I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching when I began to study the first course for the IB educator certificate in the early 2021. Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's progressivism, Freire Paulo's critical pedagogy, and humanism, especially the new humanism proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart. The journey of inquiry about my teaching philosophy turns out impactful for the rest of my life and those I know that would like to become part of IB's global community. Please spare me a few minutes to talk about my story of inquiry.
 
@@ -153,7 +153,7 @@
 
 > Since I began to learn IB educator certificate at the University of Windsor, I have been inquiring about my own identity, who I am for myself, my family, my friends, my students, and my country. With some preliminary research on international-mindedness in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the eastern humanism represented by Confucianism and the western humanism. Then more findings have been connecting with each other enabling me to make new meanings of what I can do for the people I know, and analyze critically the similarities and differences between IB philosophy and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible integration.
 
-### Teaching and Learning
+## Teaching and Learning
 
 3.1 Key Elements of the IB PYP Program
 
@@ -219,7 +219,7 @@ Group Inquiry Question:
 
 [boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
 
-### Professional Learning and Future Growth
+## Professional Learning and Future Growth
 
 > I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, fousing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
 
@@ -257,13 +257,13 @@ Group Inquiry Question:
 
 ![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
 
-### Honors
+## Honors
 
 Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
 
-### Associations
+## Associations
 
 IBO Official Website: <https://www.ibo.org>
 
