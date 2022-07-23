@@ -1,8 +1,6 @@
-![image](https://user-images.githubusercontent.com/109213222/180589525-f493dc18-ae35-4d93-ac45-361f3187fd7e.png)
+# Welcome to Victoria's Teaching Portfolio
 
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
-
-# Table of Contents
 
 ## [About me](#About-me)
 
