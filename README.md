@@ -146,6 +146,10 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/180367806-26a6124c-fd3f-4c2b-b73d-7e8100fe01d8.png)
 
+<https://www.xiaohongshu.com/discovery/item/62dbdfdb000000001c023a15?share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=5f001acd000000000101c1ea&apptime=1658576896
+
+
+
 2.4 The Period of Identity Establishment (2021- now)
 
 > During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
