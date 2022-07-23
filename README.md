@@ -2,17 +2,19 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
 
-## [About me](#About-me)
+## Table of Contents
 
-## [Teaching Philosophy](#teaching-philosophy)
+- [About me](#about-me-1)
 
-## [Teaching and Learning](#teaching-and-learning)
+- [Teaching Philosophy](#teaching-philosophy-1)
+
+- [Teaching and Learning](#teaching-and-learning-1)
+
+- [Professional Learning and Future Growth](#professional-learning-and-future-growth-1)
   
-## [Professional Learning and Future Growth](#professional-learning-and-future-growth)
+- [Honors](#honors-1)
   
-## [Honors](#honors)
-
-## [Associations](#associations)
+- [Associations](#associations-1)
 
 ## About me
 
