@@ -16,6 +16,8 @@
   
 ### [Associations](#associations-1)
 
+### [Appendix](#appendix)
+
 ### About me
 
 > I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
@@ -51,6 +53,8 @@
 1.2 Self-introduction Video
 
 <https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing>
+
+1.3 Curriculum Vitae (Appendix)
 
 ### Teaching Philosophy
 
@@ -336,3 +340,5 @@ The University of Windsor: <https://www.uwindsor.ca/>
 University of the People: <https://www.uopeople.edu/>
 
 World schools: <https://world-schools.com/the-best-international-schools-in-asia/>
+
+### Appendix
