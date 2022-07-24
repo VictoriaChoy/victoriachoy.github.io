@@ -111,6 +111,8 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
+<https://drive.google.com/file/d/1xAkCkrUeWsXuJvFko970tSpCUrzth0b8/view?usp=sharing
+
 2.2.6 Weekly Life Club: teachers take turns to host the life club in different themes at the big kitchen with a projector, a screen and a host computer, so that students could take related classes and prepare snack food.
 
 ![image](https://user-images.githubusercontent.com/109213222/179455485-3be4634d-cc75-4dae-b130-a77a0ada0746.png)
@@ -148,10 +150,20 @@
 
 2.3.4 Bilingual Day-care Centers
 
+* Xiamen in Southeast China
+
+Children had meals and snacks in the centers. 
 ![image](https://user-images.githubusercontent.com/109213222/180367806-26a6124c-fd3f-4c2b-b73d-7e8100fe01d8.png)
 
-<https://www.xiaohongshu.com/discovery/item/62dbdfdb000000001c023a15?share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=5f001acd000000000101c1ea&apptime=1658576896
+A 2.5-year-old boy was learning a color song with props.
+<https://drive.google.com/file/d/1Tr8XCpxpgox_XP06h-I4iE3dNEhDwoIO/view?usp=sharing
 
+A 3-year-old girl was reading a picture book with me. 
+<https://drive.google.com/file/d/17UjjaSI7bLDH6NAJwu4rTTVggo-SNZkO/view?usp=sharing
+
+We were having a whisper game in small-group competition. 
+
+* Shenzhen in South China
 
 
 2.4 The Period of Identity Establishment (2021- now)
@@ -207,7 +219,7 @@ Laminated paper roulettes were used for phonics and counting toys with literacy.
 
 ![image](https://user-images.githubusercontent.com/109213222/180602593-f66f6700-5d79-4433-a7e8-4db96426ddcc.png)
 
-The letter monster was designed for phonics, including phonetic proficiency associated with the recognition of letter shapes. 
+The letter monster was designed for phonics, including phonetic proficiency associated with the recognition of letter shapes. Students had fun fetching a card from the monster's mouth and shouting out the names of letters as in a competition.
 
 ![image](https://user-images.githubusercontent.com/109213222/180603083-ae0feb26-dfef-4779-aea6-7696da46bb96.png)
 
@@ -223,6 +235,14 @@ Students were being dressed up like the characters in the picture book about a c
 
 ![image](https://user-images.githubusercontent.com/109213222/180603186-a731ac18-0a3d-4ba7-bb6d-3d2361222413.png)
 
+The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, Everybody Up Foundation (2nd edition),extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after full understanding of the knowledge with her own writing of the key sentences on the white board, but was able to make a second attempt.
+
+Presentation Video of Patterns in the Sky
+<https://drive.google.com/file/d/1MR9TBoj8cyTyx52IND9_KeoewJfjLIwV/view?usp=sharing
+
+The Link to _Generation Genius_ Science Lessons
+
+https://www.generationgenius.com/patterns-in-the-sky-reading-material/
 
 3.1.3 A Collaborator and Dedicated Servant for the Learning Community
 
