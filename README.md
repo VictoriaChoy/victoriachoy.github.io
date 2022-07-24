@@ -213,7 +213,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 > My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
 
-1.1. A Facilitator of Learning
+1.1. A Facilitator of Learning and Personal Growth
 
 > The trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
