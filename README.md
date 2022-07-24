@@ -176,7 +176,7 @@ Circle Time with Toddlers, Parents, and Teachers
 
 Toddlers were "talking" about a picture book.
 
-<https://drive.google.com/file/d/1WxT9zyXeVjILTAb47PpF8oIuLQEwkMHS/view?usp=sharing
+<https://drive.google.com/file/d/1WxT9zyXeVjILTAb47PpF8oIuLQEwkMHS/view?usp=sharing>
 
 2.4 The Period of Identity Establishment (2021- now)
 
@@ -213,7 +213,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 > My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
 
-3.1.1 A Facilitator of Learning
+1.1. A Facilitator of Learning
 
 > The trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
@@ -221,7 +221,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 > He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
 
-3.1.2 An Engaging Instructor
+1.2. An Engaging Instructor
 
 I have been practicing the project-based and hands-on approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning. I also rely on my personality and body language to engage early learners. Here are some examples.
 
@@ -263,48 +263,49 @@ After learning English for three months, the girl started to dub picture books v
 
 <https://moive2.qupeiyin.com/home/show/share?id=MDAwMDAwMDAwMLGHyKqAobqWsbeIZQ>
 
-Project-based Learning about Sea Animals (Literacy, Natural Science and Arts)
+Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science and Arts)
 
 ![image](https://user-images.githubusercontent.com/109213222/180644012-90f2853b-9e83-484c-afe3-fbd86cddc60b.png)
 
-
-3.1.3 A Collaborator and Dedicated Servant for the Learning Community
-
+1.3. A Collaborator and Dedicated Servant for the Learning Community
 
 
-3.1.4 A Life-long Inquirer
 
-3.3 Researches for Teaching
+1.4. A Life-long Inquirer
 
-3.3.1 Assessment Design
+1.5. A Researcher
 
-3.3.2 Universal-design Learning
+2.0 Assessment Design
 
-3.3.3 Differentiated Instruction
+3.0 Universal-design Learning
 
-3.3.4 Visible thinking routines
+4.0 Differentiated Instruction
 
-3.9 Cases
+5.0 Visible thinking routines
 
-3.9.1 Early Learning Systems (1.5-12 years old)
+6.0 Cases
 
-3.9.1.1 Reggio Emilia approach
+6.1 Early Learning Systems (1.5-12 years old)
 
-3.9.1.2 Montessori
+6.1.1 Reggio Emilia approach
 
-3.9.1.3 EYFS
+6.1.2 Montessori
 
-3.9.1.4 IB
+6.1.3 EYFS
 
-3.9.2 Unit of Inquiry
+6.1.4 IB
 
-The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
+7.0 Unit of Inquiry
+
+7.1 The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
 
 <https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing>
 
-3.9.3 Curriculum Development
+7.2 The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
 
-The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
+8.0 Curriculum Development
+
+8.1 The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
 
 Final topic: international-mindedness
 
@@ -314,15 +315,18 @@ Group Inquiry Question:
 
 <https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true>
 
-3.9.4 Lower-secondary English (12-15 years old)
+8.2 Lower-secondary English (12-15 years old)
 
-3.9.5 Upper-secondary English (15-18 years old)
+The 
+_Our World_
 
-3.9.6 University Interdisciplinary Learning (Adults)
+8.3  Upper-secondary English (15-18 years old)
 
-3.9.7 IELTS Exam-Preparation
+8.4  University Interdisciplinary Learning (Adults)
+
+8.5 IELTS Exam-Preparation
   
-3.11  Educational Leadership
+9.0  Educational Leadership
 
 > I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
 
@@ -334,15 +338,15 @@ Group Inquiry Question:
 
 > I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, fousing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
 
-4.1 MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
+1.0 MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
 
 <https://docs.google.com/document/d/1DKzvqS63BbkXQ8761YNgKmGeUz0J-vPa/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true>
 
-4.2 Academic Report- Grade A for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
+2.0 Academic Report- Grade A for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
 
 ![image](https://user-images.githubusercontent.com/109213222/179459422-f399f5d0-fb72-49aa-b10d-e6fa6de5948c.png)
 
-4.3 IB Educator Certificate Course Transcript
+3.0 IB Educator Certificate Course Transcript
 
 ![image](https://user-images.githubusercontent.com/109213222/180366410-e0aad636-758b-4723-be60-08a097b44989.png)
 
@@ -352,19 +356,19 @@ Group Inquiry Question:
 
 ![image](https://user-images.githubusercontent.com/109213222/180366480-14c7c25b-637c-425e-86d1-02def6777856.png)
 
-4.4 IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
+4.0 IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
 
 ![image](https://user-images.githubusercontent.com/109213222/179465935-766dfb46-72b7-40e6-8dc4-027a8cbed8e1.png)
 
-4.5 International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
+5.0 International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
 
 ![image](https://user-images.githubusercontent.com/109213222/179466080-5570b443-bc9c-46fc-b691-66de49b508a5.png)
 
-4.6 TESOL Diploma
+6.0 TESOL Diploma
 
 ![image](https://user-images.githubusercontent.com/109213222/179466727-80fb1463-10a3-4adc-90b7-d0ee80be22b7.png)
 
-4.7 TEFL 120 Hours
+7.0 TEFL 120 Hours
 
 ![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
 
@@ -385,3 +389,6 @@ University of the People: <https://www.uopeople.edu/>
 World schools: <https://world-schools.com/the-best-international-schools-in-asia/>
 
 ### Appendix
+
+1. CV
+2. Reference Letters
