@@ -165,6 +165,10 @@ We were having a whisper game in small-group competition.
 
 * Shenzhen in South China
 
+Circle Time with Students, Parents, and Teachers
+
+![image](https://user-images.githubusercontent.com/109213222/180633120-6ec0e06d-4a8e-4154-b531-0b42e79702b0.png)
+
 
 2.4 The Period of Identity Establishment (2021- now)
 
