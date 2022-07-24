@@ -228,7 +228,6 @@ Students were being dressed up like the characters in the picture book about a c
 
 3.1.4 A Life-long Inquirer
 
-
 3.3 Researches for Teaching
 
 3.3.1 Assessment Design
