@@ -16,7 +16,7 @@
   
 ### [Associations](#associations-1)
 
-### [Appendix](#appendix)
+### [Appendix](#appendix-1)
 
 ### About me
 
@@ -111,7 +111,7 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
-<https://drive.google.com/file/d/1xAkCkrUeWsXuJvFko970tSpCUrzth0b8/view?usp=sharing
+<https://drive.google.com/file/d/1xAkCkrUeWsXuJvFko970tSpCUrzth0b8/view?usp=sharing>
 
 2.2.6 Weekly Life Club: teachers take turns to host the life club in different themes at the big kitchen with a projector, a screen and a host computer, so that students could take related classes and prepare snack food.
 
@@ -150,25 +150,26 @@
 
 2.3.4 Bilingual Day-care Centers
 
-* Xiamen in Southeast China
+-Xiamen in Southeast China
 
-Children had meals and snacks in the centers. 
+Children had meals and snacks in the centers.
 ![image](https://user-images.githubusercontent.com/109213222/180367806-26a6124c-fd3f-4c2b-b73d-7e8100fe01d8.png)
 
 A 2.5-year-old boy was learning a color song with props.
-<https://drive.google.com/file/d/1Tr8XCpxpgox_XP06h-I4iE3dNEhDwoIO/view?usp=sharing
 
-A 3-year-old girl was reading a picture book with me. 
-<https://drive.google.com/file/d/17UjjaSI7bLDH6NAJwu4rTTVggo-SNZkO/view?usp=sharing
+<https://drive.google.com/file/d/1Tr8XCpxpgox_XP06h-I4iE3dNEhDwoIO/view?usp=sharing>
 
-We were having a whisper game in small-group competition. 
+A 3-year-old girl was reading a picture book with me.
 
-* Shenzhen in South China
+<https://drive.google.com/file/d/17UjjaSI7bLDH6NAJwu4rTTVggo-SNZkO/view?usp=sharing>
+
+We were having a whisper game in small-group competition.
+
+-Shenzhen in South China
 
 Circle Time with Students, Parents, and Teachers
 
 ![image](https://user-images.githubusercontent.com/109213222/180633120-6ec0e06d-4a8e-4154-b531-0b42e79702b0.png)
-
 
 2.4 The Period of Identity Establishment (2021- now)
 
@@ -227,26 +228,27 @@ The letter monster was designed for phonics, including phonetic proficiency asso
 
 ![image](https://user-images.githubusercontent.com/109213222/180603083-ae0feb26-dfef-4779-aea6-7696da46bb96.png)
 
-I pretended to cover my ears to encourage students' loud responses. 
+I pretended to cover my ears to encourage students' loud responses.
 
 ![image](https://user-images.githubusercontent.com/109213222/180603091-f67369e2-d909-4527-b43d-018b2be33e7f.png)
 
-The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the transdisciplinary theme "how the world works", emphasising the impact of human activities on the nature. 
+The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the transdisciplinary theme "how the world works", emphasising the impact of human activities on the nature.
 
 ![image](https://user-images.githubusercontent.com/109213222/180602906-82471b49-7236-4b7b-952d-ade6a3dc5c77.png)
 
-Students were being dressed up like the characters in the picture book about a constume party from _Oxford Reading Tree_. 
+Students were being dressed up like the characters in the picture book about a constume party from _Oxford Reading Tree_.
 
 ![image](https://user-images.githubusercontent.com/109213222/180603186-a731ac18-0a3d-4ba7-bb6d-3d2361222413.png)
 
 The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, Everybody Up Foundation (2nd edition),extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after full understanding of the knowledge with her own writing of the key sentences on the white board, but was able to make a second attempt.
 
 Presentation Video of Patterns in the Sky
-<https://drive.google.com/file/d/1MR9TBoj8cyTyx52IND9_KeoewJfjLIwV/view?usp=sharing
+
+<https://drive.google.com/file/d/1MR9TBoj8cyTyx52IND9_KeoewJfjLIwV/view?usp=sharing>
 
 The Link to _Generation Genius_ Science Lessons
 
-https://www.generationgenius.com/patterns-in-the-sky-reading-material/
+<https://www.generationgenius.com/patterns-in-the-sky-reading-material/>
 
 3.1.3 A Collaborator and Dedicated Servant for the Learning Community
 
@@ -261,7 +263,6 @@ https://www.generationgenius.com/patterns-in-the-sky-reading-material/
 3.3.3 Differentiated Instruction
 
 3.3.4 Visible thinking routines
-
 
 3.9 Cases
 
@@ -308,7 +309,6 @@ Group Inquiry Question:
 ![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
 
 [boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
-
 
 ### Professional Learning and Future Growth
 
