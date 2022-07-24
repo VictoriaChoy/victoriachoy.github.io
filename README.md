@@ -150,7 +150,7 @@
 
 2.3.4 Bilingual Day-care Centers
 
--Xiamen in Southeast China
+* Xiamen in Southeast China
 
 Children had meals and snacks in the centers.
 
@@ -166,11 +166,17 @@ A 3-year-old girl was reading a picture book with me.
 
 We were having a whisper game in small-group competition for primary students.
 
--Shenzhen in South China
+![image](https://user-images.githubusercontent.com/109213222/180641850-bf0c6854-a6c6-43ec-aa6d-cf67b2cbaf1c.png)
 
-Circle Time with Students, Parents, and Teachers
+* Shenzhen in South China
+
+Circle Time with Toddlers, Parents, and Teachers
 
 ![image](https://user-images.githubusercontent.com/109213222/180633120-6ec0e06d-4a8e-4154-b531-0b42e79702b0.png)
+
+Toddlers were "talking" about a picture book.
+
+<https://drive.google.com/file/d/1WxT9zyXeVjILTAb47PpF8oIuLQEwkMHS/view?usp=sharing
 
 2.4 The Period of Identity Establishment (2021- now)
 
@@ -211,7 +217,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 > The trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
-![image](https://user-images.githubusercontent.com/109213222/180602369-c5bd72de-89c7-41d0-a030-f53cfc330131.png)
+![image](https://user-images.githubusercontent.com/109213222/180643507-baec0f9e-44a0-4947-bd76-6326bf526b15.png)
 
 > He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
 
@@ -256,6 +262,11 @@ Phonics Reading Dubbing
 After learning English for three months, the girl started to dub picture books via an app that provides evaluation reports on the speaking quality. The girl felt very proud with the feedbacks and grades as positive reinforcement to motivate her further efforts.
 
 <https://moive2.qupeiyin.com/home/show/share?id=MDAwMDAwMDAwMLGHyKqAobqWsbeIZQ>
+
+Project-based Learning about Sea Animals (Literacy, Natural Science and Arts)
+
+![image](https://user-images.githubusercontent.com/109213222/180644012-90f2853b-9e83-484c-afe3-fbd86cddc60b.png)
+
 
 3.1.3 A Collaborator and Dedicated Servant for the Learning Community
 
