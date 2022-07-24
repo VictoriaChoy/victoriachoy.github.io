@@ -153,6 +153,7 @@
 -Xiamen in Southeast China
 
 Children had meals and snacks in the centers.
+
 ![image](https://user-images.githubusercontent.com/109213222/180367806-26a6124c-fd3f-4c2b-b73d-7e8100fe01d8.png)
 
 A 2.5-year-old boy was learning a color song with props.
@@ -163,7 +164,7 @@ A 3-year-old girl was reading a picture book with me.
 
 <https://drive.google.com/file/d/17UjjaSI7bLDH6NAJwu4rTTVggo-SNZkO/view?usp=sharing>
 
-We were having a whisper game in small-group competition.
+We were having a whisper game in small-group competition for primary students.
 
 -Shenzhen in South China
 
@@ -240,9 +241,9 @@ Students were being dressed up like the characters in the picture book about a c
 
 ![image](https://user-images.githubusercontent.com/109213222/180603186-a731ac18-0a3d-4ba7-bb6d-3d2361222413.png)
 
-The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, Everybody Up Foundation (2nd edition),extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after full understanding of the knowledge with her own writing of the key sentences on the white board, but was able to make a second attempt.
+The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but was able to make more attempts after my encouragement. Although she was quick-tempered, unable to concentrate for tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
 
-Presentation Video of Patterns in the Sky
+Presentation Video of _Patterns in the Sky_
 
 <https://drive.google.com/file/d/1MR9TBoj8cyTyx52IND9_KeoewJfjLIwV/view?usp=sharing>
 
@@ -250,7 +251,15 @@ The Link to _Generation Genius_ Science Lessons
 
 <https://www.generationgenius.com/patterns-in-the-sky-reading-material/>
 
+Phonics Reading Dubbing
+
+After learning English for three months, the girl started to dub picture books via an app that provides evaluation reports on the speaking quality. The girl felt very proud with the feedbacks and grades as positive reinforcement to motivate her further efforts.
+
+<https://moive2.qupeiyin.com/home/show/share?id=MDAwMDAwMDAwMLGHyKqAobqWsbeIZQ>
+
 3.1.3 A Collaborator and Dedicated Servant for the Learning Community
+
+
 
 3.1.4 A Life-long Inquirer
 
