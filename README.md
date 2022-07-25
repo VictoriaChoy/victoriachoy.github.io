@@ -220,14 +220,8 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 ![image](https://user-images.githubusercontent.com/109213222/180643507-baec0f9e-44a0-4947-bd76-6326bf526b15.png)
 
 > He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His agency and self-efficacy has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
-
 > Development of the IB learner profile and Approaches to Learning
-
-
-
-
-I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components for model ships.
-
+> I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components for model ships.
 
 1.2. An Engaging Instructor
 
@@ -278,12 +272,11 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
 > A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community.
-
 > positive impact on families and students' lifetime development. 
 
 1.3.1 Collaborative strategies
 
-A collaborative learning community implement effective collaboration strategies, contribute their experiences and perspectives to the teamwork. 
+A collaborative learning community implement effective collaboration strategies, contribute their experiences and perspectives to the teamwork.
 
 Reference:
 
@@ -293,7 +286,7 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 1.4. A Life-long Inquirer
 
-Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to look at China and 
+Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the differences between China and the west in social, economic, historical, cultural and educatinonal contexts.
 
 1.5.0 A Researcher of Effective Learning and Teaching
 
@@ -308,7 +301,6 @@ Learning and teaching experiences keep shaping our identity throughout the life-
 1.5.1.3 Summative Assessment
 
 1.5.1.2 Students' Feedback on Teaching
-
 
 References：
 
@@ -363,7 +355,6 @@ I developed curriculum for this age group based on Oxford's textbooks _Our World
 Making learning meaninful related to students' experiences, agency and self-efficacy
 
 8.4  University Interdisciplinary Learning (Adults)
-
 
 8.5 IELTS Exam-Preparation
   
@@ -434,4 +425,3 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 1. CV
 2. Reference Letters
 2.1 Students' Feedback on Teaching
-
