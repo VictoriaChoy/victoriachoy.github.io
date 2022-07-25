@@ -272,7 +272,7 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
 > A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community.
-> positive impact on families and students' lifetime development. 
+> positive impact on families and students' lifetime development.
 
 1.3.1 Collaborative strategies
 
@@ -348,7 +348,7 @@ Group Inquiry Question:
 
 8.2 Lower-secondary English (12-15 years old)
 
-I developed curriculum for this age group based on Oxford's textbooks _Our World_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing. 
+I developed curriculum for this age group based on Oxford's textbooks _Our World_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing.
 
 8.3  Upper-secondary English (15-18 years old)
 
