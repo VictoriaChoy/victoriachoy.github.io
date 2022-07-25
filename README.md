@@ -219,7 +219,12 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ![image](https://user-images.githubusercontent.com/109213222/180643507-baec0f9e-44a0-4947-bd76-6326bf526b15.png)
 
-> He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
+> He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His agency and self-efficacy has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
+
+> Development of the IB learner profile and Approaches to Learning
+
+
+
 
 I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components for model ships.
 
@@ -273,6 +278,8 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
 > A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community.
+
+> positive impact on families and students' lifetime development. 
 
 1.3.1 Collaborative strategies
 
@@ -349,12 +356,14 @@ Group Inquiry Question:
 
 8.2 Lower-secondary English (12-15 years old)
 
-The 
-_Our World_
+I developed curriculum for this age group based on Oxford's textbooks _Our World_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing. 
 
 8.3  Upper-secondary English (15-18 years old)
 
+Making learning meaninful related to students' experiences, agency and self-efficacy
+
 8.4  University Interdisciplinary Learning (Adults)
+
 
 8.5 IELTS Exam-Preparation
   
