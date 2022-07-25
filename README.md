@@ -227,11 +227,12 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
 1.1.3 Inquiry-based Leanrning
 
- I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components for model ships.
+ I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the expeiement from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests.
+
 
 1.2. An Engaging Instructor
 
-I have been practicing the project-based and hands-on approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning. I also rely on my personality and body language to engage early learners. Here are some examples.
+I have been practicing the project-based and hands-on approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning with a cost-effective approach. I also rely on my personality and body language to engage early learners. Here are some examples.
 
 Laminated paper roulettes were used for phonics and counting toys with literacy.
 
@@ -282,7 +283,18 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 1.3.1 Collaborative strategies
 
-A collaborative learning community implement effective collaboration strategies, contribute their experiences and perspectives to the teamwork.
+A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings.
+
+Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
+
+Teachers' Workshop
+
+
+
+Teaching Assistant Workshop
+
+
+
 
 Reference:
 
@@ -292,7 +304,11 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 1.4. A Life-long Inquirer
 
-Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the differences between China and the west in social, economic, historical, cultural and educatinonal contexts.
+Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the similarities and differences between China and the west in social, economic, political, historical, cultural and educatinonal contexts. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. I have also inquired about the state capitalism in the east vs the counterpart in the west.
+
+References:
+
+Infusing IB Philosophy into Chinese 
 
 1.5.0 A Researcher of Effective Learning and Teaching
 
