@@ -215,11 +215,14 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 1.1. A Facilitator of Learning and Personal Growth
 
-> The trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
+> The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
 ![image](https://user-images.githubusercontent.com/109213222/180643507-baec0f9e-44a0-4947-bd76-6326bf526b15.png)
 
 > He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly.
+
+I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components for model ships.
+
 
 1.2. An Engaging Instructor
 
@@ -247,7 +250,7 @@ Students were being dressed up like the characters in the picture book about a c
 
 ![image](https://user-images.githubusercontent.com/109213222/180603186-a731ac18-0a3d-4ba7-bb6d-3d2361222413.png)
 
-The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but was able to make more attempts after my encouragement. Although she was quick-tempered, unable to concentrate for tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
+The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but kept her promise to make more attempts after my encouragement. Although she was quick-tempered, unable to concentrate on tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
 
 Presentation Video of _Patterns in the Sky_
 
@@ -269,11 +272,23 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
+> A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community.
 
+1.3.1 Collaborative strategies
+
+A collaborative learning community implement effective collaboration strategies, contribute their experiences and perspectives to the teamwork. 
+
+Reference:
+
+Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
+
+<https://www.indeed.com/career-advice/career-development/collaboration-strategy>
 
 1.4. A Life-long Inquirer
 
-1.5.0 A Researcher
+Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to look at China and 
+
+1.5.0 A Researcher of Effective Learning and Teaching
 
 1.5.1 Assessment Design
 
