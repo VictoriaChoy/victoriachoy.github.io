@@ -229,6 +229,9 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
  I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the expeiement from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests.
 
+Here is an example of his inquiry during a STEAM class.
+
+![image](https://user-images.githubusercontent.com/109213222/180911441-4e48d05c-3ca1-4fd1-a326-2fae47c1d6f0.png)
 
 1.2. An Engaging Instructor
 
@@ -287,16 +290,23 @@ A collaborative learning community implements effective collaboration strategies
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
-Teachers' Workshop
+Teaching Plans Completed at Teachers' Workshop Focusing on Language 
 
+![image](https://user-images.githubusercontent.com/109213222/180911743-e7a66ac9-88fb-42e5-b14d-599420481853.png)
 
+![image](https://user-images.githubusercontent.com/109213222/180911777-8778aaae-33e9-4ae4-a25d-89debf084729.png)
+
+![image](https://user-images.githubusercontent.com/109213222/180911847-a0d239f1-00bc-4135-87d5-177f3b65f9b5.png)
 
 Teaching Assistant Workshop
 
+![image](https://user-images.githubusercontent.com/109213222/180911891-72f27d8a-0938-4e66-ab68-030d51a60bcf.png)
 
-
+Teaching assistants became more confident and assured about their responsibilities in the class with the learning-by-doing approach.
 
 Reference:
+
+IBO, 2020, _Standards and Practices_
 
 Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
