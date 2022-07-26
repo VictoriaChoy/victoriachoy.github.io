@@ -211,7 +211,11 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ### Teaching and Learning
 
-> My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
+> My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales, R&D, and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
+
+Diagram of The Co-developed Power Plant
+
+![image](https://user-images.githubusercontent.com/109213222/180919645-fbba2374-516c-4617-b9d3-a6b25afe6782.png)
 
 1.1. A Facilitator of Learning and Personal Growth
 
@@ -227,7 +231,11 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
 1.1.3 Inquiry-based Leanrning
 
- I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the expeiement from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests.
+ I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy. 
+ 
+ ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
+
+https://bookunitsteacher.com/wp/?p=8498 
 
 Here is an example of his inquiry during a STEAM class.
 
