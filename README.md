@@ -323,7 +323,7 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the similarities and differences between China and the west in social, economic, political, historical, cultural and educatinonal contexts. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west.
 
-![image](https://user-images.githubusercontent.com/109213222/181260797-0d4f7164-7c8f-4bc1-8ea4-747201281a68.png)
+![image](https://user-images.githubusercontent.com/109213222/181260797-0d4f7164-7c8f-4bc1-8ea4-747201281a68.gif)
 
 References:
 
