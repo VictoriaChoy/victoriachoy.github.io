@@ -289,11 +289,11 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
-> A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. Aiming at positive impact on families, and students' and teachers' lifetime development, the dynamic learning community 
+> A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. Aiming at positive impact on families, and students' and teachers' lifetime development, the dynamic learning community
 
 1.3.1 Collaborative strategies
 
-A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect, 
+A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect,
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
