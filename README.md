@@ -323,11 +323,11 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the similarities and differences between China and the west in social, economic, political, historical, cultural and educatinonal contexts. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west.
 
-![it is time to have](https://github.com/VictoriaChoy/victoriachoy.github.io/blob/main/it%20is%20time%20to%20have.gif?raw=true)
-
 References:
 
-Infusing IB Philosophy into Chinese
+Mark K Shum, Ian Hill, 2015, _Infusing IB Philosophy and Pedagogy into Chinese Language Teaching_
+
+<https://www.amazon.com/Infusing-Philosophy-Pedagogy-Language-Teaching/dp/1909717657>
 
 1.5.0 A Researcher of Effective Learning and Teaching
 
