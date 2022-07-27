@@ -469,3 +469,4 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 3. Students'Feedback 
   
+<span style="color:blue">some *blue* text</span>
