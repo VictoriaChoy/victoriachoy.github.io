@@ -231,11 +231,11 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
 1.1.3 Inquiry-based Leanrning
 
- I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy. 
- 
+ I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy.
+
  ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
 
-https://bookunitsteacher.com/wp/?p=8498 
+<https://bookunitsteacher.com/wp/?p=8498>
 
 Here is an example of his inquiry during a STEAM class.
 
@@ -298,7 +298,7 @@ A collaborative learning community implements effective collaboration strategies
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
-Teaching Plans Completed at Teachers' Workshop Focusing on Language 
+Teaching Plans Completed at Teachers' Workshop Focusing on Language
 
 ![image](https://user-images.githubusercontent.com/109213222/180911743-e7a66ac9-88fb-42e5-b14d-599420481853.png)
 
@@ -326,7 +326,7 @@ Learning and teaching experiences keep shaping our identity throughout the life-
 
 References:
 
-Infusing IB Philosophy into Chinese 
+Infusing IB Philosophy into Chinese
 
 1.5.0 A Researcher of Effective Learning and Teaching
 
