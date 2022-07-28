@@ -57,6 +57,8 @@
 
 1.3 Curriculum Vitae (Appendix)
 
+#### Back to Table of Contents. [↩](#table-of-contents)
+
 ### Teaching Philosophy
 
 > My preliminary understanding of teaching philosophy is about the _student-centered methodology.
@@ -220,6 +222,8 @@ George Walker, 2010, _East is East and West is West_
 <https://www.ibo.org/globalassets/publications/east-is-east-and-west-is-west-en.pdf>
 
 Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational foundations for teachers: The history, philosophy, and culture of schooling_ (pp. 399-430)
+
+[↩](#table-of-contents)
 
 ### Teaching and Learning
 
@@ -419,6 +423,8 @@ Making learning meaninful related to students' experiences, agency and self-effi
 
 [boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
 
+[↩](#table-of-contents)
+
 ### Professional Learning and Future Growth
 
 > I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, fousing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
@@ -457,11 +463,15 @@ Making learning meaninful related to students' experiences, agency and self-effi
 
 ![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
 
+[↩](#table-of-contents)
+
 ### Honors
 
 Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
+
+[↩](#table-of-contents)
 
 ### Associations
 
@@ -479,5 +489,8 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
   
 2. Reference Letter
 
-3. Students'Feedback
+3. Student Feedback
+
+[↩](#table-of-contents)
+
   
