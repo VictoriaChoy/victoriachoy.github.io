@@ -20,8 +20,7 @@
 
 ### About me
 
-> I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the <ins>transdisciplinary approach<ins>. 
-  
+> I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the _transdisciplinary approach_.
 > I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
 1.1 Transdisciplinary Projects and Hobbies
@@ -58,13 +57,11 @@
 
 1.3 Curriculum Vitae (Appendix)
 
-<span>&#8682;</span>
-
 ### Teaching Philosophy
 
-> My preliminary understanding of teaching philosophy is about the <ins>student-centered methodology<ins>. 
-> When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching . 
-> Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with <ins>John Dewey's progressivism<ins>, <ins>Freire Paulo's critical pedagogy<ins>, and <ins>humanism<ins>, especially the <ins>new humanism<ins> proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart. 
+> My preliminary understanding of teaching philosophy is about the _student-centered methodology.
+> When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching .
+> Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's_progressivism_, Freire Paulo's critical pedagogy, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart.
 > The journey of inquiry about my teaching philosophy turns out impactful for the rest of my life and those I know that would like to become part of IB's global community. Please spare me a few minutes to talk about my story of inquiry.
 
 2.1 The Period of Self-awareness (2012-2013)
@@ -482,5 +479,5 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
   
 2. Reference Letter
 
-3. Students'Feedback 
+3. Students'Feedback
   
