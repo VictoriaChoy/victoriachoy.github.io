@@ -2,6 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
 
+<!--TOC START -->
+
+<a class='top-link hide'href='#toc'>↑</a>
+<a name='toc'></a>
+<div class='TOC'>
+  
 ## Table of Contents
 
 ### [About me](#about-me-1)
@@ -17,6 +23,10 @@
 ### [Associations](#associations-1)
 
 ### [Appendix](#appendix-1)
+
+</div>
+
+<!--TOC END -->
 
 ### About me
 
@@ -55,6 +65,8 @@
 <https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing>
 
 1.3 Curriculum Vitae (Appendix)
+
+<span>&#8682;</span>
 
 ### Teaching Philosophy
 
