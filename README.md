@@ -60,8 +60,8 @@
 ### Teaching Philosophy
 
 > My preliminary understanding of teaching philosophy is about the _student-centered methodology.
-> When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching .
-> Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's_progressivism_, Freire Paulo's critical pedagogy, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart.
+> When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching.
+> Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's_progressivism_, Freire Paulo's _critical pedagogy_, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart.
 > The journey of inquiry about my teaching philosophy turns out impactful for the rest of my life and those I know that would like to become part of IB's global community. Please spare me a few minutes to talk about my story of inquiry.
 
 2.1 The Period of Self-awareness (2012-2013)
