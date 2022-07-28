@@ -57,6 +57,8 @@
 
 1.3 Curriculum Vitae (Appendix)
 
+<https://pan.baidu.com/s/1qPs5HTWGcE9pdKiBSyN7sQ?pwd=7gka
+
 #### Back to Table of Contents. [↩](#table-of-contents)
 
 ### Teaching Philosophy
