@@ -5,3 +5,5 @@ future: true
 timezone: Asia/Hong_Kong
 
 "auto_save_on_modified": true
+
+paginate: 5
