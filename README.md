@@ -1,12 +1,6 @@
 # Welcome to My Teaching Portfolio
 
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
-
-<!--TOC START -->
-
-<a class='top-link hide'href='#toc'>↑</a>
-<a name='toc'></a>
-<div class='TOC'>
   
 ## Table of Contents
 
@@ -24,13 +18,11 @@
 
 ### [Appendix](#appendix-1)
 
-</div>
-
-<!--TOC END -->
-
 ### About me
 
-> I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the transdisciplinary approach. I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+> I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the <ins>transdisciplinary approach<ins>. 
+  
+  I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
 1.1 Transdisciplinary Projects and Hobbies
 
