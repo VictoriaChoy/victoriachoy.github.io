@@ -20,8 +20,9 @@
 
 ### About me
 
-> I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the _transdisciplinary approach_.
-> I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the _transdisciplinary approach_.
+
+I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
 1.1 Transdisciplinary Projects and Hobbies
 
@@ -61,13 +62,17 @@
 
 ### Teaching Philosophy
 
-> My preliminary understanding of teaching philosophy is about the _student-centered methodology.
-> When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching.
-> Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's_progressivism_, Freire Paulo's _critical pedagogy_, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart.
-> The journey of inquiry about my teaching philosophy turns out impactful for the rest of my life and those I know that would like to become part of IB's global community. Please spare me a few minutes to talk about my story of inquiry.
+My preliminary understanding of teaching philosophy is about the _student-centered methodology.
+
+When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching.
+
+Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's _progressivism_, Freire Paulo's _critical pedagogy_, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart.
+
+The journey of inquiry about my teaching philosophy turns out impactful for the rest of my life and those I know that would like to become part of IB's global community. Please spare me a few minutes to talk about my story of inquiry.
 
 2.1 The Period of Self-awareness (2012-2013)
-> After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
+
+After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
 
 ![image](https://user-images.githubusercontent.com/109213222/180481037-0904f246-a3b4-45da-ab66-4858b22d69ba.png)
 
@@ -80,14 +85,14 @@
 <https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students>)
 
 2.2 The Period of Practice & Collaboration (2014-2017)
-
-> The journey began when I got an offer as an ESL teacher from English First, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the transdisciplinary nature in language teaching, especially project-based learning with differentiated rewards designed for topics in the curriculum, serving multiple purposes such as provocations, project models, positive reinforcement, and more opportunities for the drill of productive skills. The hands-on approach has been well developed since then.
+-__
+The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the _transdisciplinary_ nature in language teaching, especially _project-based learning_ with _differentiated rewards_ designed for topics in the curriculum, serving multiple purposes such as _provocations_, project models, _positive reinforcement_, and more opportunities for the drill of _productive skills_. The _hands-on approach_ has been well developed since then.
 
 2.2.1 EF 50th Anniversary Party
 
 ![ef 50](https://user-images.githubusercontent.com/109213222/179381872-a5ed300a-3dfd-4422-8490-607b2a53ac7f.JPG)
 
-> Based on my childhood experience with my mom who taught me how to make origami toys, I understood that students would love this hands-on approach, so I incorporated it into lesson planning, which aimed to develop children's understanding of lines and symmetrical shapes, related to story characters and new vocabularies such as animals, clothes and home furniture. Sometimes parents would help their small children with some steps. They were always welcome to attend our classes and activities. The involvement of parents faciliated student learning and built a strong connection among students, parents and the school. I would say the humanistic approach I have adopted based on students’ interest, agency, self-efficacy, and the learning community has prepared me to “internalize” IB methodology, according to my IB instructors.
+Based on my childhood experience with my mom who taught me how to make origami toys, I understood that students would love this hands-on approach, so I incorporated it into lesson planning, which aimed to develop children's understanding of lines and symmetrical shapes, related to story characters and new vocabularies such as animals, clothes and home furniture. Sometimes parents would help their small children with some steps. They were always welcome to attend our classes and activities. The involvement of parents faciliated student learning and built a strong connection among students, parents and the school. I would say the _humanistic approach_ I have adopted based on students’ interest, _agency_, _self-efficacy_, and the _learning community_ has prepared me to “internalize” IB methodology, according to my IB instructors.
 
 2.2.2 Origami Animals for Puppetry Theater and Rewards (2-4 years old) (Literacy, Natural Science, Math)
 
@@ -97,13 +102,13 @@
 
 2.2.3 Movable Origami Monkey for Grammar Drill (6-7 years old)
 
-> The project was developed for both receptive and productive skills. Students learned to say the prepositional phrases and sentence patterns of positions while being engaged with the movable origami monkey. Grammar has been the most painful learning experience for early learners with their logic thinking still developing, so the hands-on transdisciplinary approach fostered students' interest in learing grammar, avoiding the most-used tedious drills. When students completed their own projects, they practice productive skills with a sense of achievement boosting their self-efficacy, and in turn, enhancing their agency.  
+The project was developed for both receptive and productive skills. Students learned to say the prepositional phrases and sentence patterns of positions while being engaged with the movable origami monkey. Grammar has been the most painful learning experience for early learners with their logic thinking still developing, so the hands-on transdisciplinary approach fostered students' interest in learing grammar, avoiding the most-used tedious drills. When students completed their own projects, they practice _productive skills_ with a sense of achievement boosting their _self-efficacy_, and in turn, enhancing their _agency_.  
 
 ![mobile monkey](https://user-images.githubusercontent.com/109213222/179360441-f9b9ae98-367c-4f09-ae0a-982eb9430ef6.JPG)
 
 2.2.4 2D Shapes Developed into 3D Projects (3-5 years old)
 
-> The projects were for an unit of 2D shapes from _Journeys_ , a famous reading program for grades K-6 published by Houghton Mifflin Harcourt. In order for preschoolers to inquire about the shapes and their attributes with a hands-on approach, I developed the projects as models for students to talk about what they could build with the shapes, connecting with their prior knowledge of flowers, arts, handicraft (wind chime), and robot toys.
+The projects were for an unit of 2D shapes from _Journeys_ , a famous reading program for grades K-6 published by Houghton Mifflin Harcourt. In order for preschoolers to inquire about the shapes and their attributes with a hands-on approach, I developed the projects as models for students to talk about what they could build with the shapes, connecting with their _prior knowledge_ of flowers, arts, handicraft (wind chime), and robot toys.
 
 ![3d shapes](https://user-images.githubusercontent.com/109213222/179360363-0ab0b4bf-2188-42a3-82ce-cb016e50fda6.JPG)
 
@@ -113,7 +118,7 @@
 
 2.2.5 Children's Day Gathering
 
-> Families were invited to join our celebration of Children's Day that has been the happiest day of children in the year. Shows were put on in an exhibition style. All children learned something from the center, and their parents felt very proud of it.
+Families were invited to join our celebration of Children's Day that has been the happiest day of children in the year. Shows were put on in an exhibition style. All children learned something from the center, and their parents felt very proud of it.
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
@@ -127,12 +132,13 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179455511-ff99281c-70e4-45ee-98cf-d80f49ca64d5.png)
 
-> Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA.
-> As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of inclusion education.
+Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA.
+
+As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of _inclusion education_.
 
 2.3 The Period of Collaboration and Leadership (2017-now)
 
-> I have been in charge of curriculum development and teaching faculty since I started working in day-care chain stores for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
+I have been in charge of _curriculum development_ and teaching faculty since I started working in day-care chain stores for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
 
 ![prototype door](https://user-images.githubusercontent.com/109213222/179357124-7f973710-7a68-4173-9bc3-891e55eb436c.JPG)
 
@@ -144,7 +150,7 @@
 
 2.3.1 Picture Book Projects
 
-> The book is about a birthday party from _Oxford Reading Tree_ with an ort program to operate on the computer. Apart from using the interactive white board with the program, we used the project-based approach to engage early learners based on different teacher strengths. The idea of mango slices arranged in the shape of a birthday cake with letter-shaped biscuits was co-deveoped by the team. The white board decorated with balloons and laminated letter cards served as a setting for early learners to put on a puppet show in the same theme. Multiple projects were initiated by different teachers. Their ideas were also great inspirations for me. I believed the achievements by teamwork had a significant advantage over those by individuals.
+The book is about a birthday party from _Oxford Reading Tree_ with an ort program to operate on the computer. Apart from using the interactive white board with the program, we used the project-based approach to engage early learners based on different teacher strengths. The idea of mango slices arranged in the shape of a birthday cake with letter-shaped biscuits was co-deveoped by the team. The white board decorated with balloons and laminated letter cards served as a setting for early learners to put on a puppet show in the same theme. Multiple projects were initiated by different teachers. Their ideas were also great inspirations for me. I believed the achievements by teamwork had a significant advantage over those by individuals.
 
 ![birthday](https://user-images.githubusercontent.com/109213222/179357622-c09abe75-21f0-4957-8420-de2d79a95d84.JPG)
 
@@ -160,7 +166,7 @@
 
 2.3.2 Puppetry Show for Marketing
 
-> This show was organized for the marketing department targeting the age group from toddlers to lower-primary students. We first created a forest setting with cardboards, drawings and glue gun. Then teachers were paired to put on one mini-show, keeping in mind effective interaction with the audience. A section was designed for children volunteers to take part in the show with English expressions learned on the spot.
+This show was organized for the marketing department targeting the age group from toddlers to lower-primary students. We first created a forest setting with cardboards, drawings and glue gun. Then teachers were paired to put on one mini-show, keeping in mind effective interaction with the audience. A section was designed for children volunteers to take part in the show with English expressions learned on the spot.
 
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
 
@@ -196,12 +202,13 @@ Toddlers were "talking" about a picture book.
 
 2.4 The Period of Identity Establishment (2021- now)
 
-> During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
+During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
 
 Here is an example.
 
-> In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between western educational philosophy and traditional Chinese counterpart because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with positive discipline (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in discipline, cooperative learning, autonomous leadership, and initiative in learning.
-> Therefore, I thought the western humanism with an emphasis on “human freedom, natural goodness, human growth and potential, personal and social values” (Sharpes, 2013, p.158) triumphed over the traditional Chinese philosophy which emphasized teacher authority and student obedience. Then I saw the possibility to integrate the two philosophies when I read George Walker’s (2010) _East is East and West is West_ forwarded by my IB instructor, after reflecting on the universal education of values for the common good of mankind in all educational systems, despite Walker’s acknowledgement that “international education is not truly international but developed from a very influential Western humanist tradition of learning” (p.6).
+In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between western educational philosophy and traditional Chinese counterpart because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with _positive discipline_ (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in discipline, cooperative learning, autonomous leadership, and initiative in learning.
+
+Therefore, I thought the western humanism with an emphasis on “human freedom, natural goodness, human growth and potential, personal and social values” (Sharpes, 2013, p.158) triumphed over the traditional Chinese philosophy which emphasized teacher authority and student obedience. Then I saw the possibility to integrate the two philosophies when I read George Walker’s (2010) _East is East and West is West_ forwarded by my IB instructor, after reflecting on the universal education of values for the common good of mankind in all educational systems, despite Walker’s acknowledgement that “international education is not truly international but developed from a very influential Western humanist tradition of learning” (p.6).
 
 My instructor's feedback of my reflection on the experience is below.
 
@@ -211,7 +218,7 @@ A link to my entire journal.
 
 <https://docs.google.com/document/d/1LpDPu2gfndcJ6MJpE2lHohhNA4qhAO1sWHOJ09Vsb6c/edit?usp=sharing>
 
-> Since I began to learn IB educator certificate at the University of Windsor, the inquiry about my own identity has become increasingly clear, i.e. who I am for myself, my family, my friends, my students, and my country. With some preliminary research on international-mindedness in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the eastern humanism represented by Confucianism and the western humanism. Having been learning the MEd. at University of the People, I was able to connect more findings with each other, enabling myself to make new meanings of what I can do as an IB educator, and analyze critically the similarities and differences between IB philosophy and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible integration.
+Since I began to learn IB educator certificate at the University of Windsor, the inquiry about my own identity has become increasingly clear, i.e. who I am for myself, my family, my friends, my students, and my country. With some preliminary research on _international-mindedness_ in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the _eastern humanism_ represented by Confucianism and the _western humanism_. Having been learning the MEd. at University of the People, I was able to connect more findings with each other, enabling myself to make new meanings of what I can do as an IB educator, and analyze critically the similarities and differences between _IB philosophy_ and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible _integration_.
 
 References:
 
@@ -229,7 +236,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ### Teaching and Learning
 
-> My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales, R&D, and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
+My understanding of a teacher's roles has been developing since I practiced the _huamnistic approach_ in the beginning of my teaching career, or earlier as a service-oriented sales, R&D, and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a _facilitator_ of students for their learning and personal growth in life, an _engaging instructor_ seeking to make learning meaningful by connecting inquiry with students' life experiences, a _life-long inquirer_ for innovative pedagogy and effective practice, a _collaborator_ and dedicated _servant for the learning community_.
 
 Product Concept of The Co-developed Power Plant
 
@@ -237,15 +244,16 @@ Product Concept of The Co-developed Power Plant
 
 1.1. A Facilitator of Learning and Personal Growth
 
-1.1.1 Enhancement of Students' Agency and Self-efficacy
+1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
 
 The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
 ![image](https://user-images.githubusercontent.com/109213222/181795230-b609244d-c8b4-45cd-87d9-fb7e813926cb.png)
 
-> He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His agency and self-efficacy has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
+He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His _agency and self-efficacy_ has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
 
-1.1.2 Development of the IB learner profile and Approaches to Learning
+1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_
+
 
 1.1.3 Inquiry-based Leanrning
 
