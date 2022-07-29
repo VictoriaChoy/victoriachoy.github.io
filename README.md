@@ -53,11 +53,9 @@
 
 1.2 Self-introduction Video
 
-<https://drive.google.com/file/d/1udfHqG5sdm04ewcL3UdH7MtPxtadF0o6/view?usp=sharing>
+<https://pan.baidu.com/s/1NXFWdyt5QRb5x3h4k30Kxw?pwd=1234>
 
 1.3 Curriculum Vitae (Appendix)
-
-<https://pan.baidu.com/s/1qPs5HTWGcE9pdKiBSyN7sQ?pwd=7gka
 
 #### Back to Table of Contents. [↩](#table-of-contents)
 
@@ -119,7 +117,9 @@
 
 ![image](https://user-images.githubusercontent.com/109213222/179963587-9c946376-9272-483c-aec3-ef2db46aba74.png)
 
-<https://drive.google.com/file/d/1xAkCkrUeWsXuJvFko970tSpCUrzth0b8/view?usp=sharing>
+- Children Singing English Songs on the Stage
+
+<https://pan.baidu.com/s/1OiC44qT9WDvkbjY8A6POQg?pwd=1234>
 
 2.2.6 Weekly Life Club: teachers take turns to host the life club in different themes at the big kitchen with a projector, a screen and a host computer, so that students could take related classes and prepare snack food.
 
@@ -172,13 +172,13 @@ Children had meals and snacks in the centers.
 
 ![image](https://user-images.githubusercontent.com/109213222/180367806-26a6124c-fd3f-4c2b-b73d-7e8100fe01d8.png)
 
-A 2.5-year-old boy was learning a color song with props.
+- A 2.5-year-old boy was learning a color song with props.
 
-<https://drive.google.com/file/d/1Tr8XCpxpgox_XP06h-I4iE3dNEhDwoIO/view?usp=sharing>
+<https://pan.baidu.com/s/1Da6VheW6uYmRM2b2pMOocA?pwd=1234>
 
-A 3-year-old girl was reading a picture book with me.
+- A 3-year-old girl was reading a picture book with me.
 
-<https://drive.google.com/file/d/17UjjaSI7bLDH6NAJwu4rTTVggo-SNZkO/view?usp=sharing>
+<https://pan.baidu.com/s/1YYt32VXwm7n34IPH_XEtOA?pwd=1234>
 
 We were having a whisper game in small-group competition for primary students.
 
@@ -192,7 +192,7 @@ Circle Time with Toddlers, Parents, and Teachers
 
 Toddlers were "talking" about a picture book.
 
-<https://drive.google.com/file/d/1WxT9zyXeVjILTAb47PpF8oIuLQEwkMHS/view?usp=sharing>
+<https://pan.baidu.com/s/1UK7bF0RR20NBNO-57Pk5Yw?pwd=1234>
 
 2.4 The Period of Identity Establishment (2021- now)
 
@@ -243,6 +243,7 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
 ![image](https://user-images.githubusercontent.com/109213222/180643507-baec0f9e-44a0-4947-bd76-6326bf526b15.png)
 
+
 > He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His agency and self-efficacy has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
 
 1.1.2 Development of the IB learner profile and Approaches to Learning
@@ -258,6 +259,14 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 Here is an example of his inquiry during a STEAM class.
 
 ![image](https://user-images.githubusercontent.com/109213222/180911441-4e48d05c-3ca1-4fd1-a326-2fae47c1d6f0.png)
+
+An Audio of His Presentation (His mother said it was a pity that he had not learned English before grade 3, so his pronunciation needed a lot more work.)
+
+<https://pan.baidu.com/s/1qPdy6-11YrNA8vf82ppqRg?pwd=1234>
+
+The Link to _Generation Genius_ Science Lessons
+
+<https://www.generationgenius.com/videolessons/inspired-by-nature-biomimicry-video-for-kids/>
 
 1.2. An Engaging Instructor
 
@@ -285,11 +294,11 @@ Students were being dressed up like the characters in the picture book about a c
 
 ![image](https://user-images.githubusercontent.com/109213222/180603186-a731ac18-0a3d-4ba7-bb6d-3d2361222413.png)
 
-The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but kept her promise to make more attempts after my encouragement. Although she was quick-tempered, unable to concentrate on tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
+The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the STEAM classes in a hands-on approach. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but kept her promise to make more attempts after my encouragement. Although she was quick-tempered and unable to concentrate on tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
 
 Presentation Video of _Patterns in the Sky_
 
-<https://drive.google.com/file/d/1MR9TBoj8cyTyx52IND9_KeoewJfjLIwV/view?usp=sharing>
+<https://pan.baidu.com/s/1qmhY-KKg3JsvLEZrGFgNsQ?pwd=1234>
 
 The Link to _Generation Genius_ Science Lessons
 
