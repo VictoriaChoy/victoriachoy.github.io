@@ -170,7 +170,7 @@
 
 Children had meals and snacks in the centers.
 
-![image](https://user-images.githubusercontent.com/109213222/180367806-26a6124c-fd3f-4c2b-b73d-7e8100fe01d8.png)
+![image](https://user-images.githubusercontent.com/109213222/181794816-cb294c49-a650-4740-a8fb-9572b1c9ade2.png)
 
 - A 2.5-year-old boy was learning a color song with props.
 
@@ -182,13 +182,13 @@ Children had meals and snacks in the centers.
 
 We were having a whisper game in small-group competition for primary students.
 
-![image](https://user-images.githubusercontent.com/109213222/180641850-bf0c6854-a6c6-43ec-aa6d-cf67b2cbaf1c.png)
+![image](https://user-images.githubusercontent.com/109213222/181794885-78d7464d-c227-448b-aaac-45428cfcc55f.png)
 
 * Shenzhen in South China
 
 Circle Time with Toddlers, Parents, and Teachers
 
-![image](https://user-images.githubusercontent.com/109213222/180633120-6ec0e06d-4a8e-4154-b531-0b42e79702b0.png)
+![image](https://user-images.githubusercontent.com/109213222/181795013-5b8daca4-d97a-4fed-ba06-b12c6ff30478.png)
 
 Toddlers were "talking" about a picture book.
 
@@ -231,9 +231,9 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 > My understanding of a teacher's roles has been developing since I practiced the huamnistic approach in the beginning of my teaching career, or earlier as a service-oriented sales, R&D, and administration manager for both my teammates and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a facilitator of students for their learning and personal growth in life, an engaging instructor seeking to make learning meaningful by connecting inquiry with students' life experiences, a life-long inquirer for innovative pedagogy and effective practice, a collaborator and dedicated servant for the learning community.
 
-Diagram of The Co-developed Power Plant
+Product Concept of The Co-developed Power Plant
 
-![image](https://user-images.githubusercontent.com/109213222/180919645-fbba2374-516c-4617-b9d3-a6b25afe6782.png)
+![image](https://user-images.githubusercontent.com/109213222/181795166-393ca177-94e7-4cc7-9a95-a87e6dbf1b73.png)
 
 1.1. A Facilitator of Learning and Personal Growth
 
@@ -241,8 +241,7 @@ Diagram of The Co-developed Power Plant
 
 The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
-![image](https://user-images.githubusercontent.com/109213222/180643507-baec0f9e-44a0-4947-bd76-6326bf526b15.png)
-
+![image](https://user-images.githubusercontent.com/109213222/181795230-b609244d-c8b4-45cd-87d9-fb7e813926cb.png)
 
 > He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His agency and self-efficacy has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
 
@@ -284,11 +283,11 @@ The letter monster was designed for phonics, including phonetic proficiency asso
 
 I pretended to cover my ears to encourage students' loud responses.
 
-![image](https://user-images.githubusercontent.com/109213222/180603091-f67369e2-d909-4527-b43d-018b2be33e7f.png)
+![image](https://user-images.githubusercontent.com/109213222/181795381-5bc236f6-2b71-46bf-a74e-88e7bc35331a.png)
 
 The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the transdisciplinary theme "how the world works", emphasising the impact of human activities on the nature.
 
-![image](https://user-images.githubusercontent.com/109213222/180602906-82471b49-7236-4b7b-952d-ade6a3dc5c77.png)
+![image](https://user-images.githubusercontent.com/109213222/181795444-ee0e4356-4825-4339-b790-ed465bee0529.png)
 
 Students were being dressed up like the characters in the picture book about a constume party from _Oxford Reading Tree_.
 
@@ -312,7 +311,7 @@ After learning English for three months, the girl started to dub picture books v
 
 Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science and Arts)
 
-![image](https://user-images.githubusercontent.com/109213222/180644012-90f2853b-9e83-484c-afe3-fbd86cddc60b.png)
+![image](https://user-images.githubusercontent.com/109213222/181795560-f8fd2425-cfeb-46a2-890f-d29819b0726d.png)
 
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
@@ -324,14 +323,9 @@ A collaborative learning community implements effective collaboration strategies
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
-- Workshop Schedule 
-
-
-
-
 - Teaching Plans Completed at Teachers' Workshop Focusing on Language
 
-![image](https://user-images.githubusercontent.com/109213222/180911743-e7a66ac9-88fb-42e5-b14d-599420481853.png)
+![image](https://user-images.githubusercontent.com/109213222/181795712-0ee1361a-ac85-4ba9-b25e-bf73e660d260.png)
 
 ![image](https://user-images.githubusercontent.com/109213222/180911777-8778aaae-33e9-4ae4-a25d-89debf084729.png)
 
