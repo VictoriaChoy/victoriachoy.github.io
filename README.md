@@ -324,7 +324,12 @@ A collaborative learning community implements effective collaboration strategies
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
-Teaching Plans Completed at Teachers' Workshop Focusing on Language
+- Workshop Schedule 
+
+
+
+
+- Teaching Plans Completed at Teachers' Workshop Focusing on Language
 
 ![image](https://user-images.githubusercontent.com/109213222/180911743-e7a66ac9-88fb-42e5-b14d-599420481853.png)
 
@@ -332,11 +337,15 @@ Teaching Plans Completed at Teachers' Workshop Focusing on Language
 
 ![image](https://user-images.githubusercontent.com/109213222/180911847-a0d239f1-00bc-4135-87d5-177f3b65f9b5.png)
 
-Teaching Assistant Workshop
+- Teaching Assistant Workshop
 
 ![image](https://user-images.githubusercontent.com/109213222/180911891-72f27d8a-0938-4e66-ab68-030d51a60bcf.png)
 
 Teaching assistants became more confident and assured about their responsibilities in the class with the learning-by-doing approach.
+
+- Demo Class for Marketing (After rehearsals of demo classes collaboratively planned, teachers were giving demo classes with my support as a TA and course consultant for parents.)
+
+![image](https://user-images.githubusercontent.com/109213222/181745224-7c2b48ae-95a7-4355-972e-1f85d7a30d79.png)
 
 Reference:
 
@@ -416,11 +425,12 @@ Group Inquiry Question:
 
 8.2 Lower-secondary English (12-15 years old)
 
-I developed curriculum for this age group based on Oxford's textbooks _Our World_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing.
+I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing in an immersive method. 
+
 
 8.3  Upper-secondary English (15-18 years old)
 
-Making learning meaninful related to students' experiences, agency and self-efficacy
+Making learning meaninful related to students' experiences
 
 8.4  University Interdisciplinary Learning (Adults)
 
@@ -430,9 +440,14 @@ Making learning meaninful related to students' experiences, agency and self-effi
 
 > I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
 
+
 ![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
 
-[boss vs leader](https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader)
+<https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader>
+
+- Inquiry-based Learning Workshop Schedule 
+
+![image](https://user-images.githubusercontent.com/109213222/181747618-219d191a-6d44-4c55-a61c-8dc5568f8ade.png)
 
 [↩](#table-of-contents)
 
