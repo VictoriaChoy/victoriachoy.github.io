@@ -138,7 +138,7 @@ As an empathetic teacher, I extended concerns for low-achievers and trouble make
 
 2.3 The Period of Collaboration and Leadership (2017-now)
 
-I have been in charge of _curriculum development_ and teaching faculty since I started working in day-care chain stores for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
+I have been in charge of _curriculum development_ and teaching faculty since I started working in day-care centers for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
 
 ![prototype door](https://user-images.githubusercontent.com/109213222/179357124-7f973710-7a68-4173-9bc3-891e55eb436c.JPG)
 
@@ -258,7 +258,7 @@ As the foundation of international-mindedness, IB learner profile and approaches
 
 1.1.3 Inquiry-based Leanrning
 
-I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of eletronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy.
+I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy.
 
  ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
 
@@ -324,11 +324,11 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 1.3. A Collaborator and Dedicated Servant for the Learning Community
 
-> A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. Aiming at positive impact on families, and students' and teachers' lifetime development, the dynamic learning community
+A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. The dynamic learning community work together with coordinated efforts, aiming at positive impact on families, and students' and teachers' lifetime development, and the social progress under the guidance of educational principles, ie. _progressivism_, _constructivism_, _critical pedagogy_, and _social reconstructionism_.  
 
-1.3.1 Collaborative strategies
+1.3.1 Collaborative Strategies
 
-A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect,
+A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect, open communication 
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
@@ -349,6 +349,18 @@ Teaching assistants became more confident and assured about their responsibiliti
 - Demo Class for Marketing (After rehearsals of demo classes collaboratively planned, teachers were giving demo classes with my support as a TA and course consultant for parents.)
 
 ![image](https://user-images.githubusercontent.com/109213222/181745224-7c2b48ae-95a7-4355-972e-1f85d7a30d79.png)
+
+- Reflection on Educational Leadership
+
+I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
+
+![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
+
+<https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader>
+
+- Inquiry-based Learning Workshop Schedule 
+
+![image](https://user-images.githubusercontent.com/109213222/181747618-219d191a-6d44-4c55-a61c-8dc5568f8ade.png)
 
 Reference:
 
@@ -438,25 +450,13 @@ Making learning meaninful related to students' experiences
 8.4  University Interdisciplinary Learning (Adults)
 
 8.5 IELTS Exam-Preparation
-  
-9.0  Educational Leadership
 
-> I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
-
-
-![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
-
-<https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader>
-
-- Inquiry-based Learning Workshop Schedule 
-
-![image](https://user-images.githubusercontent.com/109213222/181747618-219d191a-6d44-4c55-a61c-8dc5568f8ade.png)
 
 [↩](#table-of-contents)
 
 ### Professional Learning and Future Growth
 
-> I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, fousing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
+I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
 
 1.0 MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
 
@@ -484,13 +484,25 @@ Making learning meaninful related to students' experiences
 
 ![image](https://user-images.githubusercontent.com/109213222/179466080-5570b443-bc9c-46fc-b691-66de49b508a5.png)
 
-6.0 TESOL Diploma
+6.0 Teaching English to Young Learners
+
+![image](https://user-images.githubusercontent.com/109213222/181924694-13c185c5-7107-4e94-b6f4-d1572b39954c.png)
+
+7.0 TESOL Diploma
 
 ![image](https://user-images.githubusercontent.com/109213222/179466727-80fb1463-10a3-4adc-90b7-d0ee80be22b7.png)
 
-7.0 TEFL 120 Hours
+8.0 TEFL 120 Hours
 
 ![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
+
+9.0 Cambridge Business English Higher Certificate 
+
+![image](https://user-images.githubusercontent.com/109213222/181924352-1c059da3-9331-4019-98b6-aac3185305a1.png)
+
+10.0 Professional Director of Kindergarten
+
+![image](https://user-images.githubusercontent.com/109213222/181924509-289acf94-9b42-4b97-b212-8b55a6608926.png)
 
 [↩](#table-of-contents)
 
