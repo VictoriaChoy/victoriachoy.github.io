@@ -1,6 +1,6 @@
 # Welcome to My Teaching Portfolio
 
-![Masterhead](https://cdn1.zedua.com/2019/08/teacher-gif.gif)
+<img src="teacher-gif.gif" align="left"/>
 
 ![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
   
