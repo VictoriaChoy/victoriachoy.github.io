@@ -1,9 +1,7 @@
 # Welcome to My Teaching Portfolio
 
-<img src="teacher-gif.gif" align="left"/>
+<img src="teacher.gif" align="left"/>
 
-![image](https://user-images.githubusercontent.com/109213222/179512314-af4d0521-6d2a-4115-aac5-3c418da07875.png)
-  
 ## Table of Contents
 
 ### [About me](#about-me-1)
@@ -60,7 +58,10 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 
 1.3 Curriculum Vitae (Appendix)
 
-#### _Back to Table of Contents_. [↩](#table-of-contents)
+<img src="animated-up_arrow-red-yellow.gif" align="left"/>
+
+
+[↩](#table-of-contents)
 
 ### Teaching Philosophy
 
@@ -533,6 +534,22 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 2. Reference Letter
 
 3. Student Feedback
+
+4. Website Builder References:
+
+- Back to Top Arrow
+
+<http://3.bp.blogspot.com/-D6QT1TXPPhc/U78XF21xFKI/AAAAAAAALis/eXRPy4sBdLI/s1600/animated-up_arrow-red-yellow.gif>
+
+- Banner: Teacher-gif.gif
+
+<https://cdn1.zedua.com/2019/08/teacher-gif.gif>
+
+- Reading Icon
+
+<https://www.deviantart.com/sewong/art/Animation-Reading-oneself-285737478>
+
+<img src="animated-up_arrow-red-yellow.gif" align="left"/>
 
 [↩](#table-of-contents)
 
