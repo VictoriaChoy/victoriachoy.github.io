@@ -7,3 +7,13 @@ timezone: Asia/Hong_Kong
 "auto_save_on_modified": true
 
 paginate: 5
+
+"[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
+
+"editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": true
+}
+

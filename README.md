@@ -62,7 +62,7 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 
 1.3 Curriculum Vitae (Appendix)
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
