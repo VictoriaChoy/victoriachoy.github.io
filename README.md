@@ -216,7 +216,7 @@ Toddlers were "talking" about a picture book.
 
 2.4 The Period of Identity Establishment (2021- now)
 
-<img src="learner profile s.gif" align="center"/>
+<img src="LP.gif" align="center"/>
 
 During the journey of inquiry about my own identity, effective learning, and solutions to students' learning difficulties, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the IB educator certificate after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
 
