@@ -58,7 +58,7 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 
 1.3 Curriculum Vitae (Appendix)
 
-#### Back to Table of Contents. [↩](#table-of-contents)
+#### _Back to Table of Contents_. [↩](#table-of-contents)
 
 ### Teaching Philosophy
 
@@ -85,7 +85,7 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 <https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students>)
 
 2.2 The Period of Practice & Collaboration (2014-2017)
--__
+
 The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the _transdisciplinary_ nature in language teaching, especially _project-based learning_ with _differentiated rewards_ designed for topics in the curriculum, serving multiple purposes such as _provocations_, project models, _positive reinforcement_, and more opportunities for the drill of _productive skills_. The _hands-on approach_ has been well developed since then.
 
 2.2.1 EF 50th Anniversary Party
