@@ -1,6 +1,6 @@
-# Welcome to My Teaching Portfolio
-
 <img src="teacher.gif" align="left"/>
+
+# Welcome to My Teaching Portfolio
 
 ## Table of Contents
 
