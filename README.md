@@ -72,11 +72,19 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 
 My preliminary understanding of teaching philosophy is about the _student-centered methodology.
 
-When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the humanistic approach that emphasizes students' interest and engagement as key elements in effective learning and teaching.
+When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the _humanistic approach_ that emphasizes students' interest and engagement as key elements in effective learning and teaching.
 
-Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's _progressivism_, Freire Paulo's _critical pedagogy_, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart.
+Then earlier this year, through the further study of the first MEd. course on educational context, including educational philosophy, history and sociology, I have aligned my years of practice with John Dewey's _progressivism_, Freire Paulo's _critical pedagogy_, and _humanism_, especially the _new humanism_ proposed by UNESCO aiming to integrate the western humanism with the eastern counterpart, complying with IB mission to "develop internationally minded people who, recognizing their common humanity and shared guardianship of the planet, help to create a better and more peaceful world", based on intercultural understanding and mutual respect.
+
+![image](https://user-images.githubusercontent.com/109213222/182181149-43f41eb3-596c-49f3-9e7a-6d8e03dd6714.png)
+
+<https://southwest.mpls.k12.mn.us/uploads/screen_shot_2014-04-10_at_2_50_11_pm.png>
 
 The journey of inquiry about my teaching philosophy turns out impactful for the rest of my life and those I know that would like to become part of IB's global community. Please spare me a few minutes to talk about my story of inquiry.
+
+References:
+
+IBO, 2018, _PYP The Learner_
 
 2.1 The Period of Self-awareness (2012-2013)
 
@@ -224,6 +232,10 @@ Here is an example.
 
 In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between western educational philosophy and traditional Chinese counterpart because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with _positive discipline_ (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in discipline, cooperative learning, autonomous leadership, and initiative in learning.
 
+![image](https://user-images.githubusercontent.com/109213222/182182083-571e5ac6-f41e-4bd4-b8fa-bb19bbd27d5d.png)
+
+<https://www.amazon.com/Positive-Discipline-Jane-Nelsen-EdD-audio/dp/B076FJJHC1/ref=sr_1_1?crid=3DV5SL4XHPVKH&keywords=positive+discipline&qid=1659363342&sprefix=%2Caps%2C1290&sr=8-1>
+
 Therefore, I thought the western humanism with an emphasis on “human freedom, natural goodness, human growth and potential, personal and social values” (Sharpes, 2013, p.158) triumphed over the traditional Chinese philosophy which emphasized teacher authority and student obedience. Then I saw the possibility to integrate the two philosophies when I read George Walker’s (2010) _East is East and West is West_ forwarded by my IB instructor, after reflecting on the universal education of values for the common good of mankind in all educational systems, despite Walker’s acknowledgement that “international education is not truly international but developed from a very influential Western humanist tradition of learning” (p.6).
 
 My instructor's feedback of my reflection on the experience is below.
@@ -254,7 +266,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ### Teaching and Learning
 
-<img src="teaching and learning s.gif" align="center"/>
+<img src="teaching and learning s.gif" align="center"/
 
 My understanding of a teacher's roles has been developing since I practiced the _huamnistic approach_ in the beginning of my teaching career, or earlier as a _service-oriented_ sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a _facilitator_ of students for their learning and personal growth in life, an _engaging instructor_ seeking to make learning meaningful by connecting inquiry with students' life experiences, a _life-long inquirer_ for innovative pedagogy, effective practice, and changing identity, a _collaborator_ and dedicated _servant for the learning community_, and above all, a _global citizen_.
 
@@ -262,9 +274,15 @@ Product Concept of The Co-developed Power Plant
 
 ![image](https://user-images.githubusercontent.com/109213222/181795166-393ca177-94e7-4cc7-9a95-a87e6dbf1b73.png)
 
+Positions at the Startup Smart-tech Company
+
+![image](https://user-images.githubusercontent.com/109213222/182182947-04d44568-ab78-40c5-85de-b004bdfec61b.png)
+ 
 1.1. A Facilitator of Learning and Personal Growth
 
   1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
+                                
+
 
 The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
@@ -276,7 +294,7 @@ He used to lack interest in learning English because of the difficult immersive 
 
 As the foundation of international-mindedness, IB learner profile and approaches to learning 
 
-1.1.3 Inquiry-based Leanrning
+1.1.3 Inquiry-based Learning
 
 I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy.
 
