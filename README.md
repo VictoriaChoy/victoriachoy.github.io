@@ -264,7 +264,7 @@ Product Concept of The Co-developed Power Plant
 
 1.1. A Facilitator of Learning and Personal Growth
 
-1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
+  1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
 
 The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
@@ -272,7 +272,7 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
 He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His _agency and self-efficacy_ has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
 
-1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_
+  1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_
 
 As the foundation of international-mindedness, IB learner profile and approaches to learning 
 
@@ -346,7 +346,7 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. The dynamic learning community work together with coordinated efforts, aiming at positive impact on families, and students' and teachers' lifetime development, and the social progress under the guidance of educational principles, ie. _progressivism_, _constructivism_, _critical pedagogy_, and _social reconstructionism_.  
 
-1.3.1 Collaborative Strategies
+  1.3.1 Collaborative Strategies
 
 A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect, open communication 
 
@@ -402,17 +402,17 @@ Mark K Shum, Ian Hill, 2015, _Infusing IB Philosophy and Pedagogy into Chinese L
 
 1.5.0 A Researcher of Effective Learning and Teaching
 
-1.5.1 Assessment Design
+  1.5.1 Assessment Design
 
-1.5.1.1 Student Learning
+    1.5.1.1 Student Learning
 
-1.5.1.1.1 Diagnosticc Assessment
+      1.5.1.1.1 Diagnosticc Assessment
 
-1.5.1.1.2 Formative Assessment
+      1.5.1.1.2 Formative Assessment
 
-1.5.1.3 Summative Assessment
+      1.5.1.1.3 Summative Assessment
 
-1.5.1.2 Students' Feedback on Teaching
+    1.5.1.2 Students' Feedback on Teaching
 
 References：
 
@@ -420,33 +420,33 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 
 <https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
 
-1.5.2 Universal-design Learning
+   1.5.2 Universal-design Learning
 
-1.5.3 Differentiated Instruction
+   1.5.3 Differentiated Instruction
 
-1.5.4 Visible thinking routines
+   1.5.4 Visible thinking routines
 
 2.0 Cases
 
-2.1 Early Learning Systems (1.5-12 years old)
+  2.1 Early Learning Systems (1.5-12 years old)
 
-2.1.1 Reggio Emilia approach
+    2.1.1 Reggio Emilia approach
 
-2.1.2 Montessori
+    2.1.2 Montessori
 
-2.1.3 EYFS
+    2.1.3 EYFS
 
-2.1.4 IB
+    2.1.4 IB
 
-2.1.5 Unit of Inquiry
+    2.1.5 Unit of Inquiry
 
-2.1.5.1 The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
+      2.1.5.1 The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
 
 <https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing>
 
-7.2 The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
+      2.1.5.2 The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
 
-2.1.5.2 Curriculum Development
+     2.1.6 Curriculum Development
 
 -The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
 
@@ -458,18 +458,17 @@ Group Inquiry Question:
 
 <https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true>
 
-8.2 Lower-secondary English (12-15 years old)
+   2.2 Lower-secondary English (12-15 years old)
 
 I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing in an immersive method. 
 
-
-8.3  Upper-secondary English (15-18 years old)
+   2.3  Upper-secondary English (15-18 years old)
 
 Making learning meaninful related to students' experiences
 
-8.4  University Interdisciplinary Learning (Adults)
+   2.4  University Interdisciplinary Learning (Adults)
 
-8.5 IELTS Exam-Preparation
+   2.5 IELTS Exam-Preparation
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
 
