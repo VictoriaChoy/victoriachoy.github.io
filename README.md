@@ -2,6 +2,8 @@
 
 # Welcome to My Teaching Portfolio
 
+<img src="welcome-19.gif" align="center"/>
+
 ## Table of Contents
 
 ### [About me](#about-me-1)
@@ -19,6 +21,8 @@
 ### [Appendix](#appendix-1)
 
 ### About me
+
+<img src="all about me s.gif" align="center"/>
 
 I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the _transdisciplinary approach_.
 
@@ -63,6 +67,8 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
 ### Teaching Philosophy
+
+<img src="thinking s.gif" align="center"/> 
 
 My preliminary understanding of teaching philosophy is about the _student-centered methodology.
 
@@ -239,6 +245,8 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
 ### Teaching and Learning
+
+<img src="teaching and learning s.gif" align="center"/>
 
 My understanding of a teacher's roles has been developing since I practiced the _huamnistic approach_ in the beginning of my teaching career, or earlier as a _service-oriented_ sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a _facilitator_ of students for their learning and personal growth in life, an _engaging instructor_ seeking to make learning meaningful by connecting inquiry with students' life experiences, a _life-long inquirer_ for innovative pedagogy, effective practice, and changing identity, a _collaborator_ and dedicated _servant for the learning community_, and above all, a _global citizen_.
 
@@ -461,6 +469,8 @@ Making learning meaninful related to students' experiences
 
 ### Professional Learning and Future Growth
 
+<img src="development s.gif" align="center"/>
+
 I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
 
 1.0 MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
@@ -515,6 +525,8 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ### Honors
 
+<img src="honor s.gif" align="center"/>
+
 Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
@@ -522,6 +534,8 @@ Embassador of University of the People
 #### _back to the table of contents_ [↩](#table-of-contents) 
 
 ### Associations
+
+<img src="association s.gif" align="center"/>
 
 IBO Official Website: <https://www.ibo.org>
 
@@ -543,13 +557,41 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 4. Website Builder References:
 
+- All about me Icon
+
+<https://blazonsart.com/scraps/general_scraps/about_me/about-me-1.gif>
+
+- Association 
+
+<https://th.bing.com/th/id/R.2859ae9b2db4c5e1f04dea3a1b1a8acf?rik=KzZPjItgHcEVjQ&riu=http%3a%2f%2fextend.schoolwires.com%2fClipartGallery%2fimages%2f32441114.gif&ehk=oNOJVaMpWUjIoKjNnDm3zCzR7j3Enxz%2bFramp7xPIxo%3d&risl=&pid=ImgRaw&r=0>
+
 - Banner: Teacher-gif.gif
 
 <https://cdn1.zedua.com/2019/08/teacher-gif.gif>
 
+- Honor Icon 
+
+<https://media.giphy.com/media/39m6UsBsTMn3zYxpMa/200.gif>
+
+- Professional Development
+
+<https://media1.giphy.com/media/d8utytTOqwbHGtXJqM/source.gif>
+
 - Reading Icon
 
 <https://www.deviantart.com/sewong/art/Animation-Reading-oneself-285737478>
+
+- Teaching and Learning Icon
+
+<https://th.bing.com/th/id/R.4df6e79e7c77fcc74ac77a13659bf4e9?rik=h7xhOvh8iCbAaQ&pid=ImgRaw&r=0>
+
+- Thinking 
+
+<https://th.bing.com/th/id/R.fa813f08fb4a54e7f512c062c25aaa19?rik=acMIG83Pyv0IBA&pid=ImgRaw&r=0>
+
+- Welcome Icon
+
+<https://bestanimations.com/Text/Welcome/welcome-19.gif>
 
 #### _back to the table of contents_ [↩](#table-of-contents) 
 
