@@ -266,7 +266,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ### Teaching and Learning
 
-<img src="teaching and learning s.gif" align="center"/
+<img src="teaching and learning s.gif" align="center"/>
 
 My understanding of a teacher's roles has been developing since I practiced the _huamnistic approach_ in the beginning of my teaching career, or earlier as a _service-oriented_ sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a _facilitator_ of students for their learning and personal growth in life, an _engaging instructor_ seeking to make learning meaningful by connecting inquiry with students' life experiences, a _life-long inquirer_ for innovative pedagogy, effective practice, and changing identity, a _collaborator_ and dedicated _servant for the learning community_, and above all, a _global citizen_.
 
@@ -280,7 +280,7 @@ Positions at the Startup Smart-tech Company
  
 1.1. A Facilitator of Learning and Personal Growth
 
-<img src="facilitator s.gif" align="center"/
+<img src="facilitator s.gif" align="center"/>
 
   1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
                                 
@@ -318,7 +318,7 @@ The Link to _Generation Genius_ Science Lessons
 
 1.2. An Engaging Instructor
 
-<img src="engager s.gif" align="center"/
+<img src="engager s.gif" align="center"/>
 
 I have been practicing the project-based and hands-on approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning with a cost-effective approach. I also rely on my personality and body language to engage early learners. Here are some examples.
 
@@ -366,7 +366,7 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 1.3. A Collaborator and Dedicated Servant for the Learning Community
                            
-<img src="collaborator s.gif" align="center"/
+<img src="collaborator s.gif" align="center"/>
 
 A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. The dynamic learning community work together with coordinated efforts, aiming at positive impact on families, and students' and teachers' lifetime development, and the social progress under the guidance of educational principles, ie. _progressivism_, _constructivism_, _critical pedagogy_, and _social reconstructionism_.  
 
@@ -416,7 +416,7 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 1.4. A Life-long Inquirer
 
-<img src="inquirer s.gif" align="center"/
+<img src="inquirer s.gif" align="center"/>
 
 Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the similarities and differences between China and the west in social, economic, political, historical, cultural and educatinonal contexts. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west.
 
