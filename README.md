@@ -80,6 +80,8 @@ The journey of inquiry about my teaching philosophy turns out impactful for the 
 
 2.1 The Period of Self-awareness (2012-2013)
 
+<img src="self awareness s.gif" align="center"/>
+
 After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
 
 ![image](https://user-images.githubusercontent.com/109213222/180481037-0904f246-a3b4-45da-ab66-4858b22d69ba.png)
@@ -93,6 +95,8 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 <https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students>)
 
 2.2 The Period of Practice & Collaboration (2014-2017)
+
+<img src="collaboration s.gif" align="center"/>
 
 The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the _transdisciplinary_ nature in language teaching, especially _project-based learning_ with _differentiated rewards_ designed for topics in the curriculum, serving multiple purposes such as _provocations_, project models, _positive reinforcement_, and more opportunities for the drill of _productive skills_. The _hands-on approach_ has been well developed since then.
 
@@ -145,6 +149,8 @@ Apart from my major responsibility to deliver innovative classes to early learne
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of _inclusion education_.
 
 2.3 The Period of Collaboration and Leadership (2017-now)
+
+<img src="leadership s.gif" align="center"/>
 
 I have been in charge of _curriculum development_ and teaching faculty since I started working in day-care centers for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
 
@@ -569,9 +575,17 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 <https://cdn1.zedua.com/2019/08/teacher-gif.gif>
 
+- Collaboration 
+
+<https://th.bing.com/th/id/R.10bcc1de2a44d01f8fee3dd2cefa633f?rik=V3D%2f0XbWKXjktw&riu=http%3a%2f%2fmoqups.com%2fblog%2fwp-content%2fuploads%2f2019%2f08%2fteam_reveal_nocurtain.gif&ehk=8y4%2b8dk%2b7dnpXwz%2bQI7tGVc2FhRDxI07E4h87WiEW3g%3d&risl=&pid=ImgRaw&r=0>
+
 - Honor Icon 
 
 <https://media.giphy.com/media/39m6UsBsTMn3zYxpMa/200.gif>
+
+- Leadership 
+
+<https://api.time.com/wp-content/uploads/2020/08/CEO-COVID-STORM.gif>
 
 - Professional Development
 
@@ -580,6 +594,10 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 - Reading Icon
 
 <https://www.deviantart.com/sewong/art/Animation-Reading-oneself-285737478>
+
+- Self-awarness 
+
+<https://media0.giphy.com/media/QvRVUhIumAK9RPqVcN/source.gif>
 
 - Teaching and Learning Icon
 
