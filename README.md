@@ -240,7 +240,7 @@ George Walker, 2010, _East is East and West is West_
 
 Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational foundations for teachers: The history, philosophy, and culture of schooling_ (pp. 399-430)
 
-#### _back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents) 
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
@@ -463,7 +463,7 @@ Making learning meaninful related to students' experiences
 
 8.5 IELTS Exam-Preparation
 
-#### _back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents) 
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
@@ -519,7 +519,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![image](https://user-images.githubusercontent.com/109213222/181924509-289acf94-9b42-4b97-b212-8b55a6608926.png)
 
-#### _back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents) 
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
@@ -531,7 +531,7 @@ Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
 
-#### _back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents) 
 
 ### Associations
 
@@ -545,7 +545,7 @@ University of the People: <https://www.uopeople.edu/>
 
 World schools: <https://world-schools.com/the-best-international-schools-in-asia/>
 
-#### _back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents) 
 
 ### Appendix
 
