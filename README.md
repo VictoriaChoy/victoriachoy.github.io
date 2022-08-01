@@ -1,4 +1,4 @@
-<img src="teacher.gif" align="left"/>
+<img src="teacher-gif.gif" align="center"/>
 
 # Welcome to My Teaching Portfolio
 
@@ -58,10 +58,9 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 
 1.3 Curriculum Vitae (Appendix)
 
-<img src="animated-up_arrow-red-yellow.gif" align="left"/>
+#### _Back to the table of contents_ [↩](#table-of-contents) 
 
-
-[↩](#table-of-contents)
+<img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
 ### Teaching Philosophy
 
@@ -235,7 +234,9 @@ George Walker, 2010, _East is East and West is West_
 
 Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational foundations for teachers: The history, philosophy, and culture of schooling_ (pp. 399-430)
 
-[↩](#table-of-contents)
+#### _back to the table of contents_ [↩](#table-of-contents) 
+
+<img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
 ### Teaching and Learning
 
@@ -454,8 +455,9 @@ Making learning meaninful related to students' experiences
 
 8.5 IELTS Exam-Preparation
 
+#### _back to the table of contents_ [↩](#table-of-contents) 
 
-[↩](#table-of-contents)
+<img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
 ### Professional Learning and Future Growth
 
@@ -507,7 +509,9 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![image](https://user-images.githubusercontent.com/109213222/181924509-289acf94-9b42-4b97-b212-8b55a6608926.png)
 
-[↩](#table-of-contents)
+#### _back to the table of contents_ [↩](#table-of-contents) 
+
+<img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
 ### Honors
 
@@ -515,7 +519,7 @@ Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
 
-[↩](#table-of-contents)
+#### _back to the table of contents_ [↩](#table-of-contents) 
 
 ### Associations
 
@@ -527,6 +531,8 @@ University of the People: <https://www.uopeople.edu/>
 
 World schools: <https://world-schools.com/the-best-international-schools-in-asia/>
 
+#### _back to the table of contents_ [↩](#table-of-contents) 
+
 ### Appendix
 
 1. CV
@@ -537,10 +543,6 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 4. Website Builder References:
 
-- Back to Top Arrow
-
-<http://3.bp.blogspot.com/-D6QT1TXPPhc/U78XF21xFKI/AAAAAAAALis/eXRPy4sBdLI/s1600/animated-up_arrow-red-yellow.gif>
-
 - Banner: Teacher-gif.gif
 
 <https://cdn1.zedua.com/2019/08/teacher-gif.gif>
@@ -549,8 +551,6 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 <https://www.deviantart.com/sewong/art/Animation-Reading-oneself-285737478>
 
-<img src="animated-up_arrow-red-yellow.gif" align="left"/>
-
-[↩](#table-of-contents)
+#### _back to the table of contents_ [↩](#table-of-contents) 
 
   
