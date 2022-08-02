@@ -292,7 +292,7 @@ The 6-year-old trouble-maker boy mentioned previously drew a mind map of an Engl
 
 He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His _agency and self-efficacy_ has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
 
-  1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_
+1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_
 
 As the foundation of international-mindedness, IB learner profile and approaches to learning 
 
@@ -370,7 +370,7 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 
 A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. The dynamic learning community work together with coordinated efforts, aiming at positive impact on families, and students' and teachers' lifetime development, and the social progress under the guidance of educational principles, ie. _progressivism_, _constructivism_, _critical pedagogy_, and _social reconstructionism_.  
 
-  1.3.1 Collaborative Strategies
+1.3.1 Collaborative Strategies
 
 A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect, open communication 
 
@@ -428,6 +428,8 @@ Mark K Shum, Ian Hill, 2015, _Infusing IB Philosophy and Pedagogy into Chinese L
 
 1.5.0 Effective Learning and Teaching Informed by Diagnostic, Formative and Summative Assessment
 
+![image](https://user-images.githubusercontent.com/109213222/182389417-5915df37-35f6-4202-a091-1edca3f8d2e9.png)
+
 Assessment Culture has arisen as valid measures of learning against traditional tests since the 20th century. It develops within the learning community shared understanding and language of what, why and how to assess to inform and adjust teaching and learning. Fostering assessment culture requires development of assessment capability, integrated-assessment policy, collaboration in assessment among students and teachers,and professional development.
 
 1.5.1. Diagnosticc Assessment and Formative Assessment
@@ -444,12 +446,17 @@ Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p. 8)
 
 4) Data-based decision making for instruction, movement within the multi-level system, and disability identification (in accordance with state law)
 
-Example of Formative Assessment Designed for Approaches to Learning (2 years old)
+Example of Formative Assessment Designed for Approaches to Learning (1.5-2 years old)
+
+![image](https://user-images.githubusercontent.com/109213222/182388107-699ebe55-6249-40ea-b198-455b5c56758b.png)
 
 Instructor's Feedback
 
+![image](https://user-images.githubusercontent.com/109213222/182388523-2d25837c-3baf-4c78-b211-aa4032db56f1.png)
+
 1.5.2 Summative Assessment
 
+![image](https://user-images.githubusercontent.com/109213222/182388577-e5c99af3-a54a-41ae-a72f-1293442c522f.png)
 
 References：
 
@@ -476,10 +483,17 @@ Meaning:
 
 - Providing appropriate levels of challenge and active engagement in rigorous, relevant and significant learning
 
-Example of Differentiated Instruction and Assignment
+Example of Differentiated Instruction and Assignments for 9-12 Years Old
 
+![image](https://user-images.githubusercontent.com/109213222/182388965-70b61098-3a6f-479b-a50f-48061af63797.png)
 
+Students were asked to complete the worksheet according to what they liked and could do. For example, a 6th-grader boy finished more writing than a 2nd-grader did. 
 
+![image](https://user-images.githubusercontent.com/109213222/182388879-9e815087-1f18-49c7-85b2-3f92fa7c720b.png)
+
+Assignment in Transdisciplinary Approach 
+
+![image](https://user-images.githubusercontent.com/109213222/182394163-083332d6-1101-49f4-9306-ffc8408959fc.png)
 
 1.7 Visible Thinking Routines
 
@@ -496,13 +510,19 @@ Example of Differentiated Instruction and Assignment
 
 2.1 Early Learning
 
-- The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
+- The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate. 
 
 Final topic: international-mindedness
 
 Group Inquiry Question:
 
   How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
+  
+  ![image](https://user-images.githubusercontent.com/109213222/182394603-17a3508d-b3e9-4e4a-b56d-429368eac223.png)
+
+ 
+  ![image](https://user-images.githubusercontent.com/109213222/182390190-b40c10e5-213a-486d-b480-3e5fac73828a.png)
+
 
 2.2 Lower-secondary English (12-15 years old)
 
@@ -520,6 +540,7 @@ Connecting Contents of Listening Exercise with a College Candidate's Arts Learni
 The scenes depicted in the advertisement were as vivid as in a painting that requires imagination and attention to details.
 
 
+
 2.4 University Interdisciplinary Learning (Adults)
 
 Being aware of the importance of key subject mastery to student success in the 21st century (Battelle for Kids, p. 2), I have been helping one of my college students with her written assignments in English through modeling with explanations and samples. I once taught her to surf the internet with keywords in a global interdisciplinary theme (the Covid-19 pandemic) and a dual-mode presentation of data in a Microsoft Excel document for her final presentation on the impact of the pandemic with the inquiry of the concept, connections, one of the sixteen interdisciplinary key concepts in MYP (IBO, 2014, p. 66), with citations in APA format. I also suggested a mind map software for her to prepare the speech. The teaching method has worked well so far, with her score for the final presentation at 13.5/14. The learning outcome has strengthened the student’s _self-efficacy_, i.e. confidence in learning and greater effort for more academic achievements (IBO, 2018, p.2).
@@ -527,6 +548,10 @@ Being aware of the importance of key subject mastery to student success in the 2
 2.5 IELTS Exam-Preparation
 
 From my experiences of teaching IELTS and learning of IB PYP educator certificate, I believe academic achievements can be gained by combining units of inquiry with subject matter. In fact, what students can learn from this type of integrated course goes beyond high achievements in knowledge mastery. The soft skills they can acquire and connections across disciplines they can inquire about would benefit them for their learning in higher education, their personal life, future career, and professional development.
+
+Example of Integrated Lesson 
+
+![image](https://user-images.githubusercontent.com/109213222/182393242-668ba3f6-f5b5-4eea-b0b9-79649f58094b.png)
 
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
@@ -584,6 +609,10 @@ I would complete the courses for IB educator certificate in August. After that, 
 10.0 Professional Director of Kindergarten
 
 ![image](https://user-images.githubusercontent.com/109213222/181924509-289acf94-9b42-4b97-b212-8b55a6608926.png)
+
+11.0 IELTS Academic Band 7.5
+
+
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
 
