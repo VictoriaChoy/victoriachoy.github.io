@@ -580,8 +580,12 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 ### Appendix
 
 1. CV
+
+
   
-2. Reference Letter
+2. Reference Letter from Former Principal of _EF_ China
+
+![image](https://user-images.githubusercontent.com/109213222/182343887-b000dd07-30ee-4c1d-a9a7-949c6c56d136.png)
 
 3. Student Feedback
 
