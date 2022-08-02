@@ -464,7 +464,7 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 
 Meaning:
 
-- affirming that students have different learning needs, strengths, styles, interests and preferences
+- Affirming that students have different learning needs, strengths, styles, interests and preferences
 
 - Affirming the importance and value of all students’ work
 
@@ -477,6 +477,7 @@ Meaning:
 - Providing appropriate levels of challenge and active engagement in rigorous, relevant and significant learning
 
 Example of Differentiated Instruction and Assignment
+
 
 
 
@@ -505,11 +506,17 @@ Group Inquiry Question:
 
 2.2 Lower-secondary English (12-15 years old)
 
-I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing in an immersive method.
+I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students reading for writing in an immersive method.
+
 
 2.3 Upper-secondary English (15-18 years old)
 
-Making learning meaninful related to students' experiences
+For this age group, it is extremely important to make learning meaningful related to students' experiences aiming to motivate them during the study for exam preparation.
+
+Example of Meaningful Learning
+
+Connecting Contents of Listening Exercise with an Art-major College Candidate
+
 
 2.4 University Interdisciplinary Learning (Adults)
 
