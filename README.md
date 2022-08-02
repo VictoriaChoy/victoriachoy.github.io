@@ -232,7 +232,7 @@ Here is an example.
 
 In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between western educational philosophy and traditional Chinese counterpart because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with _positive discipline_ (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in discipline, cooperative learning, autonomous leadership, and initiative in learning.
 
-![image](https://user-images.githubusercontent.com/109213222/182182083-571e5ac6-f41e-4bd4-b8fa-bb19bbd27d5d.png)
+![positive discipline](https://user-images.githubusercontent.com/109213222/182412572-28630914-5e69-4a58-bf04-c8275abe7f61.jpg)
 
 <https://www.amazon.com/Positive-Discipline-Jane-Nelsen-EdD-audio/dp/B076FJJHC1/ref=sr_1_1?crid=3DV5SL4XHPVKH&keywords=positive+discipline&qid=1659363342&sprefix=%2Caps%2C1290&sr=8-1>
 
@@ -276,8 +276,8 @@ Product Concept of The Co-developed Power Plant
 
 Positions at the Startup Smart-tech Company
 
-![image](https://user-images.githubusercontent.com/109213222/182182947-04d44568-ab78-40c5-85de-b004bdfec61b.png)
- 
+![CB intro](https://user-images.githubusercontent.com/109213222/182413096-7d8ab72a-fb75-4bde-9d0b-437df07de76c.JPG)
+
 1.1. A Facilitator of Learning and Personal Growth
 
 <img src="facilitator s.gif" align="center"/>
@@ -394,6 +394,10 @@ Teaching assistants became more confident and assured about their responsibiliti
 
 ![image](https://user-images.githubusercontent.com/109213222/181745224-7c2b48ae-95a7-4355-972e-1f85d7a30d79.png)
 
+- Feedback on a Colleague's Assignment for the MEd. Course
+
+![assignment feedbac](https://user-images.githubusercontent.com/109213222/182411247-78133515-af2e-48c1-b21c-7efbf990fb1a.jpg)
+
 - Reflection on Educational Leadership
 
 I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
@@ -448,15 +452,15 @@ Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p. 8)
 
 Example of Formative Assessment Designed for Approaches to Learning (1.5-2 years old)
 
-![image](https://user-images.githubusercontent.com/109213222/182388107-699ebe55-6249-40ea-b198-455b5c56758b.png)
+![prek formative](https://user-images.githubusercontent.com/109213222/182413558-98e3e266-c966-4d8c-9563-d89ef0e31106.png)
 
 Instructor's Feedback
 
-![image](https://user-images.githubusercontent.com/109213222/182388523-2d25837c-3baf-4c78-b211-aa4032db56f1.png)
+![ATL feedback](https://user-images.githubusercontent.com/109213222/182413832-c6571cf0-4a8b-4c55-a630-b8d914b4490e.png)
 
 1.5.2 Summative Assessment
 
-![image](https://user-images.githubusercontent.com/109213222/182388577-e5c99af3-a54a-41ae-a72f-1293442c522f.png)
+![summative](https://user-images.githubusercontent.com/109213222/182414028-527a577d-712f-4309-a921-458386adbf20.png)
 
 References：
 
@@ -485,7 +489,7 @@ Meaning:
 
 Example of Differentiated Instruction and Assignments for a Transdisciplinary Unit (8-12 Years Old)
 
-![image](https://user-images.githubusercontent.com/109213222/182388965-70b61098-3a6f-479b-a50f-48061af63797.png)
+![DI](https://user-images.githubusercontent.com/109213222/182414196-9842b842-2858-45f4-b3ac-82d6ab2df2e1.png)
 
 Students were asked to complete the worksheet according to what they liked and could do. For example, a 6th-grader boy finished more writing than a 2nd-grader did. 
 
@@ -493,11 +497,11 @@ Students were asked to complete the worksheet according to what they liked and c
 
 Assignment in Transdisciplinary Approach 
 
-![image](https://user-images.githubusercontent.com/109213222/182394163-083332d6-1101-49f4-9306-ffc8408959fc.png)
+![BAR CHART](https://user-images.githubusercontent.com/109213222/182414384-e5984a4b-90ed-472f-9aab-c347a59e5fff.png)
 
 Instructor's Feedback on the Lesson Plan
 
-![image](https://user-images.githubusercontent.com/109213222/182404430-44bf4135-4869-4062-bb2c-f8c7de969dc4.png)
+![FEEDACK LP](https://user-images.githubusercontent.com/109213222/182414610-a804eab8-33cc-45fc-b03d-f96874599125.png)
 
 1.7 Visible Thinking Routines
 
@@ -510,11 +514,12 @@ Instructor's Feedback on the Lesson Plan
 
 ![image](https://user-images.githubusercontent.com/109213222/182396724-8fa3ce1f-409d-4d14-b6dd-56dc2b91d98a.png)
 
-![image](https://user-images.githubusercontent.com/109213222/182396866-0639b9cf-16da-4ff6-bbe5-dfa75d45c1b3.png)
+
+![FIRE](https://user-images.githubusercontent.com/109213222/182414780-bf0b9335-b65e-4554-9e6b-fecde9ce6977.png)
 
 - The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
 
-![image](https://user-images.githubusercontent.com/109213222/182397674-39558d0c-ac2e-40aa-8ea0-7329acb8987d.png)
+![JELLY](https://user-images.githubusercontent.com/109213222/182414973-c30395a9-783e-4f66-8aa1-0a23b1ac96e4.png)
 
 2.0 Curriculum Development
 
@@ -528,10 +533,10 @@ Group Inquiry Question:
 
   How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
   
-  ![image](https://user-images.githubusercontent.com/109213222/182394603-17a3508d-b3e9-4e4a-b56d-429368eac223.png)
-
+![image](https://user-images.githubusercontent.com/109213222/182394603-17a3508d-b3e9-4e4a-b56d-429368eac223.png)
+  
  
-  ![image](https://user-images.githubusercontent.com/109213222/182390190-b40c10e5-213a-486d-b480-3e5fac73828a.png)
+![JELLY](https://user-images.githubusercontent.com/109213222/182415513-5366296e-309e-41bc-b448-f7dd8988c557.png)
 
 
 2.2 Lower-secondary English (12-15 years old)
@@ -561,9 +566,9 @@ Being aware of the importance of key subject mastery to student success in the 2
 
 From my experiences of teaching IELTS and learning of IB PYP educator certificate, I believe academic achievements can be gained by combining units of inquiry with subject matter. In fact, what students can learn from this type of integrated course goes beyond high achievements in knowledge mastery. The soft skills they can acquire and connections across disciplines they can inquire about would benefit them for their learning in higher education, their personal life, future career, and professional development.
 
-Example of Integrated Lesson 
+Example of an Integrated Lesson 
 
-![image](https://user-images.githubusercontent.com/109213222/182393242-668ba3f6-f5b5-4eea-b0b9-79649f58094b.png)
+![integrated](https://user-images.githubusercontent.com/109213222/182415695-96125556-e68b-4929-9f26-ab2e6764839c.png)
 
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
@@ -666,9 +671,10 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 3. Student Feedback
 
-![9bc52377ebe4702b773f1befe0c9017](https://user-images.githubusercontent.com/109213222/182405597-db7d43d0-fe1e-43eb-a2f1-7a173155fef2.jpg)
+![feedback s](https://user-images.githubusercontent.com/109213222/182411599-4a72e632-4a5b-4560-be49-96ab2a90c82c.JPG)
 
-![c2252b7b523178030e1fbb3e37b6f11](https://user-images.githubusercontent.com/109213222/182405688-38a5a5ed-cb7c-45c7-8bf9-2deaeaab19c7.jpg)
+![feedback2](https://user-images.githubusercontent.com/109213222/182411934-e9b1b3aa-e610-4011-939f-04c5d29cddf3.jpg)
+
 
 References:
 
