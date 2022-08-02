@@ -483,7 +483,7 @@ Meaning:
 
 - Providing appropriate levels of challenge and active engagement in rigorous, relevant and significant learning
 
-Example of Differentiated Instruction and Assignments for 9-12 Years Old
+Example of Differentiated Instruction and Assignments for a Transdisciplinary Unit (8-12 Years Old)
 
 ![image](https://user-images.githubusercontent.com/109213222/182388965-70b61098-3a6f-479b-a50f-48061af63797.png)
 
@@ -495,6 +495,10 @@ Assignment in Transdisciplinary Approach
 
 ![image](https://user-images.githubusercontent.com/109213222/182394163-083332d6-1101-49f4-9306-ffc8408959fc.png)
 
+Instructor's Feedback on the Lesson Plan
+
+![image](https://user-images.githubusercontent.com/109213222/182404430-44bf4135-4869-4062-bb2c-f8c7de969dc4.png)
+
 1.7 Visible Thinking Routines
 
 
@@ -504,7 +508,13 @@ Assignment in Transdisciplinary Approach
 
 - The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
 
+![image](https://user-images.githubusercontent.com/109213222/182396724-8fa3ce1f-409d-4d14-b6dd-56dc2b91d98a.png)
+
+![image](https://user-images.githubusercontent.com/109213222/182396866-0639b9cf-16da-4ff6-bbe5-dfa75d45c1b3.png)
+
 - The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
+
+![image](https://user-images.githubusercontent.com/109213222/182397674-39558d0c-ac2e-40aa-8ea0-7329acb8987d.png)
 
 2.0 Curriculum Development
 
@@ -537,13 +547,15 @@ Example of Meaningful Learning:
 
 Connecting Contents of Listening Exercise with a College Candidate's Arts Learning Experience
 
-The scenes depicted in the advertisement were as vivid as in a painting that requires imagination and attention to details.
+The scenes depicted in the advertisement were as vivid as in a painting that requires imagination and attention to details. The descriptive skill could be used in graphic design for advertisement.
 
-
+![image](https://user-images.githubusercontent.com/109213222/182398139-cea7b541-d23e-41db-a6f3-71f58ba42ae8.png)
 
 2.4 University Interdisciplinary Learning (Adults)
 
 Being aware of the importance of key subject mastery to student success in the 21st century (Battelle for Kids, p. 2), I have been helping one of my college students with her written assignments in English through modeling with explanations and samples. I once taught her to surf the internet with keywords in a global interdisciplinary theme (the Covid-19 pandemic) and a dual-mode presentation of data in a Microsoft Excel document for her final presentation on the impact of the pandemic with the inquiry of the concept, connections, one of the sixteen interdisciplinary key concepts in MYP (IBO, 2014, p. 66), with citations in APA format. I also suggested a mind map software for her to prepare the speech. The teaching method has worked well so far, with her score for the final presentation at 13.5/14. The learning outcome has strengthened the student’s _self-efficacy_, i.e. confidence in learning and greater effort for more academic achievements (IBO, 2018, p.2).
+
+![image](https://user-images.githubusercontent.com/109213222/182403058-81a7ed2c-6ded-44ae-bc34-ad4697258add.png)
 
 2.5 IELTS Exam-Preparation
 
@@ -612,7 +624,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 11.0 IELTS Academic Band 7.5
 
-
+![image](https://user-images.githubusercontent.com/109213222/182404650-8657bbed-38ee-41a4-a4a8-fc068f717e5f.png)
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
 
@@ -653,6 +665,10 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 ![image](https://user-images.githubusercontent.com/109213222/182343887-b000dd07-30ee-4c1d-a9a7-949c6c56d136.png)
 
 3. Student Feedback
+
+![9bc52377ebe4702b773f1befe0c9017](https://user-images.githubusercontent.com/109213222/182405597-db7d43d0-fe1e-43eb-a2f1-7a173155fef2.jpg)
+
+![c2252b7b523178030e1fbb3e37b6f11](https://user-images.githubusercontent.com/109213222/182405688-38a5a5ed-cb7c-45c7-8bf9-2deaeaab19c7.jpg)
 
 References:
 
