@@ -434,7 +434,11 @@ Assessment Culture has arisen as valid measures of learning against traditional 
 
 I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ by the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of student-involved classroom assessment to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
 
+Functions of 
 Example of Formative Assessment Designed for Approaches to Learning (2 years old)
+
+
+Instructor's Feedback 
 
 1.5.2 Summative Assessment
 
@@ -446,11 +450,10 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 
 <https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
 
-1.6 Universal-design Learning
 
-1.7 Differentiated Instruction
+1.6 Differentiated Instruction
 
-1.8 Visible thinking routines
+1.7 Visible thinking routines
 
 2.0 Cases
 
