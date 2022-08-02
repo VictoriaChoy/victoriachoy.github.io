@@ -585,6 +585,20 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 3. Student Feedback
 
+References:
+
+- _Reduction of the Students´ Evaluation of Education Quality Questionnaire_
+
+<https://upcommons.upc.edu/bitstream/handle/2117/20162/29.pdf?sequence=1>
+
+- _Student Evaluation of Educational Quality (SEEQ) Standardized Instrument at the U of S_ 
+
+<https://teaching.usask.ca/documents/seeq/Standardized_SEEQ_Instrument_at_UofS.pdf>
+
+- _Student Feedback on Teaching in Schools
+
+<https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
+
 4. Website Builder References:
 
 - All about me Icon
