@@ -513,14 +513,21 @@ I developed curriculum for this age group based on Oxford's textbooks _Discover_
 
 For this age group, it is extremely important to make learning meaningful related to students' experiences aiming to motivate them during the study for exam preparation.
 
-Example of Meaningful Learning
+Example of Meaningful Learning:
 
-Connecting Contents of Listening Exercise with an Art-major College Candidate
+Connecting Contents of Listening Exercise with a College Candidate's Arts Learning Experience
+
+The scenes depicted in the advertisement were as vivid as in a painting that requires imagination and attention to details.
 
 
 2.4 University Interdisciplinary Learning (Adults)
 
+Being aware of the importance of key subject mastery to student success in the 21st century (Battelle for Kids, p. 2), I have been helping one of my college students with her written assignments in English through modeling with explanations and samples. I once taught her to surf the internet with keywords in a global interdisciplinary theme (the Covid-19 pandemic) and a dual-mode presentation of data in a Microsoft Excel document for her final presentation on the impact of the pandemic with the inquiry of the concept, connections, one of the sixteen interdisciplinary key concepts in MYP (IBO, 2014, p. 66), with citations in APA format. I also suggested a mind map software for her to prepare the speech. The teaching method has worked well so far, with her score for the final presentation at 13.5/14. The learning outcome has strengthened the student’s _self-efficacy_, i.e. confidence in learning and greater effort for more academic achievements (IBO, 2018, p.2).
+
 2.5 IELTS Exam-Preparation
+
+From my experiences of teaching IELTS and learning of IB PYP educator certificate, I believe academic achievements can be gained by combining units of inquiry with subject matter. In fact, what students can learn from this type of integrated course goes beyond high achievements in knowledge mastery. The soft skills they can acquire and connections across disciplines they can inquire about would benefit them for their learning in higher education, their personal life, future career, and professional development.
+
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
 
