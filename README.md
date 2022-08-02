@@ -426,28 +426,31 @@ Mark K Shum, Ian Hill, 2015, _Infusing IB Philosophy and Pedagogy into Chinese L
 
 <https://www.amazon.com/Infusing-Philosophy-Pedagogy-Language-Teaching/dp/1909717657>
 
-1.5.0 Effective Learning and Teaching
+1.5.0 Effective Learning and Teaching Informed by Diagnostic, Formative and Summative Assessment
 
-  1.5.1 Assessment Design
+Assessment Culture has arisen as valid measures of learning against traditional tests since the 20th century. It develops within the learning community shared understanding and language of what, why and how to assess to inform and adjust teaching and learning. Fostering assessment culture requires development of assessment capability, integrated-assessment policy, collaboration in assessment among students and teachers,and professional development.
 
-      1.5.1.1.1 Diagnosticc Assessment
+1.5.1. Diagnosticc Assessment and Formative Assessment
 
-      1.5.1.1.2 Formative Assessment
+I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ by the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of student-involved classroom assessment to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
 
-      1.5.1.1.3 Summative Assessment
+Example of Formative Assessment Designed for Approaches to Learning (2 years old)
+
+1.5.2 Summative Assessment
 
 
 References：
 
+Rick Stiggins and Jan Chappuis, _Using Student-Involved Classroom Assessment to Close Achievement Gaps_
 Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on Teaching in SChools_
 
 <https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
 
-   1.5.2 Universal-design Learning
+1.6 Universal-design Learning
 
-   1.5.3 Differentiated Instruction
+1.7 Differentiated Instruction
 
-   1.5.4 Visible thinking routines
+1.8 Visible thinking routines
 
 2.0 Cases
 
@@ -465,7 +468,7 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 
       2.1.5.1 The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
 
-<https://drive.google.com/file/d/1AdfslAp7so1_hNYzXmHL3xhpi1R9Cojx/view?usp=sharing>
+
 
       2.1.5.2 The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
 
@@ -479,7 +482,6 @@ Group Inquiry Question:
 
   How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
 
-<https://docs.google.com/presentation/d/1aqLuaDzQA2Fxlv7gVzXXcgO0NpDnMH0l/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true>
 
    2.2 Lower-secondary English (12-15 years old)
 
