@@ -432,52 +432,70 @@ Assessment Culture has arisen as valid measures of learning against traditional 
 
 1.5.1. Diagnosticc Assessment and Formative Assessment
 
-I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ by the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of student-involved classroom assessment to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
+I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of student-involved classroom assessment to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
 
-Functions of 
+Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p. 8)
+
+1) Using screening and formative assessment data to identify students at risk for poor learning outcomes
+
+2) Monitoring the effectiveness of instruction (i.e., progress monitoring)
+
+3) Implementing multi-leveled evidence-based instruction that is matched to students’ instructional needs
+
+4) Data-based decision making for instruction, movement within the multi-level system, and disability identification (in accordance with state law)
+
 Example of Formative Assessment Designed for Approaches to Learning (2 years old)
 
-
-Instructor's Feedback 
+Instructor's Feedback
 
 1.5.2 Summative Assessment
 
 
 References：
 
+Julie Esparza Brown and Amanda K. Sanford, 2011, _RTI for English Language Learners: Appropriately RTI for English Language Learners
+
 Rick Stiggins and Jan Chappuis, _Using Student-Involved Classroom Assessment to Close Achievement Gaps_
 Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on Teaching in SChools_
 
 <https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
 
-
 1.6 Differentiated Instruction
 
-1.7 Visible thinking routines
+Meaning:
 
-2.0 Cases
+- affirming that students have different learning needs, strengths, styles, interests and preferences
 
-  2.1 Early Learning Systems (1.5-12 years old)
+- Affirming the importance and value of all students’ work
 
-    2.1.1 Reggio Emilia approach
+- Maintaining a commitment to learning standards and goals for all students
 
-    2.1.2 Montessori
+- Increasing the variety in teaching, learning, and assessment in order to reach more students and respond to their preferences, styles, interests and strengths
 
-    2.1.3 EYFS
+- Acknowledging what students already know and can do
 
-    2.1.4 IB
+- Providing appropriate levels of challenge and active engagement in rigorous, relevant and significant learning
 
-    2.1.5 Unit of Inquiry
-
-      2.1.5.1 The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
+Example of Differentiated Instruction and Assignment
 
 
 
-      2.1.5.2 The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
+1.7 Visible Thinking Routines
 
-     2.1.6 Curriculum Development
 
--The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
+1.8 Early Learning Systems (1.5-12 years old)
+
+1.9 Unit of Inquiry for 3-4 Years Old
+
+- The unit is about fire, one of the five transdisciplinary elements of Chinese Wuxing.
+
+- The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
+
+2.0 Curriculum Development
+
+2.1 Early Learning
+
+- The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
 
 Final topic: international-mindedness
 
@@ -485,18 +503,17 @@ Group Inquiry Question:
 
   How can bilingual/multilingual schools adapt IB philosophy of international mindedness in school practices and curriculum?
 
+2.2 Lower-secondary English (12-15 years old)
 
-   2.2 Lower-secondary English (12-15 years old)
+I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing in an immersive method.
 
-I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinkking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students English writing in an immersive method. 
-
-   2.3  Upper-secondary English (15-18 years old)
+2.3 Upper-secondary English (15-18 years old)
 
 Making learning meaninful related to students' experiences
 
-   2.4  University Interdisciplinary Learning (Adults)
+2.4 University Interdisciplinary Learning (Adults)
 
-   2.5 IELTS Exam-Preparation
+2.5 IELTS Exam-Preparation
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
 
