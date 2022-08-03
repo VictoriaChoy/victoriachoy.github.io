@@ -330,6 +330,8 @@ The attributes of Learner Profile prepare students intellectually, personally, s
 
 ![image](https://user-images.githubusercontent.com/109213222/182599604-171019ad-63a5-4254-9010-a706da54fbfd.png)
 
+<https://www.teacherspayteachers.com/Product/IB-PYP-Learner-Profile-Poster-A3A4-3265927>
+
 Action (includes agency and self-efficacy and international-mindedness) – (The Learner, pp. 1-5 and 29-39)
 
 Within a positive and supportive learning community, IB students are self-motivated, self-directed and confident in their capabilities to own their learning on the concept-based knowledge through sustained inquiries into transdisciplinary themes, by taking autonomous personal or collaborative action on authentic issues, so that the learning community can recognize and nurture students’ agency & self-efficacy in student-teacher partnership by offering opportunities for students to develop approaches to learning and dispositions and to experience the impact of their action in local and global contexts. In this way, learners become more aware of their agency & self-efficacy and more engaged in positive changes to the learning community and beyond. Therefore, as the core of agency, action brings to life the international mindedness （LP）- the demonstration of effective learning and teaching.
@@ -338,7 +340,7 @@ Within a positive and supportive learning community, IB students are self-motiva
 
 <https://blog.siliconvalleyinternational.org/the-inquiry-learning-cycle>
 
-I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy, approaches to learning and IB learner profile.
+I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy, approaches to learning and attributes of the IB learner profile.
 
  ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
 
