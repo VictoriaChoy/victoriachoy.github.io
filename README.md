@@ -340,7 +340,7 @@ Within a positive and supportive learning community, IB students are self-motiva
 
 <https://blog.siliconvalleyinternational.org/the-inquiry-learning-cycle>
 
-I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy, approaches to learning and attributes of the IB learner profile.
+I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning, enhances agency and self-efficacy. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments with the help of the internet after the class. Personally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy, approaches to learning (thinking skills, research skills, self-management skills), and attributes of the IB learner profile (reflective thinker, inquirer, balanced, and open-minded).
 
  ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
 
@@ -560,11 +560,35 @@ Early Learning Systems (1.5-12 years old) - Wonders of the Early Childhood World
 
 These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. Each approach brings a passion and uniqueness to how this outcome could best be achieved.
 
+IB PYP and Montessori
+
+![ib montessori](https://user-images.githubusercontent.com/109213222/182642145-68fab50d-521a-4811-8287-53a507756ee8.JPG)
+
+References:
+
+IBO, 2018, _PYP Learning and Teaching_
+
+
+
+IB PYP and Reggio Emilia
+
+![image](https://user-images.githubusercontent.com/109213222/182643021-d4ee57b4-422f-47dd-a720-b99700ff1b27.png)
+
+Reference:
+
+Christina Shala, 2019, _A Reggio-inspired Approach to the IB's Primary Years Programme_
+
+<https://shala-books.com/education-blog/a-reggio-inspired-approach-to-the-ibs-primary-years-programme>
+
+EYFS in Montessori Setting
+
+![EYFS in Montessori Setting-1](https://user-images.githubusercontent.com/109213222/182642438-cbb64801-96fd-45b4-abd8-4d0a814abba2.JPG)
+
+EYFS Reforms- Creating a Balance between Montessori and Reggio Emilia
 
 
 
 References:
-
 Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, Childhood Education
 
 <https://www.academia.edu/25559536/Childhood_Education_Seven_Wonders_of_the_Early_Childhood_World>
