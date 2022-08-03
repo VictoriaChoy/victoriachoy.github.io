@@ -320,6 +320,10 @@ Approaches to Learning/Skills - (Learning & Teaching, pp. 26-39 and The Learner,
 
 ATL consist of interconnected cognitive and metacognitive skills that support students of all ages to own their learning. These transferrable skills serve as means to inquire into transdisciplinary themes and have a lifelong effect on learning. Synthesization and application of these skills with conceptual understandings and knowledge into transdisciplinary inquiry demonstrates attributes of earner profile. During the process, teachers should be able to pinpoint the connection between LP attributes and ATL, personalize and provide authentic learning opportunities to nurture the development of these skills. At the same time, students become agents by revisiting LP attributes combining ATL. It is when teacher-student partnership is established, with effective learning and teaching activated.
 
+![image](https://user-images.githubusercontent.com/109213222/182597082-d4fdc9d2-8602-4736-a640-8c81d2994c29.png)
+
+<https://learn.wab.edu/myp/atl>
+
 Learner Profile - (The Learner, p. 22-28)
 
 The attributes of Learner Profile prepare students intellectually, personally, socially and emotionally to meet the challenge posed by IB mission to make positive changes to the world. It is IB mission in action, and can be developed, demonstrated and reinforced through student-initiated action facilitated inside and outside the community. The development of LP attributes in turn enhances students’ ability to respond to their inquiries. Collaborative identification and revisiting of appropriate and relevant LP attributes by teachers and students lead to effective learning and teaching.
@@ -327,6 +331,10 @@ The attributes of Learner Profile prepare students intellectually, personally, s
 Action (includes agency and self-efficacy and international-mindedness) – (The Learner, pp. 1-5 and 29-39)
 
 Within a positive and supportive learning community, IB students are self-motivated, self-directed and confident in their capabilities to own their learning on the concept-based knowledge through sustained inquiries into transdisciplinary themes, by taking autonomous personal or collaborative action on authentic issues, so that the learning community can recognize and nurture students’ agency & self-efficacy in student-teacher partnership by offering opportunities for students to develop approaches to learning and dispositions and to experience the impact of their action in local and global contexts. In this way, learners become more aware of their agency & self-efficacy and more engaged in positive changes to the learning community and beyond. Therefore, as the core of agency, action brings to life the international mindedness （LP）- the demonstration of effective learning and teaching.
+
+![inquiry cycle](https://user-images.githubusercontent.com/109213222/182595241-fee233fa-abae-4719-903e-287df4bc46ad.JPG)
+
+<https://blog.siliconvalleyinternational.org/the-inquiry-learning-cycle>
 
 I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments after the class. Peronally speaking, I was quite amazed by his ability to think critically and creatively, and persistence for his interests. The inquiry manifested the higher-order thinking skills in Bloom's Taxonomy, approaches to learning and IB learner profile.
 
