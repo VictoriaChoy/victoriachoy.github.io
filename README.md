@@ -284,6 +284,8 @@ Positions at the Startup Smart-tech Company
 
   1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
                                 
+Conceptualized by Bandura in social cognitive theory, agency “enable[s] people to play a part in their self-development, adaptation, and self-renewal with changing times” (Bandura 2001).
+
 
 
 The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
@@ -365,7 +367,7 @@ Project-based Learning about Sea Animals (3 years old, Literacy, Natural Science
 ![image](https://user-images.githubusercontent.com/109213222/181795560-f8fd2425-cfeb-46a2-890f-d29819b0726d.png)
 
 1.3. A Collaborator and Dedicated Servant for the Learning Community
-                           
+                          
 <img src="collaborator s.gif" align="center"/>
 
 A professional learning community should share a common understanding of the purpose for learning to align with IB’s philosophy and mission, implement programs with the guidance of IB program standards and practices, embrace student-centered educational approaches, and collaborate in effective relationships to foster international-mindedness and learner profile in response to the various local contexts and the changing needs of the learning community. The dynamic learning community work together with coordinated efforts, aiming at positive impact on families, and students' and teachers' lifetime development, and the social progress under the guidance of educational principles, ie. _progressivism_, _constructivism_, _critical pedagogy_, and _social reconstructionism_.  
@@ -507,6 +509,12 @@ Instructor's Feedback on the Lesson Plan
 
 
 1.8 Early Learning Systems (1.5-12 years old)
+
+Early Learning Systems (1.5-12 years old) - Wonders of the Early Childhood World
+
+These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. 
+
+
 
 1.9 Unit of Inquiry for 3-4 Years Old
 
