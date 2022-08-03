@@ -282,17 +282,37 @@ Positions at the Startup Smart-tech Company
 
 <img src="facilitator s.gif" align="center"/>
 
-  1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
+1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
                                 
 Conceptualized by Bandura in social cognitive theory, agency “enable[s] people to play a part in their self-development, adaptation, and self-renewal with changing times” (Bandura 2001).
 
+PYP students with agency use their own initiative and will, and take responsibility and ownership of their learning. They direct their learning with a strong sense of identity and self-belief, and in conjunction with others, thereby building a sense of community and awareness of the opinions, values and needs of others.
 
+![Alignment-between-Banduras-model-of-human-agency-and-theories-of-self-determination-and_W640](https://user-images.githubusercontent.com/109213222/182590910-b7f4eefe-0065-420f-bd60-4b503bc7df7e.jpg)
+
+![Components-of-Self-Efficacy-Sources-Bandura-1997_W640](https://user-images.githubusercontent.com/109213222/182592150-2eadcc3e-640e-4086-b348-742f313c8fd6.jpg)
 
 The 6-year-old trouble-maker boy mentioned previously drew a mind map of an English song about good hygene habits and social distancing.
 
 ![image](https://user-images.githubusercontent.com/109213222/181795230-b609244d-c8b4-45cd-87d9-fb7e813926cb.png)
 
 He used to lack interest in learning English because of the difficult immersive classes with themes integrating different disciplines, such as the personal, social, and physical aspects, literacy, music, dance, and arts mentioned above. His mother would talk to me on Wechat at night about the problems of her son. The boy also talked to me on the phone about his homework including reading aloud the lyrics of the English songs learned in class through our homework App. Aware of his learning difficulty, I recommended him to read only one line per day. When he completed the line, I gave him high praise. Together with his mother, we used positive discipline to acknowledge every little effort the boy made for his further academic improvement. I found him eager to follow my words whenever possible in the class. His willingness to learn was evident when I developed a close relationship with him, who would call me mother secretly. His _agency and self-efficacy_ has been cdeveloping even after I left the training center in Shenzhen, because I have been in contact with his mom.
+
+References:
+
+Abdur Razzaq, Yulia Tri Samiha, Muhammad Anshari, 2018, _Smartphone Habits and Behaviors in Supporting Students Self-Efficacy_
+
+<https://www.researchgate.net/publication/323437617_Smartphone_Habits_and_Behaviors_in_Supporting_Students_Self-Efficacy>
+
+Bandura, A. 2001. “Social cognitive theory: An agentic perspective”. _Annual Review of Psychology_. Vol 52, number 1. Pp 1–-26.
+
+Bandura, A. 1997. _Self-efficacy: The exercise of control_. New York, NY, USA. WH Freeman and Company.
+
+IBO, 2018, _PYP The Learner_
+
+Matthew Brock, John M Schaefer, Rachel Seaman-Tullis, 2019, _Self-determination and Agency for All: Supporting Students with Severe Disabilities_
+
+<https://www.researchgate.net/publication/337853271_Self-determination_and_Agency_for_All_Supporting_Students_with_Severe_Disabilities>
 
 1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_
 
@@ -543,9 +563,7 @@ Group Inquiry Question:
   
 ![image](https://user-images.githubusercontent.com/109213222/182394603-17a3508d-b3e9-4e4a-b56d-429368eac223.png)
   
- 
-![JELLY](https://user-images.githubusercontent.com/109213222/182415513-5366296e-309e-41bc-b448-f7dd8988c557.png)
-
+![framework](https://user-images.githubusercontent.com/109213222/182590102-41b41090-d49d-496a-993f-680fa539fc79.png)
 
 2.2 Lower-secondary English (12-15 years old)
 
