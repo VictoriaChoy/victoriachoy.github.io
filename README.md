@@ -454,7 +454,7 @@ I have been using my previous bosses as counterexamples or role models to reflec
 
 <https://explore.volarisgroup.com/volaris-group-blog/difference-between-a-boss-and-a-leader>
 
-- Inquiry-based Learning Workshop Schedule 
+- Inquiry-based Learning Workshop Schedule
 
 ![image](https://user-images.githubusercontent.com/109213222/181747618-219d191a-6d44-4c55-a61c-8dc5568f8ade.png)
 
@@ -558,7 +558,16 @@ Instructor's Feedback on the Lesson Plan
 
 Early Learning Systems (1.5-12 years old) - Wonders of the Early Childhood World
 
-These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. 
+These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. Each approach brings a passion and uniqueness to how this outcome could best be achieved.
+
+
+
+
+References:
+
+Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, Childhood Education
+
+<https://www.academia.edu/25559536/Childhood_Education_Seven_Wonders_of_the_Early_Childhood_World>
 
 
 
@@ -728,13 +737,15 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 ![feedback2](https://user-images.githubusercontent.com/109213222/182411934-e9b1b3aa-e610-4011-939f-04c5d29cddf3.jpg)
 
 
+The feedback comes from a university student majoring in arts and design. As per her feedback, she has acknowledged teacher agency although much more can be done to raise her interest in English learning, especially preparation for IELTS. Her recent experience in travelling to Tibet would be the next topic to explore. The relevance of learning to her experience would be emphasized in future lesson plans. Personally, I have never asked about her keenness in her major, which would be interesting to talk about, despite my previous intention to connect exam-preparation learning to her major, particularly the commercial or industrial application.
+
 References:
 
 - _Reduction of the Students´ Evaluation of Education Quality Questionnaire_
 
 <https://upcommons.upc.edu/bitstream/handle/2117/20162/29.pdf?sequence=1>
 
-- _Student Evaluation of Educational Quality (SEEQ) Standardized Instrument at the U of S_ 
+- _Student Evaluation of Educational Quality (SEEQ) Standardized Instrument at the U of S_
 
 <https://teaching.usask.ca/documents/seeq/Standardized_SEEQ_Instrument_at_UofS.pdf>
 
@@ -748,7 +759,7 @@ References:
 
 <https://blazonsart.com/scraps/general_scraps/about_me/about-me-1.gif>
 
-- Association 
+- Association
 
 <https://th.bing.com/th/id/R.2859ae9b2db4c5e1f04dea3a1b1a8acf?rik=KzZPjItgHcEVjQ&riu=http%3a%2f%2fextend.schoolwires.com%2fClipartGallery%2fimages%2f32441114.gif&ehk=oNOJVaMpWUjIoKjNnDm3zCzR7j3Enxz%2bFramp7xPIxo%3d&risl=&pid=ImgRaw&r=0>
 
@@ -756,15 +767,15 @@ References:
 
 <https://cdn1.zedua.com/2019/08/teacher-gif.gif>
 
-- Collaboration 
+- Collaboration
 
 <https://th.bing.com/th/id/R.10bcc1de2a44d01f8fee3dd2cefa633f?rik=V3D%2f0XbWKXjktw&riu=http%3a%2f%2fmoqups.com%2fblog%2fwp-content%2fuploads%2f2019%2f08%2fteam_reveal_nocurtain.gif&ehk=8y4%2b8dk%2b7dnpXwz%2bQI7tGVc2FhRDxI07E4h87WiEW3g%3d&risl=&pid=ImgRaw&r=0>
 
-- Honor Icon 
+- Honor Icon
 
 <https://media.giphy.com/media/39m6UsBsTMn3zYxpMa/200.gif>
 
-- Leadership 
+- Leadership
 
 <https://api.time.com/wp-content/uploads/2020/08/CEO-COVID-STORM.gif>
 
@@ -780,7 +791,7 @@ References:
 
 <https://www.deviantart.com/sewong/art/Animation-Reading-oneself-285737478>
 
-- Self-awarness 
+- Self-awarness
 
 <https://media0.giphy.com/media/QvRVUhIumAK9RPqVcN/source.gif>
 
@@ -788,7 +799,7 @@ References:
 
 <https://th.bing.com/th/id/R.4df6e79e7c77fcc74ac77a13659bf4e9?rik=h7xhOvh8iCbAaQ&pid=ImgRaw&r=0>
 
-- Thinking 
+- Thinking
 
 <https://th.bing.com/th/id/R.fa813f08fb4a54e7f512c062c25aaa19?rik=acMIG83Pyv0IBA&pid=ImgRaw&r=0>
 
@@ -797,5 +808,3 @@ References:
 <https://bestanimations.com/Text/Welcome/welcome-19.gif>
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
-
-  
