@@ -328,6 +328,8 @@ Learner Profile - (The Learner, p. 22-28)
 
 The attributes of Learner Profile prepare students intellectually, personally, socially and emotionally to meet the challenge posed by IB mission to make positive changes to the world. It is IB mission in action, and can be developed, demonstrated and reinforced through student-initiated action facilitated inside and outside the community. The development of LP attributes in turn enhances students’ ability to respond to their inquiries. Collaborative identification and revisiting of appropriate and relevant LP attributes by teachers and students lead to effective learning and teaching.
 
+![image](https://user-images.githubusercontent.com/109213222/182599604-171019ad-63a5-4254-9010-a706da54fbfd.png)
+
 Action (includes agency and self-efficacy and international-mindedness) – (The Learner, pp. 1-5 and 29-39)
 
 Within a positive and supportive learning community, IB students are self-motivated, self-directed and confident in their capabilities to own their learning on the concept-based knowledge through sustained inquiries into transdisciplinary themes, by taking autonomous personal or collaborative action on authentic issues, so that the learning community can recognize and nurture students’ agency & self-efficacy in student-teacher partnership by offering opportunities for students to develop approaches to learning and dispositions and to experience the impact of their action in local and global contexts. In this way, learners become more aware of their agency & self-efficacy and more engaged in positive changes to the learning community and beyond. Therefore, as the core of agency, action brings to life the international mindedness （LP）- the demonstration of effective learning and teaching.
