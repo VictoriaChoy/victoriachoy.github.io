@@ -568,7 +568,9 @@ References:
 
 IBO, 2018, _PYP Learning and Teaching_
 
+Cornerstone Montessori Elementary School, _Five Great Stories of Montessori_
 
+<https://www.cornerstone-elementary.org/elementary>
 
 IB PYP and Reggio Emilia
 
@@ -586,14 +588,21 @@ EYFS in Montessori Setting
 
 EYFS Reforms- Creating a Balance between Montessori and Reggio Emilia
 
+EYFS practitioners are expected to use children's interests to ignite learning so children feel valued, confident and motivated to learn.
+
+Like Reggio and Montessori, Development Matters supports the idea that children must learn at their own pace. The document is split into age ranges that are less specific than before and practitioners are expected to support a child wherever they are in their learning rather than moving them on before they are ready.
+
 
 
 References:
+
+Claire Hewson, 2021, _EYFS Reforms- Creating a Balance_
+
+<https://www.earlyyearseducator.co.uk/features/article/eyfs-reforms-creating-a-balance>
+
 Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, Childhood Education
 
 <https://www.academia.edu/25559536/Childhood_Education_Seven_Wonders_of_the_Early_Childhood_World>
-
-
 
 1.9 Unit of Inquiry for 3-4 Years Old
 
