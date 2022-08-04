@@ -24,7 +24,7 @@
 
 <img src="all about me s.gif" align="center"/>
 
-I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the _transdisciplinary approach_.
+Hi, I am Victoria from China. I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the _transdisciplinary approach_.
 
 I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
@@ -268,7 +268,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 <img src="teaching and learning s.gif" align="center"/>
 
-My understanding of a teacher's roles has been developing since I practiced the _huamnistic approach_ in the beginning of my teaching career, or earlier as a _service-oriented_ sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a _facilitator_ of students for their learning and personal growth in life, an _engaging instructor_ seeking to make learning meaningful by connecting inquiry with students' life experiences, a _life-long inquirer_ for innovative pedagogy, effective practice, and changing identity, a _collaborator_ and dedicated _servant for the learning community_, and above all, a _global citizen_.
+My understanding of a teacher's roles has been developing since I practiced the _huamnistic approach_ in the beginning of my teaching career, or earlier as a _service-oriented_ sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a _facilitator_ of students for their learning in both local and global context, and personal growth in life, an _engaging instructor_ seeking to make learning meaningful by connecting inquiry with students' life experiences, a _life-long inquirer_ for innovative pedagogy, effective practice, and changing identity, a _collaborator_ and dedicated _servant for the learning community_, and above all, a _global citizen_.
 
 Product Concept of The Co-developed Power Plant
 
@@ -592,7 +592,19 @@ EYFS practitioners are expected to use children's interests to ignite learning s
 
 Like Reggio and Montessori, Development Matters supports the idea that children must learn at their own pace. The document is split into age ranges that are less specific than before and practitioners are expected to support a child wherever they are in their learning rather than moving them on before they are ready.
 
+EYFS: 4 Characteristics of Effective Learning and 7 Areas of Learning and Development (revised 2021)
 
+![4 characteristics of effective learning and 7 areas s](https://user-images.githubusercontent.com/109213222/182883574-6feb3e4c-4265-416b-a12d-706f2248ccd6.JPG)
+
+Adapted from <https://birthto5matters.org.uk/overview-characteristics-of-effective-learning-and-areas-of-learning-and-development/> and 
+
+<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007446/6.7534_DfE_Development_Matters_Report_and_illustrations_web__2_.pdf>
+
+- IB Approaches to Learning 
+
+![approaches to learning s](https://user-images.githubusercontent.com/109213222/182887287-c717a61f-82b9-4efe-a6ef-162f4007701c.PNG)
+
+<https://sriweddings.com/>
 
 References:
 
