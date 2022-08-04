@@ -560,7 +560,7 @@ Early Learning Systems (1.5-12 years old) - Wonders of the Early Childhood World
 
 These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. Each approach brings a passion and uniqueness to how this outcome could best be achieved.
 
-IB PYP and Montessori
+- IB PYP and Montessori
 
 ![ib montessori](https://user-images.githubusercontent.com/109213222/182642145-68fab50d-521a-4811-8287-53a507756ee8.JPG)
 
@@ -572,7 +572,7 @@ Cornerstone Montessori Elementary School, _Five Great Stories of Montessori_
 
 <https://www.cornerstone-elementary.org/elementary>
 
-IB PYP and Reggio Emilia
+- IB PYP and Reggio Emilia
 
 ![image](https://user-images.githubusercontent.com/109213222/182643021-d4ee57b4-422f-47dd-a720-b99700ff1b27.png)
 
@@ -586,7 +586,7 @@ EYFS in Montessori Setting
 
 ![EYFS in Montessori Setting-1](https://user-images.githubusercontent.com/109213222/182642438-cbb64801-96fd-45b4-abd8-4d0a814abba2.JPG)
 
-EYFS Reforms- Creating a Balance between Montessori and Reggio Emilia
+- EYFS Reforms- Creating a Balance between Montessori and Reggio Emilia
 
 EYFS practitioners are expected to use children's interests to ignite learning so children feel valued, confident and motivated to learn.
 
