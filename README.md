@@ -420,7 +420,7 @@ A professional learning community should share a common understanding of the pur
 
 1.3.1 Collaborative Strategies
 
-A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings. Based on mutual respect, open communication 
+A collaborative learning community implements effective collaboration strategies, contributes their expertise, experiences, and perspectives to the teamwork in both formal and informal settings.
 
 Workshops, class observations, and teaching modelling are some formal meathods for professional learning. Pre-class and after-class discussions are more informal to share perspectives on learning and teaching.
 
@@ -484,7 +484,7 @@ Mark K Shum, Ian Hill, 2015, _Infusing IB Philosophy and Pedagogy into Chinese L
 
 Assessment Culture has arisen as valid measures of learning against traditional tests since the 20th century. It develops within the learning community shared understanding and language of what, why and how to assess to inform and adjust teaching and learning. Fostering assessment culture requires development of assessment capability, integrated-assessment policy, collaboration in assessment among students and teachers,and professional development.
 
-1.5.1. Diagnosticc Assessment and Formative Assessment
+1.5.1. Diagnostic Assessment and Formative Assessment
 
 I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of student-involved classroom assessment to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
 
@@ -539,11 +539,11 @@ Example of Differentiated Instruction and Assignments for a Transdisciplinary Un
 
 ![DI](https://user-images.githubusercontent.com/109213222/182414196-9842b842-2858-45f4-b3ac-82d6ab2df2e1.png)
 
-Students were asked to complete the worksheet according to what they liked and could do. For example, a 6th-grader boy finished more writing than a 2nd-grader did. 
+Students were asked to complete the worksheet according to what they liked and could do. For example, a 6th-grader boy finished more writing than a 2nd-grader did.
 
 ![image](https://user-images.githubusercontent.com/109213222/182388879-9e815087-1f18-49c7-85b2-3f92fa7c720b.png)
 
-Assignment in Transdisciplinary Approach 
+Assignment in Transdisciplinary Approach
 
 ![BAR CHART](https://user-images.githubusercontent.com/109213222/182414384-e5984a4b-90ed-472f-9aab-c347a59e5fff.png)
 
