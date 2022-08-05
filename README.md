@@ -569,7 +569,9 @@ Instructor's Feedback on the Lesson Plan
 
 1.7 Visible Thinking Routines
 
-One inquiry-based practice I think I have been doing well is visible thinking. I have been using graphic organizers in reading for writing classes. Before that, students have already learned how to sort out information with graphic organizers in reading and thinking session, ‘compare and contrast’ in particular. After practice for a couple of times, some high performers have shown a trait of thinking routine to analyze information in different contexts by creating their own graphic organizers, while some low performers have managed to demonstrate deeper and diverse understanding of some materials after comparison and contrast. All of the students have shown a better performance in writing when they get used to such thinking routine. The practice I would like to work on is assigning roles for group work to make sure all students’ participation. Assigning proper roles based on students’ choices and negotiation can be an effective approach to engage limited performers who are unwilling or too shy to take part in activities.   
+One inquiry-based practice I think I have been doing well is visible thinking. I have been using graphic organizers in reading for writing classes. Before that, students have already learned how to sort out information with graphic organizers in reading and thinking session, ‘compare and contrast’ in particular. After practice for a couple of times, some high performers have shown a trait of thinking routine to analyze information in different contexts by creating their own graphic organizers, while some low performers have managed to demonstrate deeper and diverse understanding of some materials after comparison and contrast. All of the students have shown a better performance in writing when they get used to such thinking routine. 
+
+![vtr](https://user-images.githubusercontent.com/109213222/183083580-8801a6d2-6f34-44e6-88c2-aa9c5c4ba58a.JPG)
 
 ![thinking routine s](https://user-images.githubusercontent.com/109213222/183058520-c0ec7f46-9924-467e-a6bf-f0c7daa4304b.JPG)
 
@@ -670,8 +672,13 @@ Group Inquiry Question:
 
 2.2 Lower-secondary English (12-15 years old)
 
-I developed curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. Focusing on enhancing students' critical thinking and creative thinking skills, I used graphic organizers such as Venn Diagram to teach students reading for writing in an immersive method.
+I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is not limit to their potential. 
 
+![similie](https://user-images.githubusercontent.com/109213222/183084120-649b2bec-9c8b-4080-bf05-7e12b2c994ad.JPG)
+
+A Student's Poem
+
+![poem s](https://user-images.githubusercontent.com/109213222/183084201-bf747672-197e-41e7-b7bc-bc387b2445f0.JPG)
 
 2.3 Upper-secondary English (15-18 years old)
 
