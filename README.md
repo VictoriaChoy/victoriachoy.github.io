@@ -388,10 +388,9 @@ While students are learning subject matter, transdisciplinary concepts are embed
 
 A 6-year-old Girl's Inquiry about _Form_ during a Mathematics Class of Shapes Based on Singapore textbooks _Math in Focus_
 
-![form 1 s](https://user-images.githubusercontent.com/109213222/183124027-50c08e61-026e-4e1e-b95a-d51a1e037299.PNG)
+![form 1 s](https://user-images.githubusercontent.com/109213222/183129581-2c9d2892-9c79-4a4b-bf74-17aa0a5e34ab.PNG)
 
 ![form 2 s](https://user-images.githubusercontent.com/109213222/183128208-dba578d8-60e0-42df-9822-e6c4a0c974c2.PNG)
-
 
 1.2 An Engaging Instructor
 
@@ -680,7 +679,7 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 - The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
 
-![JELLY](https://user-images.githubusercontent.com/109213222/182414973-c30395a9-783e-4f66-8aa1-0a23b1ac96e4.png)
+![jelly](https://user-images.githubusercontent.com/109213222/183129352-e3fbf2a5-ba1c-4293-8f76-8a1bf57e78e6.JPG)
 
 2.0 Curriculum Development
 
