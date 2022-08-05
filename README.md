@@ -24,7 +24,7 @@
 
 <img src="all about me s.gif" align="center"/>
 
-Hi, I am Victoria from China. I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the **transdisciplinary approach**.
+Hi, I am Victoria from China. My Chinese name is Xiaoyan Cai. I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the **transdisciplinary approach**.
 
 I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
@@ -390,7 +390,8 @@ A 6-year-old Girl's Inquiry about _Form_ during a Mathematics Class of Shapes Ba
 
 ![form 1 s](https://user-images.githubusercontent.com/109213222/183124027-50c08e61-026e-4e1e-b95a-d51a1e037299.PNG)
 
-![Uploading form 2 s.PNG…]()
+![form 2 s](https://user-images.githubusercontent.com/109213222/183128208-dba578d8-60e0-42df-9822-e6c4a0c974c2.PNG)
+
 
 1.2 An Engaging Instructor
 
@@ -472,16 +473,23 @@ Teaching assistants became more confident and assured about their responsibiliti
 
 - Collaborative Learning in the Global Learning Community
   
-  Feedback on a Colleague's Assignment for the MEd. Course
+  My Feedback on a Colleague's Assignment for the MEd. Course
 
 ![assignment feedbac](https://user-images.githubusercontent.com/109213222/182411247-78133515-af2e-48c1-b21c-7efbf990fb1a.jpg)
 
   Feedback from My Instructors of the MEd. Course and IB Educator Certificate
 
+![teaching and learning feedback s](https://user-images.githubusercontent.com/109213222/183128304-b8b1269f-7b84-4e85-adb6-70ed4006682f.JPG)
 
+![feedback uoi s](https://user-images.githubusercontent.com/109213222/183128351-2f481122-54f8-41dc-8bb0-6a15c29583d4.JPG)
+
+![feedback democracy](https://user-images.githubusercontent.com/109213222/183128478-9b227bf1-7dad-4119-8dbc-a25bd64109cc.JPG)
 
   Feedback from My Colleagues of the MEd. Course and IB Educator Certificate
+  
+![discussion board s](https://user-images.githubusercontent.com/109213222/183128555-53ef7d77-02a0-466f-8e99-4f145a9a7562.JPG)
 
+![feedback discussion s](https://user-images.githubusercontent.com/109213222/183128601-a682582c-6ed6-4a0d-929b-9f6b38d72153.JPG)
 
 - Reflection on Educational Leadership
 
