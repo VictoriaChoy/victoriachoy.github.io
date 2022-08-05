@@ -194,7 +194,7 @@ This show was organized for the marketing department targeting the age group fro
 
 2.3.4 Bilingual Day-care Centers
 
-* Xiamen in Southeast China
+#### Xiamen in Southeast China
 
 Children had meals and snacks in the centers.
 
@@ -212,7 +212,7 @@ We were having a whisper game in small-group competition for primary students.
 
 ![image](https://user-images.githubusercontent.com/109213222/181794885-78d7464d-c227-448b-aaac-45428cfcc55f.png)
 
-* Shenzhen in South China
+#### Shenzhen in South China
 
 Circle Time with Toddlers, Parents, and Teachers
 
@@ -336,7 +336,7 @@ Approaches to Learning/Skills - (Learning & Teaching, pp. 26-39 and The Learner,
 
 ATL consist of interconnected cognitive and metacognitive skills that support students of all ages to own their learning. These transferrable skills serve as means to inquire into transdisciplinary themes and have a lifelong effect on learning. Synthesization and application of these skills with conceptual understandings and knowledge into transdisciplinary inquiry demonstrates attributes of earner profile. During the process, teachers should be able to pinpoint the connection between LP attributes and ATL, personalize and provide authentic learning opportunities to nurture the development of these skills. At the same time, students become agents by revisiting LP attributes combining ATL. It is when teacher-student partnership is established, with effective learning and teaching activated.
 
-![image](https://user-images.githubusercontent.com/109213222/182597082-d4fdc9d2-8602-4736-a640-8c81d2994c29.png)
+<img src="atl.gif" align="center"/>
 
 <https://learn.wab.edu/myp/atl>
 
@@ -506,13 +506,13 @@ I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ t
 
 Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p. 8)
 
-1) Using screening and formative assessment data to identify students at risk for poor learning outcomes
+- Using screening and formative assessment data to identify students at risk for poor learning outcomes
 
-2) Monitoring the effectiveness of instruction (i.e., progress monitoring)
+- Monitoring the effectiveness of instruction (i.e., progress monitoring)
 
-3) Implementing multi-leveled evidence-based instruction that is matched to students’ instructional needs
+- Implementing multi-leveled evidence-based instruction that is matched to students’ instructional needs
 
-4) Data-based decision making for instruction, movement within the multi-level system, and disability identification (in accordance with state law)
+- Data-based decision making for instruction, movement within the multi-level system, and disability identification (in accordance with state law)
 
 Example of Formative Assessment Designed for Approaches to Learning (1.5-2 years old)
 
@@ -607,7 +607,7 @@ Christina Shala, 2019, _A Reggio-inspired Approach to the IB's Primary Years Pro
 
 <https://shala-books.com/education-blog/a-reggio-inspired-approach-to-the-ibs-primary-years-programme>
 
-EYFS in Montessori Setting
+- EYFS in Montessori Setting
 
 ![EYFS in Montessori Setting-1](https://user-images.githubusercontent.com/109213222/182642438-cbb64801-96fd-45b4-abd8-4d0a814abba2.JPG)
 
@@ -647,7 +647,6 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 ![image](https://user-images.githubusercontent.com/109213222/182396724-8fa3ce1f-409d-4d14-b6dd-56dc2b91d98a.png)
 
-
 ![FIRE](https://user-images.githubusercontent.com/109213222/182414780-bf0b9335-b65e-4554-9e6b-fecde9ce6977.png)
 
 - The unit inquires about the transdisciplinary theme of "sharing the planet" within the local context in Shenzhen, a coastal city in South China.
@@ -672,7 +671,7 @@ Group Inquiry Question:
 
 2.2 Lower-secondary English (12-15 years old)
 
-I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is not limit to their potential. 
+I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is not limit to their potential.
 
 ![similie](https://user-images.githubusercontent.com/109213222/183084120-649b2bec-9c8b-4080-bf05-7e12b2c994ad.JPG)
 
@@ -702,10 +701,9 @@ Being aware of the importance of key subject mastery to student success in the 2
 
 From my experiences of teaching IELTS and learning of IB PYP educator certificate, I believe academic achievements can be gained by combining units of inquiry with subject matter. In fact, what students can learn from this type of integrated course goes beyond high achievements in knowledge mastery. The soft skills they can acquire and connections across disciplines they can inquire about would benefit them for their learning in higher education, their personal life, future career, and professional development.
 
-Example of an Integrated Lesson 
+Example of an Integrated Lesson
 
 ![integrated](https://user-images.githubusercontent.com/109213222/182415695-96125556-e68b-4929-9f26-ab2e6764839c.png)
-
 
 #### _Back to the table of contents_ [↩](#table-of-contents) 
 
