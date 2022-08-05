@@ -569,12 +569,19 @@ Instructor's Feedback on the Lesson Plan
 
 1.7 Visible Thinking Routines
 
+One inquiry-based practice I think I have been doing well is visible thinking. I have been using graphic organizers in reading for writing classes. Before that, students have already learned how to sort out information with graphic organizers in reading and thinking session, ‘compare and contrast’ in particular. After practice for a couple of times, some high performers have shown a trait of thinking routine to analyze information in different contexts by creating their own graphic organizers, while some low performers have managed to demonstrate deeper and diverse understanding of some materials after comparison and contrast. All of the students have shown a better performance in writing when they get used to such thinking routine. The practice I would like to work on is assigning roles for group work to make sure all students’ participation. Assigning proper roles based on students’ choices and negotiation can be an effective approach to engage limited performers who are unwilling or too shy to take part in activities.   
+
+![thinking routine s](https://user-images.githubusercontent.com/109213222/183058520-c0ec7f46-9924-467e-a6bf-f0c7daa4304b.JPG)
+
+<https://www.thinglink.com/scene/857736449603141633>
 
 1.8 Early Learning Systems (1.5-12 years old)
 
 Early Learning Systems (1.5-12 years old) - Wonders of the Early Childhood World
 
 These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. Each approach brings a passion and uniqueness to how this outcome could best be achieved.
+
+I believe that IB will continue to be a "beacon" for educators in international education, because of its inclusiveness and instructivity for all national curricula. The transdisciplinary inquiry is beyond any discipline-based curriculum, with an aim to take up the challenges of 21st century, way beyond any individually-focused system. IB has already become a major inspiration for national curricula in both developed and developing countries, including the Next Generation Science Standards in the USA, Cambridge IQTS curriculum, the alignment research in Australian National Curriculum, Chinese science currciculum and kindergarten guidance for inquiry-based curriculum. With an increasing number of educators entering IB system from all over the world, a significant rise in innovative fruits will be gained through collaboration by teachers, students and the learning community. This will ensure IB’s leadership in international education.
 
 - IB PYP and Montessori
 
