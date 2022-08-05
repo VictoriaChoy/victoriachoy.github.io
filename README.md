@@ -299,7 +299,7 @@ Positions at the Startup Smart-tech Company
 <img src="facilitator s.gif" align="center"/>
 
 1.1.1 Enhancement of Students' _Agency_ and _Self-efficacy_
-                                
+
 Conceptualized by Bandura in social cognitive theory, agency “enable[s] people to play a part in their self-development, adaptation, and self-renewal with changing times” (Bandura 2001).
 
 PYP students with agency use their own initiative and will, and take responsibility and ownership of their learning. They direct their learning with a strong sense of identity and self-belief, and in conjunction with others, thereby building a sense of community and awareness of the opinions, values and needs of others.
@@ -330,9 +330,9 @@ Matthew Brock, John M Schaefer, Rachel Seaman-Tullis, 2019, _Self-determination 
 
 <https://www.researchgate.net/publication/337853271_Self-determination_and_Agency_for_All_Supporting_Students_with_Severe_Disabilities>
 
-1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_during Inquiry-based Learning
+1.1.2 Development of the IB _learner Profile_ and _Approaches to Learning_ during Inquiry-based and Concept-driven Learning
 
-Approaches to Learning/Skills - (Learning & Teaching, pp. 26-39 and The Learner, pp. 15-20)
+- Approaches to Learning/Skills - (Learning & Teaching, pp. 26-39 and The Learner, pp. 15-20)
 
 ATL consist of interconnected cognitive and metacognitive skills that support students of all ages to own their learning. These transferrable skills serve as means to inquire into transdisciplinary themes and have a lifelong effect on learning. Synthesization and application of these skills with conceptual understandings and knowledge into transdisciplinary inquiry demonstrates attributes of earner profile. During the process, teachers should be able to pinpoint the connection between LP attributes and ATL, personalize and provide authentic learning opportunities to nurture the development of these skills. At the same time, students become agents by revisiting LP attributes combining ATL. It is when teacher-student partnership is established, with effective learning and teaching activated.
 
@@ -340,7 +340,7 @@ ATL consist of interconnected cognitive and metacognitive skills that support st
 
 <https://learn.wab.edu/myp/atl>
 
-Learner Profile - (The Learner, p. 22-28)
+- Learner Profile - (The Learner, p. 22-28)
 
 The attributes of Learner Profile prepare students intellectually, personally, socially and emotionally to meet the challenge posed by IB mission to make positive changes to the world. It is IB mission in action, and can be developed, demonstrated and reinforced through student-initiated action facilitated inside and outside the community. The development of LP attributes in turn enhances students’ ability to respond to their inquiries. Collaborative identification and revisiting of appropriate and relevant LP attributes by teachers and students lead to effective learning and teaching.
 
@@ -348,7 +348,7 @@ The attributes of Learner Profile prepare students intellectually, personally, s
 
 <https://www.teacherspayteachers.com/Product/IB-PYP-Learner-Profile-Poster-A3A4-3265927>
 
-Action (includes agency and self-efficacy and international-mindedness) – (The Learner, pp. 1-5 and 29-39)
+- Action (includes agency and self-efficacy and international-mindedness) – (The Learner, pp. 1-5 and 29-39)
 
 Within a positive and supportive learning community, IB students are self-motivated, self-directed and confident in their capabilities to own their learning on the concept-based knowledge through sustained inquiries into transdisciplinary themes, by taking autonomous personal or collaborative action on authentic issues, so that the learning community can recognize and nurture students’ agency & self-efficacy in student-teacher partnership by offering opportunities for students to develop approaches to learning and dispositions and to experience the impact of their action in local and global contexts. In this way, learners become more aware of their agency & self-efficacy and more engaged in positive changes to the learning community and beyond. Therefore, as the core of agency, action brings to life the international mindedness （LP）- the demonstration of effective learning and teaching.
 
@@ -380,7 +380,15 @@ IBO, 2018, PYP The Learner
 
 IBO, 2018, Learning and Teaching
 
-1.2. An Engaging Instructor
+- Concept-driven Curriculum
+
+While students are learning subject matter, transdisciplinary concepts are embedded whenever there is an opportunity.
+
+A 6-year-old Girl's Inquiry about _Form_ during a Mathematics Class of Shapes Based on Singapore textbooks _Math in Focus_
+
+
+
+1.2 An Engaging Instructor
 
 <img src="engager s.gif" align="center"/>
 
