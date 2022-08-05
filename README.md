@@ -286,7 +286,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 <img src="teaching and learning s.gif" align="center"/>
 
-My understanding of a teacher's roles has been developing since I practiced the **huamnistic approach** in the beginning of my teaching career, or earlier as a **service-oriented** sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a **facilitator** of students for their learning in both local and global context, and personal growth in life, an **engaging instructor** seeking to make learning meaningful by connecting inquiry with students' life experiences, a **life-long inquirer** for innovative pedagogy, effective practice, and changing identity, a **collaborator** and dedicated **servant for the learning community**, and above all, a **global citizen"" in IB's global community.
+My understanding of a teacher's roles has been developing since I practiced the **huamnistic approach** in the beginning of my teaching career, or earlier as a **service-oriented** sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a **facilitator** of students for their learning in both local and global context, and personal growth in life, an **engaging instructor** seeking to make learning meaningful by connecting inquiry with students' life experiences, a **life-long inquirer** for innovative pedagogy, effective practice, and changing identity, a **collaborator** and dedicated **servant for the learning community**, and above all, a **global citizen** in IB's global community.
 
 Product Concept of The Co-developed Power Plant
 
@@ -332,7 +332,7 @@ Matthew Brock, John M Schaefer, Rachel Seaman-Tullis, 2019, _Self-determination 
 
 <https://www.researchgate.net/publication/337853271_Self-determination_and_Agency_for_All_Supporting_Students_with_Severe_Disabilities>
 
-1.1.2 Development of the IB **learner Profile** and **Approaches to Learning** during **Inquiry-based** and **Concept-driven** Learning
+1.1.2 Development of the IB **Learner Profile** and **Approaches to Learning** during **Inquiry-based** and **Concept-driven** Learning
 
 - Approaches to Learning/Skills - (Learning & Teaching, pp. 26-39 and The Learner, pp. 15-20)
 
