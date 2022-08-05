@@ -222,6 +222,22 @@ Toddlers were "talking" about a picture book.
 
 <https://pan.baidu.com/s/1UK7bF0RR20NBNO-57Pk5Yw?pwd=1234>
 
+A Reggio-inspired Learning Table
+
+![1](https://user-images.githubusercontent.com/109213222/183055855-5743e093-f89f-4144-9d4e-36e8dbbffd06.PNG)
+
+Techonology plays an important role in discovery learning. 
+
+![2](https://user-images.githubusercontent.com/109213222/183056013-6ead7465-64b1-4e30-8bb0-fd1179e29a16.PNG)
+
+Open-ended materials were prepared for artistic expression.
+
+![3](https://user-images.githubusercontent.com/109213222/183056565-ea4abf97-046e-4cee-94a8-49bddca54a62.PNG)
+
+STEAM Class
+
+![4](https://user-images.githubusercontent.com/109213222/183056966-952b5d00-5397-4a82-8c4d-c54a2e191abe.PNG)
+
 2.4 The Period of Identity Establishment (2021- now)
 
 <img src="LP.gif" align="center"/>
