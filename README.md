@@ -24,9 +24,9 @@
 
 <img src="all about me s.gif" align="center"/>
 
-Hi, I am Victoria from China. My Chinese name is Xiaoyan Cai. I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the **transdisciplinary approach**.
+Hi, I am Victoria from southeast China. My Chinese name is Xiaoyan Cai. I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the **transdisciplinary approach**.
 
-I grew up in a coastal city in southeast China, and am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
+I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
 1.1 Transdisciplinary Projects and Hobbies
 
@@ -68,7 +68,7 @@ I grew up in a coastal city in southeast China, and am an avid STEAM course deve
 
 ### Teaching Philosophy
 
-<img src="thinking s.gif" align="center"/> 
+<img src="thinking s.gif" align="center"/>
 
 My preliminary understanding of teaching philosophy is about the **student-centered** methodology.
 
@@ -228,7 +228,7 @@ This show was organized for the marketing department targeting the age group fro
 
 ![1](https://user-images.githubusercontent.com/109213222/183055855-5743e093-f89f-4144-9d4e-36e8dbbffd06.PNG)
 
-Techonology plays an important role in discovery learning. 
+Techonology plays an important role in discovery learning.
 
 ![2](https://user-images.githubusercontent.com/109213222/183056013-6ead7465-64b1-4e30-8bb0-fd1179e29a16.PNG)
 
@@ -278,7 +278,7 @@ George Walker, 2010, _East is East and West is West_
 
 Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational foundations for teachers: The history, philosophy, and culture of schooling_ (pp. 399-430)
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
@@ -358,7 +358,7 @@ Within a positive and supportive learning community, IB students are self-motiva
 
 <https://blog.siliconvalleyinternational.org/the-inquiry-learning-cycle>
 
-I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The inquiry-based approach incorporates students' voice and choice into planning, which in turn improves automous learning, enhances agency and self-efficacy. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments with the help of the internet after the class. Personally speaking, I was quite amazed by his ability to **think critically and creatively**, and **persistence** for his interests. The inquiry manifested the **higher-order thinking skills** in Bloom's Taxonomy, **approaches to learning** (thinking skills, research skills, self-management skills), and attributes of the IB **learner profile** (reflective thinker, inquirer, balanced, and open-minded).
+I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The **inquiry-based** approach incorporates students' **voice and choice** into planning, which in turn improves **automous learning**, enhances **agency** and **self-efficacy**. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments with the help of the internet after the class. Personally speaking, I was quite amazed by his ability to **think critically and creatively**, and **persistence** for his interests. The inquiry manifested the **higher-order thinking skills** in Bloom's Taxonomy, **approaches to learning** (thinking skills, research skills, self-management skills), and attributes of the IB **learner profile** (reflective thinker, inquirer, balanced, and open-minded).
 
  ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
 
@@ -607,7 +607,7 @@ Instructor's Feedback on the Lesson Plan
 
 1.7 Visible Thinking Routines
 
-One inquiry-based practice I think I have been doing well is visible thinking. I have been using graphic organizers in reading for writing classes. Before that, students have already learned how to sort out information with graphic organizers in reading and thinking session, ‘compare and contrast’ in particular. After practice for a couple of times, some high performers have shown a trait of thinking routine to analyze information in different contexts by creating their own graphic organizers, while some low performers have managed to demonstrate deeper and diverse understanding of some materials after comparison and contrast. All of the students have shown a better performance in writing when they get used to such thinking routine. 
+One inquiry-based practice I think I have been doing well is visible thinking. I have been using graphic organizers in reading for writing classes. Before that, students have already learned how to sort out information with graphic organizers in reading and thinking session, ‘compare and contrast’ in particular. After practice for a couple of times, some high performers have shown a trait of thinking routine to analyze information in different contexts by creating their own graphic organizers, while some low performers have managed to demonstrate deeper and diverse understanding of some materials after comparison and contrast. All of the students have shown a better performance in writing when they get used to such thinking routine.
 
 ![vtr](https://user-images.githubusercontent.com/109213222/183083580-8801a6d2-6f34-44e6-88c2-aa9c5c4ba58a.JPG)
 
@@ -659,7 +659,7 @@ EYFS: 4 Characteristics of Effective Learning and 7 Areas of Learning and Develo
 
 ![4 characteristics of effective learning and 7 areas s](https://user-images.githubusercontent.com/109213222/182883574-6feb3e4c-4265-416b-a12d-706f2248ccd6.JPG)
 
-Adapted from <https://birthto5matters.org.uk/overview-characteristics-of-effective-learning-and-areas-of-learning-and-development/> and 
+Adapted from <https://birthto5matters.org.uk/overview-characteristics-of-effective-learning-and-areas-of-learning-and-development/> and
 
 <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007446/6.7534_DfE_Development_Matters_Report_and_illustrations_web__2_.pdf>
 
@@ -695,7 +695,7 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 2.1 Early Learning
 
-- The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate. 
+- The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
 
 Final topic: international-mindedness
 
@@ -743,7 +743,7 @@ Example of an Integrated Lesson
 
 ![integrated](https://user-images.githubusercontent.com/109213222/182415695-96125556-e68b-4929-9f26-ab2e6764839c.png)
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
@@ -791,7 +791,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
 
-9.0 Cambridge Business English Higher Certificate 
+9.0 Cambridge Business English Higher Certificate
 
 ![image](https://user-images.githubusercontent.com/109213222/181924352-1c059da3-9331-4019-98b6-aac3185305a1.png)
 
@@ -803,7 +803,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![image](https://user-images.githubusercontent.com/109213222/182404650-8657bbed-38ee-41a4-a4a8-fc068f717e5f.png)
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
 
 <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/> <img src="reading s.gif" align="center"/>
 
@@ -815,7 +815,7 @@ Embassador of University of the People
 
 ![image](https://user-images.githubusercontent.com/109213222/179457628-19fd231c-8c28-48d9-96fa-a7f133c26364.png)
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
 
 ### Associations
 
@@ -829,7 +829,7 @@ University of the People: <https://www.uopeople.edu/>
 
 World schools: <https://world-schools.com/the-best-international-schools-in-asia/>
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
 
 ### Appendix
 
@@ -846,7 +846,6 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 ![feedback s](https://user-images.githubusercontent.com/109213222/182411599-4a72e632-4a5b-4560-be49-96ab2a90c82c.JPG)
 
 ![feedback2](https://user-images.githubusercontent.com/109213222/182411934-e9b1b3aa-e610-4011-939f-04c5d29cddf3.jpg)
-
 
 The feedback comes from a university student majoring in arts and design. As per her feedback, she has acknowledged teacher agency although much more can be done to raise her interest in English learning, especially preparation for IELTS. Her recent experience in travelling to Tibet would be the next topic to explore. The relevance of learning to her experience would be emphasized in future lesson plans. Personally, I have never asked about her keenness in her major, which would be interesting to talk about, despite my previous intention to connect exam-preparation learning to her major, particularly the commercial or industrial application.
 
@@ -918,4 +917,4 @@ References:
 
 <https://bestanimations.com/Text/Welcome/welcome-19.gif>
 
-#### _Back to the table of contents_ [↩](#table-of-contents) 
+#### _Back to the table of contents_ [↩](#table-of-contents)
