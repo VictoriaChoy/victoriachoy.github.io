@@ -472,21 +472,31 @@ Teaching assistants became more confident and assured about their responsibiliti
 
 - Collaborative Learning in the Global Learning Community
   
-  My Feedback on a Colleague's Assignment for the MEd. Course
+  A. My Feedback on a Colleague's Assignment for the MEd. Course
 
 ![assignment feedbac](https://user-images.githubusercontent.com/109213222/182411247-78133515-af2e-48c1-b21c-7efbf990fb1a.jpg)
 
-  Feedback from My Instructors of the MEd. Course and IB Educator Certificate
+  B. Feedback from My Instructors of the MEd. Course and IB Educator Certificate
+
+    Feedback on Inquiry Lesson Planning
 
 ![teaching and learning feedback s](https://user-images.githubusercontent.com/109213222/183128304-b8b1269f-7b84-4e85-adb6-70ed4006682f.JPG)
 
+    Feedback on Unit of Inquiry Planning
+
 ![feedback uoi s](https://user-images.githubusercontent.com/109213222/183128351-2f481122-54f8-41dc-8bb0-6a15c29583d4.JPG)
+
+    Feedback on End-of-term Reflection in Teaching Portfolio
 
 ![feedback democracy](https://user-images.githubusercontent.com/109213222/183128478-9b227bf1-7dad-4119-8dbc-a25bd64109cc.JPG)
 
-  Feedback from My Colleagues of the MEd. Course and IB Educator Certificate
+  C. Feedback from My Colleagues of the MEd. Course and IB Educator Certificate
   
+ Feedback on Discussion Forum
+
 ![discussion board s](https://user-images.githubusercontent.com/109213222/183128555-53ef7d77-02a0-466f-8e99-4f145a9a7562.JPG)
+
+   Feedback on My Inspiration for Portfolio Ideas
 
 ![feedback discussion s](https://user-images.githubusercontent.com/109213222/183128601-a682582c-6ed6-4a0d-929b-9f6b38d72153.JPG)
 
@@ -653,7 +663,7 @@ Adapted from <https://birthto5matters.org.uk/overview-characteristics-of-effecti
 
 <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007446/6.7534_DfE_Development_Matters_Report_and_illustrations_web__2_.pdf>
 
-- IB Approaches to Learning 
+- IB Approaches to Learning
 
 ![approaches to learning s](https://user-images.githubusercontent.com/109213222/182887287-c717a61f-82b9-4efe-a6ef-162f4007701c.PNG)
 
