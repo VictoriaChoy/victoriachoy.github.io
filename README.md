@@ -4,7 +4,7 @@
 
 <img src="welcome-19.gif" align="center"/>
 
-## [About me](/about.md)
+## [About me](https://github.com/VictoriaChoy/About-me/blob/7ccaf457fce8b0f13905429abd3b9524abfd0f24/README.md)
 
 ### [Teaching Philosophy](#teaching-philosophy-1)
 
