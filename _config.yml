@@ -17,3 +17,13 @@ paginate: 5
     "source.fixAll.markdownlint": true
 }
 
+gem:
+
+ 'jekyll-relative-links'
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: false
