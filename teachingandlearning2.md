@@ -46,4 +46,8 @@ After learning English for three months, the girl started to dub picture books v
 
 ![image](https://user-images.githubusercontent.com/109213222/181795560-f8fd2425-cfeb-46a2-890f-d29819b0726d.png)
 
+Mixed-age English-song Class
+
+![image](https://user-images.githubusercontent.com/109213222/183641226-6c029fba-44b1-42c6-b7f1-7c71a391ff45.png)
+
  [Home](./README.md) | [Previous Page](./teachingandlearning1.md) | [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
