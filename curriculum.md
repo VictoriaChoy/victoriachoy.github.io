@@ -28,7 +28,7 @@ Group Inquiry Question:
 
 ## Lower-secondary English (12-15 years old)
 
-I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is not limit to their potential.
+I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is no limit to their potential.
 
 ![similie](https://user-images.githubusercontent.com/109213222/183084120-649b2bec-9c8b-4080-bf05-7e12b2c994ad.JPG)
 
@@ -50,7 +50,7 @@ The scenes depicted in the advertisement were as vivid as in a painting that req
 
 ## University Interdisciplinary Learning (Adults)
 
-Being aware of the importance of key subject mastery to student success in the 21st century (Battelle for Kids, p. 2), I have been helping one of my college students with her written assignments in English through modeling with explanations and samples. I once taught her to surf the internet with keywords in a global interdisciplinary theme (the Covid-19 pandemic) and a dual-mode presentation of data in a Microsoft Excel document for her final presentation on the impact of the pandemic with the inquiry of the concept, connections, one of the sixteen interdisciplinary key concepts in MYP (IBO, 2014, p. 66), with citations in APA format. I also suggested a mind map software for her to prepare the speech. The teaching method has worked well so far, with her score for the final presentation at 13.5/14. The learning outcome has strengthened the student’s _self-efficacy_, i.e. confidence in learning and greater effort for more academic achievements (IBO, 2018, p.2).
+Being aware of the importance of key subject mastery to student success in the 21st century (Battelle for Kids, p. 2), I have been helping one of my college students with her written assignments in English through modeling with explanations and samples. I once taught her to surf the internet with keywords in a global interdisciplinary theme (the Covid-19 pandemic) and a dual-mode presentation of data in a Microsoft Excel document for her final presentation on the impact of the pandemic with the inquiry of the concept, connections, one of the sixteen interdisciplinary key concepts in MYP (IBO, 2014, p. 66), with citations in APA format. I also suggested a mind map software for her to prepare the speech. The teaching method has worked well so far, with her score for the final presentation at 13.5/14. The learning outcome has strengthened the student **self-efficacy**, i.e. confidence in learning and greater effort for more academic achievements (IBO, 2018, p.2).
 
 ![image](https://user-images.githubusercontent.com/109213222/182403058-81a7ed2c-6ded-44ae-bc34-ad4697258add.png)
 
@@ -62,4 +62,4 @@ Example of an Integrated Lesson
 
 ![integrated](https://user-images.githubusercontent.com/109213222/182415695-96125556-e68b-4929-9f26-ab2e6764839c.png)
 
- [Home](./README.md) | [Professional Learning and Future Growth](./professional.md)
+ [Home](./README.md) | [Previous Page](./earlylearning.md) | [Professional Learning and Future Growth](./professional.md)

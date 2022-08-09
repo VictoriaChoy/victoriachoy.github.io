@@ -40,4 +40,4 @@ One inquiry-based practice I think I have been doing well is visible thinking. I
 
 <https://www.thinglink.com/scene/857736449603141633>
 
- [Home](./README.md) | [Early Learning Systems](./earlylearning.md)
+ [Home](./README.md) | [Previous Page](./teachingandlearning4) | [Early Learning Systems](./earlylearning.md)

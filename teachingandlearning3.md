@@ -62,7 +62,7 @@ After rehearsals of demo classes collaboratively planned, teachers were giving d
 
 ## Reflection on Educational Leadership
 
-I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted IB philosophy, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as IB mission, international-mindedness, learner profile, approaches to learning, agency and self-efficacy. We learn from each other on a worldwide scale. We take action as global citizens towards common goals with critical thinking, problem-solving skills, collaboration, and shared reflection.
+I have been using my previous bosses as counterexamples or role models to reflect on my own leadership style and the future leader I would like to be. The only one of them has become my partner because she has changed and accepted **IB philosophy**, so has me. IB education aims to foster leadership within the learning community through the realization of the key elements, such as **IB mission, international-mindedness, concept-based learning, inquiry, learner profile, approaches to learning, agency and self-efficacy**. We learn from each other on a worldwide scale. We take action as **global citizens** towards common goals with **critical thinking, problem-solving skills, collaboration, and shared reflection**.
 
 ![image](https://user-images.githubusercontent.com/109213222/179683527-18d71f0f-54c0-41d1-90f8-e5b2d08b417f.png)
 
@@ -80,4 +80,4 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 <https://www.indeed.com/career-advice/career-development/collaboration-strategy>
 
- [Home](./README.md) | [A Life-long Inquirer](./teachingandlearning4.md)
+ [Home](./README.md) | [Previous Page](./teachingandlearning2) | [A Life-long Inquirer](./teachingandlearning4.md)

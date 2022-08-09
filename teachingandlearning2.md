@@ -18,7 +18,7 @@ I pretended to cover my ears to encourage students' loud responses.
 
 ![image](https://user-images.githubusercontent.com/109213222/181795381-5bc236f6-2b71-46bf-a74e-88e7bc35331a.png)
 
-The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the transdisciplinary theme "how the world works", emphasising the impact of human activities on the nature.
+The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the **transdisciplinary theme** "how the world works", emphasising the impact of human activities on the nature.
 
 ![image](https://user-images.githubusercontent.com/109213222/181795444-ee0e4356-4825-4339-b790-ed465bee0529.png)
 
@@ -46,4 +46,4 @@ After learning English for three months, the girl started to dub picture books v
 
 ![image](https://user-images.githubusercontent.com/109213222/181795560-f8fd2425-cfeb-46a2-890f-d29819b0726d.png)
 
- [Home](./README.md) | [A Collaborator and Dedicated Servant for the Learning Community](./teachingandlearning3.md)
+ [Home](./README.md) | [Previous Page](./teachingandlearning1.md) | [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)

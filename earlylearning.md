@@ -2,9 +2,9 @@
 
 ## Early Learning Systems (1.5-12 years old) - Wonders of the Early Childhood World
 
-These approaches share a holistic, integrated outlook on learning that features the children and teachers as capable learners with the ability to self-regulate and take responsibility for being part of a democratic classroom, while having the ultimate desire for a peaceful world. Each approach brings a passion and uniqueness to how this outcome could best be achieved.
+These approaches share a **holistic, integrated outlook on learning** that features the children and teachers as **capable learners** with the ability to **self-regulate** and take **responsibility** for being part of a **democratic classroom**, while having the ultimate desire for a **peaceful world**. Each approach brings a passion and uniqueness to how this outcome could best be achieved.
 
-I believe that IB will continue to be a "beacon" for educators in international education, because of its inclusiveness and instructivity for all national curricula. The transdisciplinary inquiry is beyond any discipline-based curriculum, with an aim to take up the challenges of 21st century, way beyond any individually-focused system. IB has already become a major inspiration for national curricula in both developed and developing countries, including the Next Generation Science Standards in the USA, Cambridge IQTS curriculum, the alignment research in Australian National Curriculum, Chinese science currciculum and kindergarten guidance for inquiry-based curriculum. With an increasing number of educators entering IB system from all over the world, a significant rise in innovative fruits will be gained through collaboration by teachers, students and the learning community. This will ensure IB’s leadership in international education.
+I believe that IB will continue to be a **beacon** for educators in international education, because of its inclusiveness and instructivity for all national curricula. The **transdisciplinary inquiry** is beyond any discipline-based curriculum, with an aim to take up the challenges of **21st century**, way beyond any individually-focused system. IB has already become a major inspiration for national curricula in both developed and developing countries, including the Next Generation Science Standards in the USA, Cambridge IQTS curriculum, the alignment research in Australian National Curriculum, Chinese science currciculum and kindergarten guidance for inquiry-based curriculum. With an increasing number of educators entering IB system from all over the world, a significant rise in innovative fruits will be gained through collaboration by teachers, students and the learning community. This will ensure IB’s leadership in international education.
 
 - IB PYP and Montessori
 
@@ -62,4 +62,4 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 <https://www.academia.edu/25559536/Childhood_Education_Seven_Wonders_of_the_Early_Childhood_World>
 
- [Home](./README.md) | [Curriculum Development](./curriculum.md)
+ [Home](./README.md) | [Previous Page](./differentiatedinstruction.md) | [Curriculum Development](./curriculum.md)

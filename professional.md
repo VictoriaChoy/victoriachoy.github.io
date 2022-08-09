@@ -54,4 +54,4 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![image](https://user-images.githubusercontent.com/109213222/182404650-8657bbed-38ee-41a4-a4a8-fc068f717e5f.png)
 
- [Home](./README.md) | [Honors](./honors.md)
+ [Home](./README.md) | [Previous Page](./curriculum.md) | [Honors](./honors.md)

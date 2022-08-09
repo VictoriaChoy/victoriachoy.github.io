@@ -36,4 +36,4 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 <https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students>)
 
-[Home](./README.md) | [The Period of Practice & Collaboration](./philosophyb.md)
+[Home](./README.md) | [Previous Page](./About.md) | [The Period of Practice & Collaboration](./philosophyb.md)

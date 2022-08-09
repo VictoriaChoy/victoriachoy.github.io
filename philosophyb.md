@@ -55,4 +55,4 @@ Apart from my major responsibility to deliver innovative classes to early learne
 
 As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of **inclusive education**
 
-[Home](./README.md) | [The Period of Collaboration and Leadership](./philosophyc.md)
+[Home](./README.md) | [Previous Page](./philosophya.md) | [The Period of Collaboration and Leadership](./philosophyc.md)

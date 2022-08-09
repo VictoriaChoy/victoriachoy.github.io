@@ -2,7 +2,7 @@
 
 <img src="inquirer s.gif" align="center"/>
 
-Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The identity-construction inquiry has prompted me to critically analyze the similarities and differences between China and the west in social, economic, political, historical, cultural and educatinonal contexts. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west.
+Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The **identity-construction inquiry** has prompted me to critically analyze the similarities and differences between China and the west in **social, economic, political, historical, cultural and educatinonal contexts**. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west.
 
 References:
 
@@ -14,11 +14,11 @@ Mark K Shum, Ian Hill, 2015, _Infusing IB Philosophy and Pedagogy into Chinese L
 
 ![image](https://user-images.githubusercontent.com/109213222/182389417-5915df37-35f6-4202-a091-1edca3f8d2e9.png)
 
-Assessment Culture has arisen as valid measures of learning against traditional tests since the 20th century. It develops within the learning community shared understanding and language of what, why and how to assess to inform and adjust teaching and learning. Fostering assessment culture requires development of assessment capability, integrated-assessment policy, collaboration in assessment among students and teachers,and professional development.
+**Assessment Culture** has arisen as valid measures of learning against traditional tests since the 20th century. It develops within the **learning community** shared understanding and language of what, why and how to assess to inform and adjust teaching and learning. Fostering assessment culture requires development of assessment capability, integrated-assessment policy, collaboration in assessment among students and teachers,and professional development.
 
 ### Diagnostic Assessment and Formative Assessment
 
-I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of student-involved classroom assessment to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
+I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ the most inspiring to me. The article criticizes norm-referenced tests for their insufficiency and advocates the prioritization of **student-involved classroom assessment** to reduce achievement score gaps. Three tools for student involvement are elaborated in assessment process to define and apply criteria, record keeping to monitor improvements and communication to share self-assessment with others. Four conditions to reduce achievement gaps and use assessment effectively are elicited: focus on clear purposes, accurate reflections of improvement, continuous descriptive feedback on improvement, student involvement in classroom assessment process.
 
 #### Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p. 8)
 
@@ -51,4 +51,4 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 
 <https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
 
- [Home](./README.md) | [Differentiated Instruction & Visible Thinking Routines](./differentiatedinstruction.md)
+ [Home](./README.md) | [Previous Page](./teachingandlearning3) | [Differentiated Instruction & Visible Thinking Routines](./differentiatedinstruction.md)
