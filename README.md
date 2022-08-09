@@ -4,7 +4,7 @@
 
 <img src="welcome-19.gif" align="center"/>
 
-## [About me](/../../sample%20project/About.md)
+## [About me](#about-mesample-projectaboutmd)
 
 ### [Teaching Philosophy](#teaching-philosophy-1)
 
