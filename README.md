@@ -4,9 +4,9 @@
 
 <img src="welcome-19.gif" align="center"/>
 
-## [About me](\\sample-project\about.md)
+## [About me](./About.md)
 
-## [Teaching Philosophy](#teaching-philosophy-1)
+## [Teaching Philosophy](./philosophya.md)
 
 ## [Teaching and Learning](#teaching-and-learning-1)
 
