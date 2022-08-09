@@ -8,14 +8,14 @@
 
 ## [Teaching Philosophy](./philosophya.md)
 
-## [Teaching and Learning](#teaching-and-learning-1)
+## [Teaching and Learning](./teachingandlearning1.md)
 
-## [Professional Learning and Future Growth](#professional-learning-and-future-growth-1)
+## [Professional Learning and Future Growth](./professional.md)
   
-## [Honors](#honors-1)
+## [Honors](./honors.md)
   
-## [Associations](#associations-1)
+## [Associations](./associations.md)
 
-## [Appendix](#appendix-1)
+## [Appendix](./appendix.md)
 
 

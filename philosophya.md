@@ -1,3 +1,7 @@
+# Teaching Philosophy
+
+<img src="thinking s.gif" align="center"/>
+
 My preliminary understanding of teaching philosophy is about the **student-centered** methodology.
 
 When I began to study the first course for the IB educator certificate in the early 2021, I aligned my earlier practice with the **humanistic approach** that emphasizes students' interest and engagement as key elements in effective learning and teaching.
@@ -16,7 +20,7 @@ IBO, 2018, _PYP The Learner_
 
 UNESCO, 2020, _Humanistic Futures of Learning_
 
-2.1 The Period of Self-awareness (2012-2013)
+## The Period of Self-awareness (2012-2013)
 
 <img src="self awareness s.gif" align="center"/>
 
@@ -31,3 +35,5 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 ![image](https://user-images.githubusercontent.com/109213222/179449911-7e20fb5c-334d-44c7-adb4-f29d5e99d588.png)
 
 <https://www.scmp.com/comment/insight-opinion/united-states/article/2177403/how-english-testing-failing-chinese-students>)
+
+[Home](./README.md) | [The Period of Practice & Collaboration](./philosophyb.md)
