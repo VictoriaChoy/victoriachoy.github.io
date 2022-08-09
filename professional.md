@@ -6,9 +6,11 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ## List of Qualifications 
 
-- IB PYP Educator Certificate (In Progress)
+- IB PYP Educator Certificate, the University of Windsor (In Progress)
 
-- MEd. from University of the People (In Progress)
+- MEd. University of the People (In Progress)
+
+- Bachelor of Arts, English Language and Literature, Xiamen University
 
 - IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
 
@@ -30,7 +32,9 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 - IELTS Academic Band 7.5
 
-- Test for English Major (Good Grades)
+- Test for English Major (Good Grades), Xiamen University
+
+- Certificate of High-school English Teacher, Education Bureau, Xiamen City
 
 ### MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
 
@@ -90,8 +94,16 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![image](https://user-images.githubusercontent.com/109213222/182404650-8657bbed-38ee-41a4-a4a8-fc068f717e5f.png)
 
-### Test for English Major (Good Grades)
+### Test for English Major (Good Grades), Xiamen University
 
 ![image](https://user-images.githubusercontent.com/109213222/183637986-4465f41b-7421-4d43-ac44-368917828106.png)
+
+### Bachelor of Arts, English Language and Literature, Xiamen University
+
+![image](https://user-images.githubusercontent.com/109213222/183640461-948c16fd-7124-4510-b852-c362f12d91e9.png)
+
+### Certificate of High-school English Teacher, Education Bureau, Xiamen City
+
+![image](https://user-images.githubusercontent.com/109213222/183640579-394b9b1f-c51a-4c14-aeda-639a4bac4ce4.png)
 
  [Home](./README.md) | [Previous Page](./curriculum.md) | [Honors](./honors.md)
