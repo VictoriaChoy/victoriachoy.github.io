@@ -1,5 +1,7 @@
 # About me
 
+![image](https://user-images.githubusercontent.com/109213222/183570271-ba42e785-388f-4ece-800a-1dc0c53eaa5c.png)
+
 Hi, I am Victoria from southeast China. My Chinese name is Xiaoyan Cai. I am passionate about innovative teaching methodology with a student-centered approach. I have about 10 years of experience strategizing effective learning experiences for students from preschoolers to adults in the **transdisciplinary approach**.
 
 I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
