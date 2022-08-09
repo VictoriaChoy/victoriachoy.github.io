@@ -90,7 +90,7 @@ The experience to collaborate with foreign teachers as an extracurricular projec
 
 ![image](https://user-images.githubusercontent.com/109213222/183665501-294bf78b-f0b5-401e-aac9-ae4c8fe5bcf7.png)
 
-![image](https://user-images.githubusercontent.com/109213222/183665579-f5d8dd5d-f85f-4672-8231-521fdf74a52a.png)
+![image](https://user-images.githubusercontent.com/109213222/183667331-7ba6a1ac-28a9-4ea0-a1fd-ed85e9e8a300.png)
 
 ![image](https://user-images.githubusercontent.com/109213222/183665625-a0353d1e-2072-4dbb-a6f0-c12ee0e6bd2b.png)
 
