@@ -70,6 +70,8 @@ I have been using my previous bosses as counterexamples or role models to reflec
 
 ### Inquiry-based Learning Workshop Schedule
 
+The workshop themed in early learning systems provided an introduction of inquiry-based and play-based learning for new teachers through a learning-by-doing approach based on teachers' experience and understanding of early learners.
+
 ![image](https://user-images.githubusercontent.com/109213222/181747618-219d191a-6d44-4c55-a61c-8dc5568f8ade.png)
 
 Reference:
@@ -79,5 +81,11 @@ IBO, 2020, _Standards and Practices_
 Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 <https://www.indeed.com/career-advice/career-development/collaboration-strategy>
+
+### Project Management
+
+The experience to collaborate with foreign teachers as an extracurricular project manager for kindergarteners and primary students deepned my understanding of students from the public sector and the strengths and weakenesses of foreign teachers.
+
+
 
  [Home](./README.md) | [Previous Page](./teachingandlearning2) | [A Life-long Inquirer](./teachingandlearning4.md)
