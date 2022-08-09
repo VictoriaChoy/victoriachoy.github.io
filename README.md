@@ -6,7 +6,7 @@
 
 ## [About me](./About.md)
 
-## [Teaching Philosophy](./philosophya.md)
+## [Teaching Philosophy](./philosophyb.md)
 
 ## [Teaching and Learning](./teachingandlearning1.md)
 
