@@ -54,11 +54,11 @@ After rehearsals of demo classes collaboratively planned, teachers were giving d
   
 ### Feedback on Discussion Forum
 
-![discussion board s](https://user-images.githubusercontent.com/109213222/183128555-53ef7d77-02a0-466f-8e99-4f145a9a7562.JPG)
+![feedback discussion s](https://user-images.githubusercontent.com/109213222/183128601-a682582c-6ed6-4a0d-929b-9f6b38d72153.JPG)
 
 ### Feedback on My Inspiration for Portfolio Ideas
 
-![feedback discussion s](https://user-images.githubusercontent.com/109213222/183128601-a682582c-6ed6-4a0d-929b-9f6b38d72153.JPG)
+![discussion board s](https://user-images.githubusercontent.com/109213222/183128555-53ef7d77-02a0-466f-8e99-4f145a9a7562.JPG)
 
 ## Reflection on Educational Leadership
 
