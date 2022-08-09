@@ -1,4 +1,4 @@
-# A Collaborator and Dedicated Servant for the Learning Community
+# A Collaborator and Servant for the Learning Community
 
 <img src="collaborator s.gif" align="center"/>
 
@@ -86,6 +86,14 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 The experience to collaborate with foreign teachers as an extracurricular project manager for kindergarteners and primary students deepned my understanding of students from the public sector and the strengths and weakenesses of foreign teachers.
 
+![image](https://user-images.githubusercontent.com/109213222/183665265-2aef5248-ba6a-4b5c-9eb0-8bd2d2cee00c.png)
 
+![image](https://user-images.githubusercontent.com/109213222/183665501-294bf78b-f0b5-401e-aac9-ae4c8fe5bcf7.png)
+
+![image](https://user-images.githubusercontent.com/109213222/183665579-f5d8dd5d-f85f-4672-8231-521fdf74a52a.png)
+
+![image](https://user-images.githubusercontent.com/109213222/183665625-a0353d1e-2072-4dbb-a6f0-c12ee0e6bd2b.png)
+
+![image](https://user-images.githubusercontent.com/109213222/183665675-3c8588c3-9f98-4e40-b107-1b88ffd9263c.png)
 
  [Home](./README.md) | [Previous Page](./teachingandlearning2) | [A Life-long Inquirer](./teachingandlearning4.md)
