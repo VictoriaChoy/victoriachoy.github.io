@@ -56,11 +56,11 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ### IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
 
-![image](https://user-images.githubusercontent.com/109213222/179465935-766dfb46-72b7-40e6-8dc4-027a8cbed8e1.png)
+![IB bilingual](https://user-images.githubusercontent.com/109213222/184063629-c51e0ff8-3fac-4258-8a3b-c98108ab4dc6.JPG)
 
 ### International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
 
-![image](https://user-images.githubusercontent.com/109213222/179466080-5570b443-bc9c-46fc-b691-66de49b508a5.png)
+![cloud symposium](https://user-images.githubusercontent.com/109213222/184063507-9f9d43db-abce-4be8-ad4b-6249cb37ada9.JPG)
 
 ### IPA International Mandarin Teacher Transcript
 
@@ -84,7 +84,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ### Professional Director of Kindergarten
 
-![image](https://user-images.githubusercontent.com/109213222/181924509-289acf94-9b42-4b97-b212-8b55a6608926.png)
+![director of kindergarten s](https://user-images.githubusercontent.com/109213222/184063754-0ef8bd31-f4ba-489a-9868-c5a35dd53e42.JPG)
 
 ### Nursery Teacher
 
