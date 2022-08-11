@@ -1,4 +1,4 @@
-# Differentiated Instruction & Visiable Thinking Routines
+# Differentiated Instruction & Visible Thinking Routines
 
 ## Meaning of Differentiated Instruction
 
