@@ -20,6 +20,8 @@ IBO, 2018, _PYP The Learner_
 
 UNESCO, 2020, _Humanistic Futures of Learning_
 
+---
+
 ## The Period of Self-awareness (2012-2013)
 
 <img src="self awareness s.gif" align="center"/>

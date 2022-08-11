@@ -12,6 +12,8 @@ I have been in charge of **curriculum development** and teaching faculty since I
 
 ![ceiling small](https://user-images.githubusercontent.com/109213222/179357564-9622e0fd-617d-4687-90af-72cfee4fa5a4.JPG)
 
+---
+
 ## Picture Book Projects
 
 The book is about a birthday party from _Oxford Reading Tree_ with an ort program to operate on the computer. Apart from using the interactive white board with the program, we used the **project-based** approach to engage early learners based on teachers' different strengths. The idea of mango slices arranged in the shape of a birthday cake with letter-shaped biscuits was co-deveoped by the team. The white board decorated with balloons and laminated letter cards served as a setting for early learners to put on a puppet show in the same theme. Multiple projects were initiated by different teachers. Their ideas were also great inspirations for me. I believed the achievements by **teamwork** had a significant advantage over those by individuals.
@@ -28,11 +30,15 @@ The book is about a birthday party from _Oxford Reading Tree_ with an ort progra
 
 ![image](https://user-images.githubusercontent.com/109213222/181311940-918ced8b-7c90-4107-94d8-e6e7acc16d30.png)
 
+---
+
 ## Puppetry Show for Marketing
 
 This show was organized for the marketing department targeting the age group from toddlers to lower-primary students. We first created a forest setting with cardboards, drawings and glue gun. Then teachers were paired to put on one mini-show, keeping in mind effective interaction with the audience. A section was designed for children volunteers to take part in the show with English expressions learned on the spot.
 
 ![event](https://user-images.githubusercontent.com/109213222/179360977-eaf94d5c-e7e6-4ca7-a14e-fa4929339910.JPG)
+
+---
 
 ## Bilingual Day-care Centers
 

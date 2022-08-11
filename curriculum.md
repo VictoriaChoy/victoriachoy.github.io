@@ -12,6 +12,8 @@
 
 ![jelly](https://user-images.githubusercontent.com/109213222/183129352-e3fbf2a5-ba1c-4293-8f76-8a1bf57e78e6.JPG)
 
+---
+
 ## Units of Inquiry for 5-6 Years Old
 
 The one-year transdisciplinary curriculum framework for 5-6-year-olds was developed in the group project for the course of Professional Learning of the IB educator certificate.
@@ -26,6 +28,8 @@ Group Inquiry Question:
   
 ![framework](https://user-images.githubusercontent.com/109213222/182590102-41b41090-d49d-496a-993f-680fa539fc79.png)
 
+---
+
 ## Lower-secondary English (12-15 years old)
 
 I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is no limit to their potential.
@@ -35,6 +39,8 @@ I developed a curriculum for this age group based on Oxford's textbooks _Discove
 A Student's Poem
 
 ![poem s](https://user-images.githubusercontent.com/109213222/183084201-bf747672-197e-41e7-b7bc-bc387b2445f0.JPG)
+
+---
 
 ## Upper-secondary English (15-18 years old)
 
@@ -48,11 +54,15 @@ The scenes depicted in the advertisement were as vivid as in a painting that req
 
 ![image](https://user-images.githubusercontent.com/109213222/182398139-cea7b541-d23e-41db-a6f3-71f58ba42ae8.png)
 
+---
+
 ## University Interdisciplinary Learning (Adults)
 
 Being aware of the importance of key subject mastery to student success in the 21st century (Battelle for Kids, p. 2), I have been helping one of my college students with her written assignments in English through modeling with explanations and samples. I once taught her to surf the internet with keywords in a global interdisciplinary theme (the Covid-19 pandemic) and a dual-mode presentation of data in a Microsoft Excel document for her final presentation on the impact of the pandemic with the inquiry of the concept, connections, one of the sixteen interdisciplinary key concepts in MYP (IBO, 2014, p. 66), with citations in APA format. I also suggested a mind map software for her to prepare the speech. The teaching method has worked well so far, with her score for the final presentation at 13.5/14. The learning outcome has strengthened the student **self-efficacy**, i.e. confidence in learning and greater effort for more academic achievements (IBO, 2018, p.2).
 
 ![image](https://user-images.githubusercontent.com/109213222/182403058-81a7ed2c-6ded-44ae-bc34-ad4697258add.png)
+
+---
 
 ## IELTS Exam-Preparation
 
@@ -63,3 +73,6 @@ Example of an Integrated Lesson
 ![integrated](https://user-images.githubusercontent.com/109213222/182415695-96125556-e68b-4929-9f26-ab2e6764839c.png)
 
  [Home](./README.md) | [Previous Page](./earlylearning.md) | [Professional Learning and Future Growth](./professional.md)
+
+ 📧 Contact:
+<175709572@qq.com>

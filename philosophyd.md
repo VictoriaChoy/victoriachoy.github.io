@@ -22,6 +22,8 @@ A link to my entire journal.
 
 <https://docs.google.com/document/d/1LpDPu2gfndcJ6MJpE2lHohhNA4qhAO1sWHOJ09Vsb6c/edit?usp=sharing>
 
+---
+
 Since I began to learn **IB educator certificate** at the University of Windsor, the inquiry about my own identity has become increasingly clear, i.e. who I am for myself, my family, my friends, my students, and my country. With some preliminary research on **international-mindedness** in the first course, the core of IB philosophy, my inquiry list kept expanding, including the relationship between the **eastern humanism** represented by Confucianism and the **western humanism**. Having been learning the MEd. at University of the People, I was able to connect more findings with each other, enabling myself to make new meanings of what I can do as an IB educator, and analyze critically the similarities and differences between **IB philosophy** and contemporary Confucianism, in the fields such as their contexts, current and future impacts, linguistic policies and teaching, and possible **integration**.
 
 References:

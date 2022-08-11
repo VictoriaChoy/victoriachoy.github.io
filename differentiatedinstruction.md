@@ -14,6 +14,8 @@
 
 - Providing appropriate levels of challenge and active engagement in rigorous, relevant and significant learning
 
+---
+
 ### Example of Differentiated Instruction and Assignments for a Transdisciplinary Unit (8-12 Years Old)
 
 ![DI](https://user-images.githubusercontent.com/109213222/182414196-9842b842-2858-45f4-b3ac-82d6ab2df2e1.png)
@@ -29,6 +31,8 @@ Students were asked to complete the worksheet according to what they liked and c
 ### Instructor's Feedback on the Lesson Plan
 
 ![FEEDACK LP](https://user-images.githubusercontent.com/109213222/182414610-a804eab8-33cc-45fc-b03d-f96874599125.png)
+
+---
 
 ## Visible Thinking Routines
 

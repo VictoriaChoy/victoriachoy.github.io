@@ -4,7 +4,7 @@
 
 I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
 
-## List of Qualifications 
+## List of Qualifications
 
 - IB PYP Educator Certificate, the University of Windsor (In Progress)
 
@@ -35,6 +35,8 @@ I would complete the courses for IB educator certificate in August. After that, 
 - Test for English Major (Good Grades), Xiamen University
 
 - Certificate of High-school English Teacher, Education Bureau, Xiamen City
+
+---
 
 ### MEd. Group Work Grading Rubric for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
 
