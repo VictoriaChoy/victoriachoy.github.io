@@ -107,3 +107,6 @@ I would complete the courses for IB educator certificate in August. After that, 
 ![image](https://user-images.githubusercontent.com/109213222/183640579-394b9b1f-c51a-4c14-aeda-639a4bac4ce4.png)
 
  [Home](./README.md) | [Previous Page](./curriculum.md) | [Honors](./honors.md)
+
+📧 Contact:
+<175709572@qq.com>

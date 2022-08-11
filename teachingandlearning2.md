@@ -51,3 +51,6 @@ Mixed-age English-song Class
 ![image](https://user-images.githubusercontent.com/109213222/183642812-3cfd0626-373b-4bed-a0e4-7be25eab84f4.png)
 
  [Home](./README.md) | [Previous Page](./teachingandlearning1.md) | [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
+
+📧 Contact:
+<175709572@qq.com>
