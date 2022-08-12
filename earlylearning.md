@@ -6,6 +6,7 @@ These approaches share a **holistic, integrated outlook on learning** that featu
 
 ### IB as the Beacon for International Education
 
+![ib](https://user-images.githubusercontent.com/109213222/184272273-3b6730eb-e8e4-42a7-adbb-bc33d31b84c4.png) 
 
 I believe that IB will continue to be a **beacon** for educators in international education, because of its inclusiveness and instructivity for all national curricula. The **transdisciplinary inquiry** is beyond any discipline-based curriculum, with an aim to take up the challenges of **21st century**, way beyond any individually-focused system. IB has already become a major inspiration for national curricula in both developed and developing countries, including the Next Generation Science Standards in the USA, Cambridge IQTS curriculum, the alignment research in Australian National Curriculum, Chinese science currciculum and kindergarten guidance for inquiry-based curriculum. With an increasing number of educators entering IB system from all over the world, a significant rise in innovative fruits will be gained through collaboration by teachers, students and the learning community. This will ensure IB’s leadership in international education.
 
@@ -13,6 +14,9 @@ I believe that IB will continue to be a **beacon** for educators in internationa
 
 ### Alignment between John Dewey’s Theories and IB Principles (IB Mission and Learner Profile)
 
+![john dewey](https://user-images.githubusercontent.com/109213222/184272772-f0825a9c-5112-49bd-82a9-233237e0f674.jpg)
+
+<https://psychologenie.com/john-dewey-theories>
 
 Dewey’s theory about the responsibility of the school for bringing forward positive social change is evident in IB mission statement to “develop inquiring, knowledgeable and caring young people who help to create a better and more peaceful world”. 
 His notion about inquiry as the process of sensing something indeterminate or out of balance (i.e. a problem) with subsequent analysis of relevant elements resulting in adjustment to restore balance (Larry A. Hickman, 1997) is the core element of IB PYP methodology as “an authentic way” for students to make meaning with the world around them (IBO, 2018, p. 40). The attribute of IB learner profile - inquirers also involves nurturing inherent curiosity, developing skills for inquiry and sustaining love for learning (IBO, 2018) . In his notion about reflection in experience, he emphasized the importance of thought or reflection in making meaning from experience ( Dewey, 1938, p.66), which is reflected in the attribute of LP -reflective.
@@ -57,7 +61,11 @@ Cornerstone Montessori Elementary School, _Five Great Stories of Montessori_
 
 - IB PYP and Reggio Emilia
 
-John Dewey’s approach to inquire about open-ended materials through “joint learning” in a community of learners can also be found in Reggio Emilia principle (Edwards, Gandini, Forman, 1998, p.185). According to Arleen (Dodd-Nufrio, 2017),  Reggio Emilia educators found inspiring many of the basic ideas that originated in the United States.  Valentine (1999) further connected Dewey’s influence with the classrooms and community of Reggio Emilia. 
+![reggio](https://user-images.githubusercontent.com/109213222/184273228-3dab3494-cd35-427f-8db9-e89058103f77.jpg)
+
+<https://thereggioapproach.weebly.com/reggio-philosophy-and-principles.html>
+
+John Dewey’s approach to inquire about open-ended materials through “joint learning” in a community of learners can also be found in Reggio Emilia principle (Edwards, Gandini, Forman, 1998, p.185). According to Arleen (Dodd-Nufrio, 2017),  Reggio Emilia educators found inspiring many of the basic ideas that originated in the United States.  Valentine (1999) further connected Dewey’s influence with the classrooms and community of Reggio Emilia. 
 
 Problem-based learning is also a well-known Reggio Emilia approach that is actually Dewey-inspired, for the approach’s definition that through the facility of “project work, peer collaboration, social intimacy, assuming responsibility, and self-documentation of their own learning process”, children “co-construct and negotiate knowledge” (Cockrell et al, 2000, pp. 347-363).
 
