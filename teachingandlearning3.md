@@ -94,7 +94,7 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 ---
 
-### Project Management
+### Extra-curricular Project Management
 
 The experience to collaborate with foreign teachers as an extracurricular project manager for kindergarteners and primary students deepned my understanding of students from the public sector and the strengths and weakenesses of foreign teachers.
 

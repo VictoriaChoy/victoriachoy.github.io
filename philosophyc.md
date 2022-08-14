@@ -92,7 +92,7 @@ Techonology plays an important role in discovery learning.
 
 ---
 
- [Home](./README.md) | [Previous Page](./philosophyb.md) |[The Period of Identity Establishment](./philosophyd.md)
+ [Home](./README.md) | [Previous Page](./philosophyb.md) | [The Period of Identity Establishment](./philosophyd.md)
 
  📧 Contact:
 <175709572@qq.com>

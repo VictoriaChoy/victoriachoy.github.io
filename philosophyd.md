@@ -40,7 +40,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ---
 
- [Home](./README.md) | [Previous Page](./philosophyc.md) |[Teaching and Learning](./teachingandlearning1.md)
+ [Home](./README.md) | [Previous Page](./philosophyc.md) | [Teaching and Learning](./teachingandlearning1.md)
 
  📧 Contact:
 <175709572@qq.com>
