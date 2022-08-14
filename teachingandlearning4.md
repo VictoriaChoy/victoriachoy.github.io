@@ -2,7 +2,7 @@
 
 <img src="inquirer s.gif" align="center"/>
 
-Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The **identity-construction inquiry** has prompted me to critically analyze the similarities and differences between China and the west in **social, economic, political, historical, cultural and educatinonal contexts**. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west.
+Learning and teaching experiences keep shaping our identity throughout the life-time teaching career. The **identity-construction inquiry** has prompted me to critically analyze the similarities and differences between China and the west in **social, economic, political, historical, cultural and educatinonal contexts**. One of the recent findings is the possible integration of IB philosophy and methodology into teaching Chinese as a foriegn language. Through seminars held by CTCSOL and literature by IB and non-IB scholars, I have compared and contrasted the methodology of CTCSOL and IPA, from both of which I have acquired Mandarin teaching certificates. Having known about the political nature of education, I have also inquired about the state capitalism in the east vs the counterpart in the west. With the new set of **national transdisciplinary curricula for primary schools** to be effected this September, opportunities and challenges are worth exploring in the local context, including the **alignment of the new curricula with IB PYP transdisciplinary framework**, the **provision of teaching faculty, resources for inquiry, and readiness of the learning community**.
 
 References:
 
@@ -26,7 +26,7 @@ I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ t
 
 ---
 
-#### Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p. 8)
+#### Functions of Diagnostic and Formative Assessment (Brown and Sanford, 2011, p.8)
 
 - Using screening and formative assessment data to identify students at risk for poor learning outcomes
 
@@ -54,7 +54,7 @@ I find _Using Student-Involved Classroom Assessment to Close Achievement Gaps_ t
 
 References：
 
-Julie Esparza Brown and Amanda K. Sanford, 2011, _RTI for English Language Learners: Appropriately RTI for English Language Learners
+Julie Esparza Brown and Amanda K. Sanford, 2011, _RTI for English Language Learners: Appropriately RTI for English Language Learners_
 
 Rick Stiggins and Jan Chappuis, _Using Student-Involved Classroom Assessment to Close Achievement Gaps_
 Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on Teaching in SChools_
