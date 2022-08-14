@@ -34,6 +34,8 @@
 
 - Certificate of High-school English Teacher, Education Bureau, Xiamen City
 
+- Professional Development of Cambridge Assessment International Education, Primary English (In Progress)
+
 ---
 
 I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
@@ -61,6 +63,8 @@ I would complete the courses for IB educator certificate in August. After that, 
 ![image](https://user-images.githubusercontent.com/109213222/180366450-11a2c85f-6ed6-4d96-88e1-4190f9aec9a0.png)
 
 ![image](https://user-images.githubusercontent.com/109213222/180366480-14c7c25b-637c-425e-86d1-02def6777856.png)
+
+---
 
 ### IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
 
