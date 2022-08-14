@@ -44,9 +44,13 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 <https://docs.google.com/document/d/1DKzvqS63BbkXQ8761YNgKmGeUz0J-vPa/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true>
 
+---
+
 ### Academic Report- Grade A for Course EDUC 5010 Education in Context: History, Philosophy and Sociology
 
 ![image](https://user-images.githubusercontent.com/109213222/179459422-f399f5d0-fb72-49aa-b10d-e6fa6de5948c.png)
+
+---
 
 ### IB Educator Certificate Course Transcript
 
@@ -62,53 +66,85 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ![IB bilingual](https://user-images.githubusercontent.com/109213222/184063629-c51e0ff8-3fac-4258-8a3b-c98108ab4dc6.JPG)
 
+---
+
 ### International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
 
 ![cloud symposium](https://user-images.githubusercontent.com/109213222/184063507-9f9d43db-abce-4be8-ad4b-6249cb37ada9.JPG)
+
+---
 
 ### IPA International Mandarin Teacher Transcript
 
 ![image](https://user-images.githubusercontent.com/109213222/183637864-216ba52d-5efc-42f9-afd6-80d28d67955c.png)
 
+---
+
 ### Teaching English to Young Learners
 
 ![image](https://user-images.githubusercontent.com/109213222/181924694-13c185c5-7107-4e94-b6f4-d1572b39954c.png)
+
+---
 
 ### TESOL Diploma
 
 ![image](https://user-images.githubusercontent.com/109213222/179466727-80fb1463-10a3-4adc-90b7-d0ee80be22b7.png)
 
+---
+
 ### TEFL 120 Hours
 
 ![image](https://user-images.githubusercontent.com/109213222/179466439-881b73b0-74b0-4da6-b52d-e3067cd15513.png)
+
+---
 
 ### Cambridge Business English Higher Certificate
 
 ![image](https://user-images.githubusercontent.com/109213222/181924352-1c059da3-9331-4019-98b6-aac3185305a1.png)
 
+---
+
 ### Professional Director of Kindergarten
 
 ![director of kindergarten s](https://user-images.githubusercontent.com/109213222/184063754-0ef8bd31-f4ba-489a-9868-c5a35dd53e42.JPG)
+
+---
 
 ### Nursery Teacher
 
 ![image](https://user-images.githubusercontent.com/109213222/183637753-980f3cd7-ab9b-4718-b631-e7783f833ba3.png)
 
+---
+
 ### IELTS Academic Band 7.5
 
 ![image](https://user-images.githubusercontent.com/109213222/182404650-8657bbed-38ee-41a4-a4a8-fc068f717e5f.png)
+
+---
 
 ### Test for English Major (Good Grades), Xiamen University
 
 ![image](https://user-images.githubusercontent.com/109213222/183637986-4465f41b-7421-4d43-ac44-368917828106.png)
 
+---
+
 ### Bachelor of Arts, English Language and Literature, Xiamen University
 
 ![image](https://user-images.githubusercontent.com/109213222/183640461-948c16fd-7124-4510-b852-c362f12d91e9.png)
 
+---
+
 ### Certificate of High-school English Teacher, Education Bureau, Xiamen City
 
 ![image](https://user-images.githubusercontent.com/109213222/183640579-394b9b1f-c51a-4c14-aeda-639a4bac4ce4.png)
+
+---
+
+### Professional Development for Cambridge Assessment International Education, Primary English
+
+![cambridge assessment](https://user-images.githubusercontent.com/109213222/184540244-ded6d07e-8bdd-4210-898f-bf86fa8ba23b.JPG)
+
+---
 
  [Home](./README.md) | [Previous Page](./curriculum.md) | [Honors](./honors.md)
 
