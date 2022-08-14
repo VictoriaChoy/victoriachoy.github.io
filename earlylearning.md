@@ -123,6 +123,8 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 <https://www.academia.edu/25559536/Childhood_Education_Seven_Wonders_of_the_Early_Childhood_World>
 
+---
+
  [Home](./README.md) | [Previous Page](./differentiatedinstruction.md) | [Curriculum Development](./curriculum.md)
 
  📧 Contact:

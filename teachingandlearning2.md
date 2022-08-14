@@ -60,6 +60,8 @@ Mixed-age English-song Class
 
 ![ukelili](https://user-images.githubusercontent.com/109213222/184064836-c5e9a0f7-999f-4d24-8e1f-5562d63d3128.JPG)
 
+---
+
  [Home](./README.md) | [Previous Page](./teachingandlearning1.md) | [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
 
 📧 Contact:

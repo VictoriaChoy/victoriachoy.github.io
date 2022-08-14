@@ -120,6 +120,8 @@ A 6-year-old Girl's Inquiry about _Form_ during a Mathematics Class of Shapes Ba
 
 ![form 2 s](https://user-images.githubusercontent.com/109213222/183128208-dba578d8-60e0-42df-9822-e6c4a0c974c2.PNG)
 
+---
+
  [Home](./README.md) | [Previous Page](./philosophyd.md) |[An Engaging Instructor](./teachingandlearning2.md)
 
  📧 Contact:

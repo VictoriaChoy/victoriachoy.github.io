@@ -38,6 +38,8 @@ George Walker, 2010, _East is East and West is West_
 
 Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational foundations for teachers: The history, philosophy, and culture of schooling_ (pp. 399-430)
 
+---
+
  [Home](./README.md) | [Previous Page](./philosophyc.md) |[Teaching and Learning](./teachingandlearning1.md)
 
  📧 Contact:

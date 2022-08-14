@@ -72,6 +72,8 @@ Example of an Integrated Lesson
 
 ![integrated](https://user-images.githubusercontent.com/109213222/182415695-96125556-e68b-4929-9f26-ab2e6764839c.png)
 
+---
+
  [Home](./README.md) | [Previous Page](./earlylearning.md) | [Professional Learning and Future Growth](./professional.md)
 
  📧 Contact:

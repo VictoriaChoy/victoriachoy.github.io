@@ -1,12 +1,10 @@
 # Appendix
 
-## CV
-
-<https://drive.google.com/file/d/1L6mvSley_pSOHr_J98faEosoBhrq2afD/view?usp=sharing>
-  
 ## Reference Letter from Former Principal of _EF_ China
 
 ![image](https://user-images.githubusercontent.com/109213222/182343887-b000dd07-30ee-4c1d-a9a7-949c6c56d136.png)
+
+---
 
 ## Student Feedback
 
@@ -30,7 +28,9 @@ References:
 
 <https://link.springer.com/content/pdf/10.1007/978-3-030-75150-0.pdf>
 
-## Website Builder References:
+---
+
+## Website Builder References
 
 - All about me Icon
 
@@ -83,6 +83,8 @@ References:
 - Welcome Icon
 
 <https://bestanimations.com/Text/Welcome/welcome-19.gif>
+
+---
 
  [Home](./README.md) | [Previous Page](./honors.md)
 

@@ -38,6 +38,8 @@ I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreo
 
 <https://pan.baidu.com/s/1NXFWdyt5QRb5x3h4k30Kxw?pwd=1234>
 
+---
+
  [Home](./README.md) | [Teaching Philosophy](./philosophya.md)
 
 📧 Contact:

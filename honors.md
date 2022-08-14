@@ -12,6 +12,8 @@
 
 <https://universitybusiness.com/the-top-100-universities-in-the-world-ranked-by-real-impact/>
 
+---
+
  [Home](./README.md) | [Previous Page](./professional.md) |[Associations](./associations.md)
 
  📧 Contact:
