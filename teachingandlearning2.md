@@ -2,6 +2,8 @@
 
 <img src="engager s.gif" align="center"/>
 
+## Project-based Experiential Learning in a Hands-on Approach
+
 I have been practicing the **project-based** and **hands-on** approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning with a **cost-effective** approach. I also rely on my personality and body language to engage early learners. Here are some examples.
 
 Laminated paper roulettes were used for phonics and counting toys with literacy.
@@ -22,7 +24,7 @@ I pretended to cover my ears to encourage students' loud responses.
 
 ---
 
-The handicraft medals were meant for primary students' play of first aid for heat stroke, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the **transdisciplinary theme** "how the world works", emphasising the impact of human activities on the nature.
+The handicraft medals were meant for primary students' play of first aid for heat stroke frequent in summer in the local area of south China, connecting with the climate change, P.S.P.E, arts, and literacy, in order to inquire about the **transdisciplinary theme** "how the world works", emphasising the impact of human activities on the nature.
 
 ![image](https://user-images.githubusercontent.com/109213222/181795444-ee0e4356-4825-4339-b790-ed465bee0529.png)
 
@@ -34,9 +36,11 @@ Students were being dressed up like the characters in the picture book about a c
 
 ---
 
+### Solutions to the Learning Difficulties of a Six-year-ol Girl 
+
 The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the **STEAM** classes in a **hands-on approach**. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but kept her promise to make more attempts after my encouragement. Although she was quick-tempered and unable to concentrate on tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
 
-Presentation Video of _Patterns in the Sky_
+#### Presentation Video of _Patterns in the Sky_
 
 <https://pan.baidu.com/s/1qmhY-KKg3JsvLEZrGFgNsQ?pwd=1234>
 
@@ -44,11 +48,17 @@ The Link to _Generation Genius_ Science Lessons
 
 <https://www.generationgenius.com/patterns-in-the-sky-reading-material/>
 
-Phonics Reading Dubbing
+#### Phonics Reading Dubbing
 
 After learning English for three months, the girl started to dub picture books via an app that provides evaluation reports on the speaking quality. The girl felt very proud with the feedbacks and grades as positive reinforcement to motivate her further efforts.
 
 <https://moive2.qupeiyin.com/home/show/share?id=MDAwMDAwMDAwMLGHyKqAobqWsbeIZQ>
+
+#### Reflection on the Six-year-old Girl’s Life and Study
+
+<https://docs.google.com/document/d/1xscwMBhRbQ_ZTb2QRsHOsAnHpxztMkVx/edit?usp=sharing&ouid=111087377152626620328&rtpof=true&sd=true>
+
+---
 
 **Project-based** Learning about Sea Animals (3 years old, Literacy, Natural Science and Arts)
 
@@ -57,6 +67,8 @@ After learning English for three months, the girl started to dub picture books v
 ---
 
 Mixed-age English-song Class
+
+Musical instrument, music software, story telling, handicraft were combined in the integrated class. 
 
 ![ukelili](https://user-images.githubusercontent.com/109213222/184064836-c5e9a0f7-999f-4d24-8e1f-5562d63d3128.JPG)
 
