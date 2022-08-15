@@ -36,6 +36,10 @@
 
 - Professional Development of Cambridge Assessment International Education, Primary English (In Progress)
 
+- Certificate of Attendance, Introduction to Montessori Method of Education
+
+- Certificate of Attendance, Reggio Emilia Approach for Preschools
+
 ---
 
 I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
@@ -147,6 +151,18 @@ I would complete the courses for IB educator certificate in August. After that, 
 ### Professional Development for Cambridge Assessment International Education, Primary English
 
 ![cambridge assessment](https://user-images.githubusercontent.com/109213222/184540244-ded6d07e-8bdd-4210-898f-bf86fa8ba23b.JPG)
+
+---
+
+### Certificate of Attendance, Introduction to Montessori Method of Education
+
+![Course_Certificate Montessori](https://user-images.githubusercontent.com/109213222/184590731-0f037e92-01c5-4fbd-ba10-f2667faf4ffc.JPG)
+
+---
+
+### Certificate of Attendance, Reggio Emilia Approach for Preschools
+
+![reggio](https://user-images.githubusercontent.com/109213222/184590659-d7bd3fed-fe5e-4014-b5a9-8c7fed0a5cea.JPG)
 
 ---
 
