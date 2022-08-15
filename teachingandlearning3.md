@@ -38,31 +38,31 @@ After rehearsals of demo classes collaboratively planned, teachers were giving d
 
 ## Collaborative Learning in the Global Learning Community
   
-* My Feedback on a Colleague's Assignment for the MEd. Course
+### My Feedback on a Colleague's Assignment for the MEd. Course
 
 ![assignment feedbac](https://user-images.githubusercontent.com/109213222/182411247-78133515-af2e-48c1-b21c-7efbf990fb1a.jpg)
 
-* Feedback from My Instructors of the MEd. Course and IB Educator Certificate
+### Feedback from My Instructors of the MEd. Course and IB Educator Certificate
 
-* Feedback on Inquiry Lesson Planning
+#### Feedback on Inquiry Lesson Planning
 
 ![teaching and learning feedback s](https://user-images.githubusercontent.com/109213222/183128304-b8b1269f-7b84-4e85-adb6-70ed4006682f.JPG)
 
-* Feedback on Unit of Inquiry Planning
+#### Feedback on Unit of Inquiry Planning
 
 ![feedback uoi s](https://user-images.githubusercontent.com/109213222/183128351-2f481122-54f8-41dc-8bb0-6a15c29583d4.JPG)
 
-* Feedback on End-of-term Reflection in Teaching Portfolio
+### Feedback on End-of-term Reflection in Teaching Portfolio
 
 ![feedback democracy](https://user-images.githubusercontent.com/109213222/183128478-9b227bf1-7dad-4119-8dbc-a25bd64109cc.JPG)
 
-* Feedback from My Colleagues of the MEd. Course and IB Educator Certificate
+### Feedback from My Colleagues of the MEd. Course and IB Educator Certificate
   
-* Feedback on Discussion Forum
+#### Feedback on Discussion Forum
 
 ![feedback discussion s](https://user-images.githubusercontent.com/109213222/183128601-a682582c-6ed6-4a0d-929b-9f6b38d72153.JPG)
 
-* Feedback on My Inspiration for Portfolio Ideas
+#### Feedback on My Inspiration for Portfolio Ideas
 
 ![discussion board s](https://user-images.githubusercontent.com/109213222/183128555-53ef7d77-02a0-466f-8e99-4f145a9a7562.JPG)
 
@@ -96,7 +96,7 @@ Indeed Editorial Team, _15 Effective Collaboration Strategies for the Workplace_
 
 ### Extra-curricular Project Management
 
-The experience to collaborate with foreign teachers as an extracurricular project manager for kindergarteners and primary students deepned my understanding of students from the public sector and the strengths and weakenesses of foreign teachers.
+The experience to collaborate with foreign teachers as an extracurricular project manager for kindergarteners and primary students in the learning community deepned my understanding of students from the public sector and the strengths and weakenesses of foreign teachers.
 
 ![image](https://user-images.githubusercontent.com/109213222/183665265-2aef5248-ba6a-4b5c-9eb0-8bd2d2cee00c.png)
 
