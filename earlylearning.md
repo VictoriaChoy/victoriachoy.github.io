@@ -19,6 +19,7 @@ I believe that IB will continue to be a **beacon** for educators in internationa
 <https://psychologenie.com/john-dewey-theories>
 
 Dewey’s theory about the responsibility of the school for bringing forward positive social change is evident in IB mission statement to “develop inquiring, knowledgeable and caring young people who help to create a better and more peaceful world”. 
+
 His notion about inquiry as the process of sensing something indeterminate or out of balance (i.e. a problem) with subsequent analysis of relevant elements resulting in adjustment to restore balance (Larry A. Hickman, 1997) is the core element of IB PYP methodology as “an authentic way” for students to make meaning with the world around them (IBO, 2018, p. 40). The attribute of IB learner profile - inquirers also involves nurturing inherent curiosity, developing skills for inquiry and sustaining love for learning (IBO, 2018) . In his notion about reflection in experience, he emphasized the importance of thought or reflection in making meaning from experience ( Dewey, 1938, p.66), which is reflected in the attribute of LP -reflective.
 
 He believes the learning process is how students relate the new knowledge with prior experiences (Talebi, 2015, p. 5) and thus co-construct new learning through social intercourse instituted in school (Dewey, 1938, p.12). The learning in early years of PYP is also featured with play co-constructed between students and teachers (IBO, The Learner, p.11), and “students co-construct knowledge with peers and teachers in a social-constructivist environment” (IBO, The Learner, p. 29).
@@ -43,19 +44,25 @@ Talebi, K. (2015, September). John Dewey- philosopher and educational reformer. 
 
 ---
 
-- IB PYP and Montessori
+- IB PYP and Montessori 
 
-The five great stories in elementary Montessori can be integrated into the IB PYP's transdisciplinary framework featured with the six transdisciplnary themes.
+As an established philosophy for preschool and primary education, **Montessori** fouses on developing students who are capable, accountable, knowledgeable people who have the **strong sense of self** they will need to thrive in the **real world**. One of its key elements is **child control**, whose echo can be found in IB’s **agency and self-efficacy**, but the difference is the **roles of teachers** in the two systems, where Montessori tends to downplay teachers’ guidance while IB emphasizes the **cooperative learning between teachers and students** with more positive outcomes since **relationship** plays a crucial part in the effectiveness of learning. 
+
+The **five great stories** in elementary Montessori can be integrated into the IB PYP's transdisciplinary framework featured with the six transdisciplnary themes.
 
 ![ib montessori](https://user-images.githubusercontent.com/109213222/182642145-68fab50d-521a-4811-8287-53a507756ee8.JPG)
 
 References:
 
-IBO, 2018, _PYP Learning and Teaching_
+American Montessori Society, _The eight major principles of Montessori_ 
+
+<https://amshq.org/Families/Why-Choose-Montessori>
 
 Cornerstone Montessori Elementary School, _Five Great Stories of Montessori_
 
 <https://www.cornerstone-elementary.org/elementary>
+
+IBO, 2018, _PYP Learning and Teaching_
 
 ---
 
@@ -65,9 +72,9 @@ Cornerstone Montessori Elementary School, _Five Great Stories of Montessori_
 
 <https://thereggioapproach.weebly.com/reggio-philosophy-and-principles.html>
 
-John Dewey’s approach to inquire about open-ended materials through “joint learning” in a community of learners can also be found in Reggio Emilia principle (Edwards, Gandini, Forman, 1998, p.185). According to Arleen (Dodd-Nufrio, 2017),  Reggio Emilia educators found inspiring many of the basic ideas that originated in the United States.  Valentine (1999) further connected Dewey’s influence with the classrooms and community of Reggio Emilia. 
+John Dewey’s approach to inquire about open-ended materials through **joint learning** in a **community of learners** can also be found in Reggio Emilia principle (Edwards, Gandini, Forman, 1998, p.185). According to Arleen (Dodd-Nufrio, 2017),  Reggio Emilia educators found inspiring many of the basic ideas that originated in the United States.  Valentine (1999) further connected **Dewey’s influence* with the classrooms and community of Reggio Emilia. 
 
-Problem-based learning is also a well-known Reggio Emilia approach that is actually Dewey-inspired, for the approach’s definition that through the facility of “project work, peer collaboration, social intimacy, assuming responsibility, and self-documentation of their own learning process”, children “co-construct and negotiate knowledge” (Cockrell et al, 2000, pp. 347-363).
+**Problem-based learning** is also a well-known Reggio Emilia approach that is actually **Dewey-inspired**, for the approach’s definition that through the facility of “project work, peer collaboration, social intimacy, assuming responsibility, and self-documentation of their own learning process”, children “co-construct and negotiate knowledge” (Cockrell et al, 2000, pp. 347-363).
 
 ![image](https://user-images.githubusercontent.com/109213222/182643021-d4ee57b4-422f-47dd-a720-b99700ff1b27.png)
 
