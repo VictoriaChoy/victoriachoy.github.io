@@ -6,7 +6,7 @@
 
 - IB PYP Educator Certificate, the University of Windsor (In Progress)
 
-- MEd. University of the People (In Progress)
+- MEd. focusing on IB leadership and advanced learning & teaching, University of the People (In Progress)
 
 - Bachelor of Arts, English Language and Literature, Xiamen University
 
