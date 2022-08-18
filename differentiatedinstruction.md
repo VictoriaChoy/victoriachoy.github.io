@@ -14,6 +14,8 @@
 
 - Providing appropriate levels of challenge and active engagement in rigorous, relevant and significant learning
 
+- Based on the principle of inclusive education
+
 ---
 
 ### Example of Differentiated Instruction and Assignments for a Transdisciplinary Unit (8-12 Years Old)
@@ -31,6 +33,24 @@ Students were asked to complete the worksheet according to what they liked and c
 ### Instructor's Feedback on the Lesson Plan
 
 ![FEEDACK LP](https://user-images.githubusercontent.com/109213222/182414610-a804eab8-33cc-45fc-b03d-f96874599125.png)
+
+---
+
+### Differentiated Success Criteria Based on Students' Zone of Proximal Development
+
+Co-decided by learners and teachers, learning objectives are ordered as a **progression** to higher stages. To achieve these learning objectives, success criteria are co-developed by learners and teachers, based on students' zone of proximal development, i.e. what students can do with scaffolding from teachers and peers. Since each student as a unique learner, has various levels of competency, interest, learning style, learning preference, and learning needs, success criteria should be differentiated accordingly with personalized lesson planning, mid-term planning, and long-term planning archived in the student profile that should be co-developed by learnes and teachers.
+
+![differentiated](https://user-images.githubusercontent.com/109213222/185276422-280147a2-aa76-4487-a9f2-4cd57d59f4be.JPG)
+
+References:
+
+Courseware from the Introductory Training, Cambridge Primary English (0058)
+
+Dr. Serhat Kurt, 2020, _Vygotsky’s Zone of Proximal Development and Scaffolding_
+
+<https://educationaltechnology.net/vygotskys-zone-of-proximal-development-and-scaffolding/>
+
+The Course of _Assessment and Evaluation_ for the IB PYP Educator Certificate at the University of Windsor 
 
 ---
 
