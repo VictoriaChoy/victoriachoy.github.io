@@ -146,7 +146,7 @@ A 6-year-old Girl's Inquiry about _Form_ during a Mathematics Class of Shapes Ba
 
 ---
 
- [Back](./philosophyd.md) | [An Engaging Instructor](./teachingandlearning2.md) | [A Collborator in the Learning Community](./teachingandlearning3.md)
+ [Back](./philosophyd.md) | [An Engaging Instructor](./teachingandlearning2.md) | [A Collaborator in the Learning Community](./teachingandlearning3.md)
 
  📧 Contact:
 <175709572@qq.com>
