@@ -1,4 +1,4 @@
-[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Honor](./professional.md) | [Associations](./associations.md)
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # Professional Learning and Future Growth
 
@@ -36,7 +36,7 @@
 
 - Certificate of High-school English Teacher, Education Bureau, Xiamen City
 
-- Professional Development of Cambridge Assessment International Education, Primary English (In Progress)
+- Professional Development of Cambridge Assessment International Education, Primary English
 
 - Certificate of Attendance, Introduction to Montessori Method of Education
 
