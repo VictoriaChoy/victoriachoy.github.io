@@ -1,4 +1,4 @@
-[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # Teaching and Learning
 
@@ -20,9 +20,7 @@ Positions at the Startup Smart-tech Company
 
 <details><de>
 
-<summary>
-
-+ A Facilitator of Learning and Personal Growth
+<summary> A Facilitator of Learning and Personal Growth
 
 - [An Engaging Instructor](./teachingandlearning2.md)
 
