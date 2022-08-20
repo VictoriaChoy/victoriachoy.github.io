@@ -1,8 +1,8 @@
- [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+ [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # The Period of Leadership (2017-now)
 
-<img src="leadership s.gif" align="left"/>
+<img src="leadership s.gif" align="center"/>
 
 I have been in charge of **curriculum development** and teaching faculty since I started working in day-care centers for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
 
