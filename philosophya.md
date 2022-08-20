@@ -34,7 +34,7 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 + [The Period of Leadership](./philosophyc.md)
 
-- [The Period of Identity Establishment](./philosophyd)
+- [The Period of Identity Establishment](./philosophyd.md)
 
 </summary>
 
@@ -58,7 +58,7 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 ---
 
-[About](./About.md) | [Collaboration](./philosophyb.md) | [Teaching & Learning](./teachingandlearning1.md) |  [Professional Growth](./professional.md) | [Honor](./professional.md)
+[About](./About.md) | [Collaboration](./philosophyb.md) | [Teaching & Learning](./teachingandlearning1.md) |  [Professional Growth](./professional.md) | [Honor](./honors.md)
 
 📧 Contact:
 <175709572@qq.com>
