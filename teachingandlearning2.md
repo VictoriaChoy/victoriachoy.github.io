@@ -1,4 +1,4 @@
-[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # An Engaging Instructor
 
