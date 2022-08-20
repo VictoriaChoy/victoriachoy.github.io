@@ -1,4 +1,4 @@
-[Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+[Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # Teaching Philosophy
 
