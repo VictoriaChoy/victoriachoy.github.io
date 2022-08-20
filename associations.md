@@ -12,6 +12,10 @@ University of the People: <https://www.uopeople.edu/>
 
 World schools: <https://world-schools.com/the-best-international-schools-in-asia/>
 
+International Profession Certification Association: <http://www.ipaus.org/>
+
+HSK Center: <https://hsk-crestar.com.sg/ctcsol-introduction/>
+
 ---
 
  [Home](./README.md) | [Honors](./honors.md) | [Appendix](./appendix.md)
