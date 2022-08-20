@@ -150,9 +150,9 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ---
 
-### Professional Development for Cambridge Assessment International Education, Primary English
+### Professional Development for Cambridge International Education, Primary English
 
-![cambridge assessment](https://user-images.githubusercontent.com/109213222/184540244-ded6d07e-8bdd-4210-898f-bf86fa8ba23b.JPG)
+![certificate of participation Cambridge](https://user-images.githubusercontent.com/109213222/185746292-2e1fbaaf-3eb9-4693-9205-d95200381299.JPG)
 
 ---
 
