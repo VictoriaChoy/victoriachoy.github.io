@@ -34,7 +34,7 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 + [The Period of Leadership](./philosophyc.md)
 
-- [The Period of Identity Estabishment](./philosophyd)
+- [The Period of Identity Establishment](./philosophyd)
 
 </summary>
 
