@@ -94,7 +94,7 @@ This show was organized for the marketing department targeting the age group fro
 
 ---
 
- [Back to Collaboration](./philosophyb.md) | [Go to Identity Establishment](./philosophyd.md) | [Teaching & Learning](./teachingandlearning1.md)
+ [Back to Collaboration](./philosophyb.md) | [Identity Establishment](./philosophyd.md) | [Teaching & Learning](./teachingandlearning1.md)
 
  📧 Contact:
 <175709572@qq.com>
