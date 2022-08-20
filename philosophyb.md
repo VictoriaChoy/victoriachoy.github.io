@@ -2,7 +2,7 @@
 
 # The Period of Collaboration (2014-2017)
 
-<img src="collaboration s.gif" align="center"/>
+<img src="collaboration s.gif" align="left"/>
 
 The journey began when I got an offer as an ESL teacher from _English First_, a world-renowned education group based in Sweden, a country famous for its student-centered K-12 education system. After struggling for about two months observing teachers down-the-hall, attending routine workshops, and learning by doing such as managing classes of early learners, preparing related lessons, assisting co-teachers, I started to take initiative in incorporating my interest with students’ into lesson planning, and adapting or creating new activities depending on the context. I think my practice have shown consistent evidence for the IB pedagogy on the **transdisciplinary** nature in language teaching, especially **project-based learning** with **differentiated rewards** designed for topics in the curriculum, serving multiple purposes such as **provocations**, project models, **positive reinforcement**, and more opportunities for the drill of **productive skills**. The **hands-on approach** has been well developed since then.
 
@@ -72,7 +72,7 @@ As an empathetic teacher, I extended concerns for low-achievers and trouble make
 
 ---
 
-[Back](./philosophya.md) | [Go to Leadership](./philosophyc.md) | [Go to Identity Establishment](./philosophyd.md)
+[Back to Self-awareness](./philosophya.md) | [Leadership](./philosophyc.md) | [Identity Establishment](./philosophyd.md)
 
 📧 Contact:
 <175709572@qq.com>
