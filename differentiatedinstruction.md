@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+
 # Differentiated Instruction & Visible Thinking Routines
 
 ## Meaning of Differentiated Instruction
@@ -66,7 +68,7 @@ One inquiry-based practice I think I have been doing well is visible thinking. I
 
 ---
 
- [Home](./README.md) | [Previous Page](./teachingandlearning4) | [Early Learning Systems](./earlylearning.md)
+ [Back to Inquirer](./teachingandlearning4) | [Early Learning Systems](./earlylearning.md)
 
 📧 Contact:
 <175709572@qq.com>

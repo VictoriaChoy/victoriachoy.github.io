@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Associations](./associations.md)
+
 # Honors
 
 <img src="honor s.gif" align="center"/>
@@ -14,7 +16,7 @@
 
 ---
 
- [Home](./README.md) | [Previous Page](./professional.md) |[Associations](./associations.md)
+ [Home](./README.md) | [Professional Growth](./professional.md) |[Associations](./associations.md)
 
  📧 Contact:
 <175709572@qq.com>

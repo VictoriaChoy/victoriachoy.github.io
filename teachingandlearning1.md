@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # Teaching and Learning
 
 <img src="teaching and learning s.gif" align="center"/>
@@ -14,9 +16,33 @@ Positions at the Startup Smart-tech Company
 
 ---
 
-## A Facilitator of Learning and Personal Growth
+## Please click the arrow below to read detailed sections of teaching philosophy
 
-<img src="facilitator s.gif" align="center"/>
+<details><de>
+
+<summary>
+
++ A Facilitator of Learning and Personal Growth
+
+- [An Engaging Instructor](./teachingandlearning2.md)
+
++ [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
+
+- [A Lifelong Inquirer](./teachingandlearning4.md)
+
++ [Differenciation and Visible Thinking Routines](./differentiatedinstruction.md)
+
+- [Early Learning Systems](./earlylearning.md)
+
++ [Curriculum Development](./curriculum.md)
+
+</summary>
+
+---
+
+### A Facilitator of Learning and Personal Growth
+
+<img src="facilitator s.gif" align="left"/>
 
 ### Enhancement of Students' **Agency** and **Self-efficacy**
 
@@ -122,7 +148,7 @@ A 6-year-old Girl's Inquiry about _Form_ during a Mathematics Class of Shapes Ba
 
 ---
 
- [Home](./README.md) | [Previous Page](./philosophyd.md) | [An Engaging Instructor](./teachingandlearning2.md)
+ [Back](./philosophyd.md) | [An Engaging Instructor](./teachingandlearning2.md) | [A Collborator in the Learning Community](./teachingandlearning3.md)
 
  📧 Contact:
 <175709572@qq.com>

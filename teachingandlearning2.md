@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # An Engaging Instructor
 
 <img src="engager s.gif" align="center"/>
@@ -74,7 +76,7 @@ Musical instrument, music software, story telling, handicraft were combined in t
 
 ---
 
- [Home](./README.md) | [Previous Page](./teachingandlearning1.md) | [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
+ [Back to Facilitator](./teachingandlearning1.md) | [Collaborator in the Learning Community](./teachingandlearning3.md) | [Inquirer](./teachingandlearning4.md)
 
 📧 Contact:
 <175709572@qq.com>

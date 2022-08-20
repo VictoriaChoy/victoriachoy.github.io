@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # A Life-long Inquirer
 
 <img src="inquirer s.gif" align="center"/>
@@ -67,7 +69,7 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 
 ---
 
- [Home](./README.md) | [Previous Page](./teachingandlearning3) | [Differentiated Instruction & Visible Thinking Routines](./differentiatedinstruction.md)
+[Back to Collaborator](./teachingandlearning3) | [Differentiation & Visible Thinking Routines](./differentiatedinstruction.md)
 
  📧 Contact:
 <175709572@qq.com>

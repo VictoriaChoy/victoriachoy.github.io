@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # Professional Learning and Future Growth
 
 <img src="development s.gif" align="center"/>
@@ -166,7 +168,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ---
 
- [Home](./README.md) | [Previous Page](./curriculum.md) | [Honors](./honors.md)
+ [Home](./README.md) | [Back to Curriculum Development](./curriculum.md) | [Honors](./honors.md)
 
 📧 Contact:
 <175709572@qq.com>

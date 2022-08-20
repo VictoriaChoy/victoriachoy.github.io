@@ -8,9 +8,9 @@
 
 ## [Teaching Philosophy](./philosophya.md)
 
-## [Teaching and Learning](./teachingandlearning1.md)
+## [Teaching & Learning](./teachingandlearning1.md)
 
-## [Professional Learning and Future Growth](./professional.md)
+## [Professional Growth](./professional.md)
   
 ## [Honors](./honors.md)
   

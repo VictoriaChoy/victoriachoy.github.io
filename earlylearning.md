@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+
 # Early Learning Systems (1.5-12 years old)
 
 ## Wonders of the Early Childhood World
@@ -132,7 +134,7 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 ---
 
- [Home](./README.md) | [Previous Page](./differentiatedinstruction.md) | [Curriculum Development](./curriculum.md)
+ [Back to Differentiation & Visible Thinking](./differentiatedinstruction.md) | [Curriculum Development](./curriculum.md)
 
  📧 Contact:
 <175709572@qq.com>

@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./apssociations.md)
+
 # Appendix
 
 ## Reference Letter from Former Principal of _EF_ China
@@ -86,7 +88,7 @@ References:
 
 ---
 
- [Home](./README.md) | [Previous Page](./honors.md)
+ [Home](./README.md) | [Associations](./associations.md)
 
  📧 Contact:
 <175709572@qq.com>

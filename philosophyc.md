@@ -1,6 +1,8 @@
-# The Period of Collaboration and Leadership (2017-now)
+ [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
 
-<img src="leadership s.gif" align="center"/>
+# The Period of Leadership (2017-now)
+
+<img src="leadership s.gif" align="left"/>
 
 I have been in charge of **curriculum development** and teaching faculty since I started working in day-care centers for preschoolers and primary students. I also made prototypes for teachers to decorate their classrooms, sampled photoframes for students' headshots, gave teaching ideas for their projects based on picture books and topics in the curriculum, and organized events such as life club, STEAM club, holiday celebrations, puppetry theater for marketing, and parental meetings.
 
@@ -74,7 +76,7 @@ This show was organized for the marketing department targeting the age group fro
 
 ![1](https://user-images.githubusercontent.com/109213222/183055855-5743e093-f89f-4144-9d4e-36e8dbbffd06.PNG)
 
-Techonology plays an important role in discovery learning.
+- Techonology plays an important role in discovery learning.
 
 ![2](https://user-images.githubusercontent.com/109213222/183056013-6ead7465-64b1-4e30-8bb0-fd1179e29a16.PNG)
 
@@ -92,7 +94,7 @@ Techonology plays an important role in discovery learning.
 
 ---
 
- [Home](./README.md) | [Previous Page](./philosophyb.md) | [The Period of Identity Establishment](./philosophyd.md)
+ [Back to Collaboration](./philosophyb.md) | [Go to Identity Establishment](./philosophyd.md) | [Teaching & Learning](./teachingandlearning1.md)
 
  📧 Contact:
 <175709572@qq.com>

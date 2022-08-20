@@ -1,12 +1,14 @@
+ [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # The Period of Identity Establishment (2021- now)
 
-<img src="LP.gif" align="center"/>
+<img src="LP.gif" align="left"/>
 
 During the journey of **inquiry** about my own **identity**, **effective learning**, and solutions to students' **learning difficulties**, I came across IB education by searching online forums for professional development when I saw a post by an experienced IB teacher in Shanghai introducing the differences and strengths of international education systems. I decided to sign up for the **IB educator certificate** after that and set forth for a brand new learnng journey that has opened my eyes with the biggest learning impact I have ever had. Connecting with my previous experience, I have found so large an amount of resonance in IB philosophical cornerstones and methodology.
 
 Here is an example.
 
-In my teaching experience with students from toddlers to adults in a second-tier city and a first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between **western educational philosophy** and **traditional Chinese counterpart** because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with **positive discipline** (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in **discipline**, **cooperative learning**, **autonomous leadership**, and **initiative in learning**.
+In my teaching experience with students from   toddlers to adults in a second-tier city and a  first-tier one, I have seen anxiety and pressure overwhelming students preparing for exams, and a lot of joy and freedom enlivening children studying for interest, excitement, and sense of accomplishment. I used to believe my teaching philosophy as western-style for my professional training acquired in a franchised training center with a Europe-based curriculum and EFL approaches to teaching. When I encountered a situation where my superior, as an experienced English teacher, dragged away a disobedient 6-year-old trouble-maker during a novice teacher’ class at a private training center in a top-tier city in south China in 2020, I thought there would never be an agreement between **western educational philosophy** and **traditional Chinese counterpart** because these two sets of long-existing educational systems were exclusive of each other. I somehow solved the problems of classroom management with **positive discipline** (Dr. Nelsen) two months after I took over the class when there was considerable improvement of the boy in **discipline**, **cooperative learning**, **autonomous leadership**, and **initiative in learning**.
 
 ![positive discipline](https://user-images.githubusercontent.com/109213222/182412572-28630914-5e69-4a58-bf04-c8275abe7f61.jpg)
 
@@ -40,7 +42,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ---
 
- [Home](./README.md) | [Previous Page](./philosophyc.md) | [Teaching and Learning](./teachingandlearning1.md)
+ [Back to Leadership](./philosophyc.md) | [Teaching and Learning](./teachingandlearning1.md)
 
  📧 Contact:
 <175709572@qq.com>

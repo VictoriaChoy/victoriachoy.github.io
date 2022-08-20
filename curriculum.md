@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+
 # Curriculum Development
 
 ## Unit of Inquiry for 3-4 Years Old
@@ -74,7 +76,7 @@ Example of an Integrated Lesson
 
 ---
 
- [Home](./README.md) | [Previous Page](./earlylearning.md) | [Professional Learning and Future Growth](./professional.md)
+[Back to Early Learning](./earlylearning.md) | [Professional Growth](./professional.md)
 
  📧 Contact:
 <175709572@qq.com>

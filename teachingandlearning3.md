@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # A Collaborator and Servant for the Learning Community
 
 <img src="collaborator s.gif" align="center"/>
@@ -110,7 +112,7 @@ The experience to collaborate with foreign teachers as an extracurricular projec
 
 ---
 
- [Home](./README.md) | [Previous Page](./teachingandlearning2) | [A Life-long Inquirer](./teachingandlearning4.md)
+[Back to Facilitator](./teachingandlearning2) | [A Life-long Inquirer](./teachingandlearning4.md)
 
 📧 Contact:
 <175709572@qq.com>

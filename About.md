@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) 
+
 # About me
 
 ![image](https://user-images.githubusercontent.com/109213222/183570271-ba42e785-388f-4ece-800a-1dc0c53eaa5c.png)
@@ -40,7 +42,7 @@ I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreo
 
 ---
 
- [Home](./README.md) | [Teaching Philosophy](./philosophya.md)
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md)
 
 📧 Contact:
 <175709572@qq.com>

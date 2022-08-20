@@ -1,6 +1,8 @@
+[Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) | [Associations](./associations.md)
+
 # Teaching Philosophy
 
-<img src="thinking s.gif" align="center"/>
+<img src="thinking s.gif" align="left"/>
 
 My preliminary understanding of teaching philosophy is about the **student-centered** methodology.
 
@@ -22,9 +24,25 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 ---
 
+## Please click the arrow below to read detailed sections of teaching philosophy
+
+<details><de>
+
+<summary> The Period of Self-awareness
+
+- [The Period of Collaboration](./philosophyb.md)
+
++ [The Period of Leadership](./philosophyc.md)
+
+- [The Period of Identity Estabishment](./philosophyd)
+
+</summary>
+
+---
+
 ## The Period of Self-awareness (2012-2013)
 
-<img src="self awareness s.gif" align="center"/>
+<img src="self awareness s.gif" align="left"/>
 
 After working in foreign trade of OEM products such as sensors and cables for ABB industrial robot arms for six years, I started my teaching career in quest of my own potential, freedom, identity, and a meaningful life. I chose not to work in a public school after I acquired an English teaching certificate for high school because of insufficient networking and possible restrictions on teaching at a public school. Thus I chose to work in the private sector which served middle-class families in particular. Beginning from IELTS and TOEFL examination technique preparation, I tried to look for a job that was irreplaceable, unlike the previous ones I got as a deputy general manager or a foreign trade manager. Then I began to realize that something was wrong, after witnessing students’ struggle against exam-oriented education and resentment of English learning. It has prompted me with a long journey to inquire about students’ early-year experiences for their typical problems in their later life, and the most important of all, the effective methods to cultivate students’ interest for English learning.
 
@@ -40,7 +58,7 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 ---
 
-[Home](./README.md) | [Previous Page](./About.md) | [The Period of Practice & Collaboration](./philosophyb.md)
+[About](./About.md) | [Collaboration](./philosophyb.md) | [Teaching & Learning](./teachingandlearning1.md) |  [Professional Growth](./professional.md) | [Honor](./professional.md)
 
 📧 Contact:
 <175709572@qq.com>

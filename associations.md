@@ -1,3 +1,5 @@
+[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Appendix](./appendix.md)
+
 # Associations
 
 <img src="association s.gif" align="center"/>
@@ -12,7 +14,7 @@ World schools: <https://world-schools.com/the-best-international-schools-in-asia
 
 ---
 
- [Home](./README.md) | [Previous Page](./honors) | [Appendix](./appendix.md)
+ [Home](./README.md) | [Honors](./honors.md) | [Appendix](./appendix.md)
 
  📧 Contact:
 <175709572@qq.com>
