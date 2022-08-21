@@ -62,13 +62,9 @@ References:
 
 <https://i.pinimg.com/originals/29/5e/54/295e54fbdd4829f894bf6db0e24f72ce.gif>
 
-- Professional Development
+- Professional Growth
 
-<https://media1.giphy.com/media/d8utytTOqwbHGtXJqM/source.gif>
-
-- Reading Icon
-
-<https://www.deviantart.com/sewong/art/Animation-Reading-oneself-285737478>
+<https://jakemiller.net/levels-of-professional-learner-engagement/>
 
 - Self-awarness
 
