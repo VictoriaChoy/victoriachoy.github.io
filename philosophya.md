@@ -24,19 +24,15 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 ---
 
-## Please click the arrow below to read detailed sections of teaching philosophy
+## Overview
 
-<details><de>
-
-<summary> The Period of Self-awareness
+- The Period of Self-awareness
 
 - [The Period of Collaboration](./philosophyb.md)
 
-+ [The Period of Leadership](./philosophyc.md)
+- [The Period of Leadership](./philosophyc.md)
 
 - [The Period of Identity Establishment](./philosophyd.md)
-
-</summary>
 
 ---
 

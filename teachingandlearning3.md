@@ -2,7 +2,7 @@
 
 # A Collaborator and Servant for the Learning Community
 
-<img src="collaborator s.gif" align="center"/>
+<img src="collaborator s.gif" align="left"/>
 
 A **professional learning community** should share a common understanding of the purpose for learning to align with **IB’s philosophy and mission**, implement programs with the guidance of **IB program standards and practices**, embrace **student-centered** educational approaches, and collaborate in **effective relationships** to foster **international-mindedness**, **approaches to learning** and **learner profile** in response to the various **local contexts** and the **changing needs of the learning community**. The dynamic learning community work together with coordinated efforts, aiming at positive impact on families, and students' and teachers' lifetime development, and the social progress under the guidance of educational principles, ie. **Social Constructivism** Vygotsky (1978), **Theory of Cognitive Development** Bruner (1990), **Multi-intelligence** Gardner (1993), **Progressivism** and **Education and Democracy** John Dewey (1916), **Social Reconstructionism** Theodore Brameld (1956), **Critical Pedagogy** Freire Paulo (1970).
 

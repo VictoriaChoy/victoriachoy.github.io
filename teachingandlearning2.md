@@ -38,7 +38,7 @@ Students were being dressed up like the characters in the picture book about a c
 
 ---
 
-### Solutions to the Learning Difficulties of a Six-year-ol Girl 
+### Solutions to the Learning Difficulties of a Six-year-ol Girl
 
 The 6-year-old girl loved handicraft and arts. After learning elementary English for three months, including phonics, _Everybody Up Foundation_ (2nd edition), extensive reading with picture books, and cartoons from Disney English, she began to have the **STEAM** classes in a **hands-on approach**. In the first few classes, we made props of different celestial bodies in the galaxy, based on the learning materials from _Generation Genius_. In the beginning, she found it hard to make a complete presentation of the patterns in the sky even after a full understanding of the knowledge with her own writing of the key sentences on the white board, but kept her promise to make more attempts after my encouragement. Although she was quick-tempered and unable to concentrate on tasks as long as normal Chinese first graders are, she would certainly be more devoted to interesting tasks with a supporter.
 

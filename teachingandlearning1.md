@@ -6,11 +6,11 @@
 
 My understanding of a teacher's roles has been developing since I practiced the **huamnistic approach** in the beginning of my teaching career, or earlier as a **service-oriented** sales, R&D, and administration manager for both my colleagues and clients, one of whom became my business partner in a startup smart-tech company with a multinational team. I think a teacher is a **facilitator** of students for their learning in both local and global context, and personal growth in life, an **engaging instructor** seeking to make learning meaningful by connecting inquiry with students' life experiences, a **life-long inquirer** for innovative pedagogy, effective practice, and changing identity, a **collaborator** and dedicated **servant for the learning community**, and above all, a **global citizen** in IB's global community.
 
-Product Concept of The Co-developed Power Plant
+- Product Concept of The Co-developed Power Plant
 
 ![image](https://user-images.githubusercontent.com/109213222/181795166-393ca177-94e7-4cc7-9a95-a87e6dbf1b73.png)
 
-Positions at the Startup Smart-tech Company
+- Positions at the Startup Smart-tech Company
 
 ![CB intro](https://user-images.githubusercontent.com/109213222/182413096-7d8ab72a-fb75-4bde-9d0b-437df07de76c.JPG)
 
