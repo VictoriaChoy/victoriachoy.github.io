@@ -14,6 +14,8 @@
 
 - IB Bilingual Education Workshop Certificate of Participation, hosted by Canadian International School in Singapore
 
+- Certificate of Participation, Cambridge Assessment International Education, Primary English
+
 - International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
 
 - IPA International Mandarin Teacher Transcript
@@ -150,7 +152,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ---
 
-### Professional Development for Cambridge International Education, Primary English
+### Certificate of Participation, Cambridge Assessment International Education, Primary English
 
 ![certificate of participation Cambridge](https://user-images.githubusercontent.com/109213222/185746292-2e1fbaaf-3eb9-4693-9205-d95200381299.JPG)
 
