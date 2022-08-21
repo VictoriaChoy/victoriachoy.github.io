@@ -2,7 +2,7 @@
 
 # Professional Learning and Future Growth
 
-<img src="PD S.gif" align="center"/>
+<img src="PD s.gif" align="center"/>
 
 ## List of Qualifications
 
