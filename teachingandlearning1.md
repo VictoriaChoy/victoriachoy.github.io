@@ -16,25 +16,21 @@ Positions at the Startup Smart-tech Company
 
 ---
 
-## Please click the arrow below to read detailed sections of teaching philosophy
+## Overview
 
-<details><de>
-
-<summary> A Facilitator of Learning and Personal Growth
+- A Facilitator of Learning and Personal Growth
 
 - [An Engaging Instructor](./teachingandlearning2.md)
 
-+ [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
+- [Collaborator and Servant for the Learning Community](./teachingandlearning3.md)
 
 - [A Lifelong Inquirer](./teachingandlearning4.md)
 
-+ [Differenciation and Visible Thinking Routines](./differentiatedinstruction.md)
+- [Differenciation and Visible Thinking Routines](./differentiatedinstruction.md)
 
 - [Early Learning Systems](./earlylearning.md)
 
-+ [Curriculum Development](./curriculum.md)
-
-</summary>
+- [Curriculum Development](./curriculum.md)
 
 ---
 
