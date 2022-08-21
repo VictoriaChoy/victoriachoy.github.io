@@ -134,6 +134,10 @@ Gumiko Monobe, Martha Lash, 2016, _Seven Wonders of the Early Childhood World_, 
 
 ---
 
+- Cambridge Learner and Approaches to Teaching
+
+According to my instructor of the introductory course for Cambridge Assessment International Education Primary English, UK is trying to move away from high-stake tests that have been widening the achievement gap between low-achievers and high-achievers. I believe from the course material, IB principles have been serving as an illumination for the educatinal reform in UK.
+
  [Back to Differentiation & Visible Thinking](./differentiatedinstruction.md) | [Curriculum Development](./curriculum.md)
 
  📧 Contact:
