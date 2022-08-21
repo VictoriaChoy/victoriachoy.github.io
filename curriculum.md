@@ -32,9 +32,17 @@ Group Inquiry Question:
 
 ---
 
+## Cambridge Primary English
+
+The Cambridge Primary English Curriculum Framework (0058 and 0084) specifies learning objectives in six stages. I developed a lesson plan for micro-teaching, integrated with IB principles, including differentiation in tasks and success criteria, and formative assessment. During the introductory course, we were provided with ample opportunities for group discussions, in which I helped my peers consolidate their understanding and application of the course materials, such as the reference to mark scheme as a sample of success criteria for narrative writing, and examples of active learning as part of the success criteria previously analysed.
+
+Here is the link to my lesson on the interactive chalkboard.
+
+<https://view.genial.ly/62fe5e3c88238d0018fb6d6a/interactive-content-animated-chalkboard-quiz>
+
 ## Lower-secondary English (12-15 years old)
 
-I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing for  Level 3 of the series. Students' capability should be acknowledged. There is no limit to their potential.
+I developed a curriculum for this age group based on Oxford's textbooks _Discover_ and online multimedia materials. I once used similie poems to teach writing of Level 3 in the series. Students' poems showcased their capability and unlimited potential.
 
 ![similie](https://user-images.githubusercontent.com/109213222/183084120-649b2bec-9c8b-4080-bf05-7e12b2c994ad.JPG)
 
