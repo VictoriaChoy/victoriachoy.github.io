@@ -46,7 +46,7 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 [ABB robot arms](https://robotsdoneright.com/ABB/100-Series/ABB-IRB-120.html)
 
--_How English testing is failing Chinese students by driving numbers, not proficiency_
+- _How English testing is failing Chinese students by driving numbers, not proficiency_
 
 ![image](https://user-images.githubusercontent.com/109213222/179449911-7e20fb5c-334d-44c7-adb4-f29d5e99d588.png)
 
