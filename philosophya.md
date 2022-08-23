@@ -36,7 +36,7 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 ---
 
-## The Period of Self-awareness (2012-2013)
+## The Period of Self-awareness (2012-2014)
 
 <img src="self awareness s.gif" align="left"/>
 
