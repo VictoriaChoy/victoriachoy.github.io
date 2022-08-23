@@ -38,7 +38,7 @@ I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreo
 
 ## Self-introduction Video
 
-<https://pan.baidu.com/s/1NXFWdyt5QRb5x3h4k30Kxw?pwd=1234>
+https://user-images.githubusercontent.com/109213222/186130806-890c806d-fe87-478a-82e6-76909f5d2a67.mp4
 
 ---
 
