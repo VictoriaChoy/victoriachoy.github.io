@@ -52,7 +52,7 @@ Families were invited to join our celebration of Children's Day that has been th
 
 - Children Singing English Songs on the Stage
 
-https://user-images.githubusercontent.com/109213222/186132406-adc67ca1-32b9-49ea-a674-a7776fbfaad6.mp4
+<video src="https://user-images.githubusercontent.com/109213222/186132406-adc67ca1-32b9-49ea-a674-a7776fbfaad6.mp4"/>
 
 ---
 
