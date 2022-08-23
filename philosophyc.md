@@ -52,13 +52,11 @@ This show was organized for the marketing department targeting the age group fro
 
 - A 2.5-year-old boy was learning a color song with props.
 
-<video src="https://user-images.githubusercontent.com/109213222/186134264-7264564e-70c6-4500-ac77-b0b8aec61a98.mp4"/>
-</video>
+<https://pan.baidu.com/s/13u1LKjplYi114RdA8XKdNw?pwd=1234>
 
 - A 3-year-old girl was reading a picture book with me.
 
-<video src="https://user-images.githubusercontent.com/109213222/186134382-d35dc17d-7aeb-47d7-8a12-0fb0a39201f3.mp4"/>
-</video>
+<https://pan.baidu.com/s/1fNcT7uSx-mkfSB34sb0oig?pwd=1234>
 
 - We were having a whisper game in small-group competition for primary students.
 
@@ -72,8 +70,7 @@ This show was organized for the marketing department targeting the age group fro
 
 - Toddlers were "talking" about a picture book.
 
-<video src="https://user-images.githubusercontent.com/109213222/186134861-baa6c7cf-2d8e-442a-a68b-3b716a527d94.mp4"/>
-</video>
+<https://pan.baidu.com/s/1zJRohJpgU6fiIlUZanSlmA?pwd=1234>
 
 - A **Reggio-inspired** Learning Table
 
@@ -93,8 +90,7 @@ This show was organized for the marketing department targeting the age group fro
 
 - A Toddler Working with Montessori Cylinder Blocks
 
-<video src="https://user-images.githubusercontent.com/109213222/186141003-62f24975-d103-48e1-bac6-dab76d74623e.mp4"/>
-</video>
+<https://pan.baidu.com/s/1J0-RvXW3UP0zLN8EYhFSIw?pwd=1234>
 
 ---
 

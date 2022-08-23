@@ -8,7 +8,7 @@
 
 I have been practicing the **project-based** and **hands-on** approach since I began to teach at _EF_. I have designed a number of realia, teaching aids, and projects to engage students in effective learning with a **cost-effective** approach. I also rely on my personality and body language to engage early learners. Here are some examples.
 
-Laminated paper roulettes were used for phonics and counting toys with literacy.
+Laminated paper roulettes with attachable magnet for the interative whiteboard were used for phonics and counting toys with literacy.
 
 ![image](https://user-images.githubusercontent.com/109213222/180602600-5ef1d5a8-7716-4e25-9d49-d26fc48985aa.png)
 
