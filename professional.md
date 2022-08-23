@@ -6,7 +6,7 @@
 
 ## List of Qualifications
 
-- IB PYP Educator Certificate, the University of Windsor (All courses completed with achievement report)
+- IB PYP Educator Certificate, the University of Windsor (All courses completed with achievement reports)
 
 - MEd. focusing on IB leadership and advanced learning & teaching, University of the People (In Progress)
 
@@ -18,7 +18,7 @@
 
 - International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
 
-- IPA International Mandarin Teacher Transcript
+- IPA International Mandarin Teacher Transcript (Intermediate)
 
 - Teaching English to Young Learners from ITTT
 
@@ -88,7 +88,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ---
 
-### IPA International Mandarin Teacher Transcript
+### IPA International Mandarin Teacher Transcript (Intermediate)
 
 ![image](https://user-images.githubusercontent.com/109213222/183637864-216ba52d-5efc-42f9-afd6-80d28d67955c.png)
 
