@@ -52,11 +52,11 @@ This show was organized for the marketing department targeting the age group fro
 
 - A 2.5-year-old boy was learning a color song with props.
 
-<https://pan.baidu.com/s/1Da6VheW6uYmRM2b2pMOocA?pwd=1234>
+https://user-images.githubusercontent.com/109213222/186134264-7264564e-70c6-4500-ac77-b0b8aec61a98.mp4
 
 - A 3-year-old girl was reading a picture book with me.
 
-<https://pan.baidu.com/s/1YYt32VXwm7n34IPH_XEtOA?pwd=1234>
+https://user-images.githubusercontent.com/109213222/186134382-d35dc17d-7aeb-47d7-8a12-0fb0a39201f3.mp4
 
 - We were having a whisper game in small-group competition for primary students.
 
@@ -70,7 +70,7 @@ This show was organized for the marketing department targeting the age group fro
 
 - Toddlers were "talking" about a picture book.
 
-<https://pan.baidu.com/s/1UK7bF0RR20NBNO-57Pk5Yw?pwd=1234>
+https://user-images.githubusercontent.com/109213222/186134861-baa6c7cf-2d8e-442a-a68b-3b716a527d94.mp4
 
 - A **Reggio-inspired** Learning Table
 
