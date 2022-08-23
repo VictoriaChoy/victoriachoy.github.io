@@ -39,8 +39,7 @@ I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreo
 ## Self-introduction Video
 
 <video src="https://user-images.githubusercontent.com/109213222/186138507-e51df626-db5e-481a-b432-3813101feac0.mp4"/>
-
----
+</video>
 
 [Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md)
 
