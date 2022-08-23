@@ -44,4 +44,4 @@ I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreo
 [Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md)
 
 📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

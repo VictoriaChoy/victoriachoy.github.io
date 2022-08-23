@@ -25,4 +25,4 @@
  [Home](./README.md) | [Honors](./honors.md) | [Appendix](./appendix.md)
 
  📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

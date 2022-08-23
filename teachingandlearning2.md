@@ -79,4 +79,4 @@ Musical instrument, music software, story telling, handicraft were combined in t
  [Back to Facilitator](./teachingandlearning1.md) | [Collaborator in the Learning Community](./teachingandlearning3.md) | [Inquirer](./teachingandlearning4.md)
 
 📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

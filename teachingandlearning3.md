@@ -115,4 +115,4 @@ The experience to collaborate with foreign teachers as an extracurricular projec
 [Back to Facilitator](./teachingandlearning2) | [A Life-long Inquirer](./teachingandlearning4.md)
 
 📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

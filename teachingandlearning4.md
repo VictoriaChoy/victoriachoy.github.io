@@ -72,4 +72,4 @@ Wolfram Rollett · Hannah Bijlsma · Sebastian Röhl, 2021, _Student Feedback on
 [Back to Collaborator](./teachingandlearning3) | [Differentiation & Visible Thinking Routines](./differentiatedinstruction.md)
 
  📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

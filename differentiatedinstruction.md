@@ -71,4 +71,4 @@ One inquiry-based practice I think I have been doing well is visible thinking. I
  [Back to Inquirer](./teachingandlearning4) | [Early Learning Systems](./earlylearning.md)
 
 📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

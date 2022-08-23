@@ -74,4 +74,4 @@ As an empathetic teacher, I extended concerns for low-achievers and trouble make
 [Back to Self-awareness](./philosophya.md) | [Leadership](./philosophyc.md) | [Identity Establishment](./philosophyd.md)
 
 📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

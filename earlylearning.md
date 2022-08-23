@@ -147,4 +147,4 @@ According to my instructor of the introductory course for Cambridge Assessment I
  [Back to Differentiation & Visible Thinking](./differentiatedinstruction.md) | [Curriculum Development](./curriculum.md)
 
  📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

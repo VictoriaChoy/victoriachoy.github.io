@@ -175,4 +175,4 @@ I would complete the courses for IB educator certificate in August. After that, 
  [Home](./README.md) | [Back to Curriculum Development](./curriculum.md) | [Honors](./honors.md)
 
 📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

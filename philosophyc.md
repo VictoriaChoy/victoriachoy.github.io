@@ -91,7 +91,7 @@ This show was organized for the marketing department targeting the age group fro
 
 ![4](https://user-images.githubusercontent.com/109213222/183056966-952b5d00-5397-4a82-8c4d-c54a2e191abe.PNG)
 
-- A Toddler Working with Montessori Cylinder Blocks 
+- A Toddler Working with Montessori Cylinder Blocks
 
 <video src="https://user-images.githubusercontent.com/109213222/186141003-62f24975-d103-48e1-bac6-dab76d74623e.mp4"/>
 </video>
@@ -101,4 +101,4 @@ This show was organized for the marketing department targeting the age group fro
  [Back to Collaboration](./philosophyb.md) | [Identity Establishment](./philosophyd.md) | [Teaching & Learning](./teachingandlearning1.md)
 
  📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>

@@ -87,4 +87,4 @@ Example of an Integrated Lesson
 [Back to Early Learning](./earlylearning.md) | [Professional Growth](./professional.md)
 
  📧 Contact:
-<175709572@qq.com>
+<175709572@qq.com> | <guitaracole@gmail.com>
