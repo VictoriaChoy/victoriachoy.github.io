@@ -1,6 +1,6 @@
  [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
-# The Period of Collaboration (2014-2017)
+# The Period of Collaboration (2014-2015)
 
 <img src="collaboration s.gif" align="left"/>
 
