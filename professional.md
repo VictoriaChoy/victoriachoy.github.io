@@ -6,7 +6,7 @@
 
 ## List of Qualifications
 
-- IB PYP Educator Certificate, the University of Windsor (In Progress)
+- IB PYP Educator Certificate, the University of Windsor (All courses completed with achievement report)
 
 - MEd. focusing on IB leadership and advanced learning & teaching, University of the People (In Progress)
 
@@ -62,7 +62,7 @@ I would complete the courses for IB educator certificate in August. After that, 
 
 ---
 
-### IB Educator Certificate Course Transcript
+### IB Educator Certificate Course Transcripts (All Courses)
 
 ![image](https://user-images.githubusercontent.com/109213222/180366410-e0aad636-758b-4723-be60-08a097b44989.png)
 
@@ -71,6 +71,8 @@ I would complete the courses for IB educator certificate in August. After that, 
 ![image](https://user-images.githubusercontent.com/109213222/180366450-11a2c85f-6ed6-4d96-88e1-4190f9aec9a0.png)
 
 ![image](https://user-images.githubusercontent.com/109213222/180366480-14c7c25b-637c-425e-86d1-02def6777856.png)
+
+![StudentAchievementReport](https://user-images.githubusercontent.com/109213222/186048672-85e19ae9-f4e7-4b1e-8185-f0beba716992.JPG)
 
 ---
 
