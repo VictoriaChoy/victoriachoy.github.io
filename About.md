@@ -8,6 +8,20 @@ Hi, I am Victoria from southeast China. My Chinese name is Xiaoyan Cai. I am pas
 
 I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreography, and traditional Chinese martial arts.
 
+---
+
+## A Brief Biography
+
+The educational system where I was educated before high school is somewhat similar to the one I am working in, that is IB (IBO, 2018) and Reggio Emilia (Lindsay, 2016) with their roots in John Dewey's educational principles. I remember the initiative I took in studying English in grade 7. Before that, I knew nothing about English. After I got a zero for the first quiz, I made up my mind to work hard on it. The method was listening to the audio while repeating the words heard and jotting them down in the notebook. Now I know the method I used intuitively is combined learning styles or multimodal learning. I think I was lucky enough to have the freedom to explore efficient learning methods not just in literacy but also in science when I was able to try scientific principles on the plants in our house and my father's wasted Hi-Fi kits on which he did experiments frequently observed by me. Although the enjoyment in learning was replaced by pressure when I got into high school, busy preparing for the college entrance exams, I have been able to transfer interest-oriented learning methods to the classroom since I became a teacher of young children.
+
+References:
+
+Gai M. Lindsay, 2016, _John Dewey and Reggio Emilia: Worlds apart - one vision_
+
+IBO, 2018, _PYP The Learner_
+
+---
+
 ## Transdisciplinary Projects and Hobbies
 
 ### 3D Printing Project (STEAM)
