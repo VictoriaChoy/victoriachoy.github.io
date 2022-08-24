@@ -10,7 +10,7 @@ I am an avid STEAM course developer, and a fan of music, jazz and hip pop choreo
 
 ---
 
-## A Brief Biography
+## A Brief Autobiography
 
 The educational system where I was educated before high school is somewhat similar to the one I am working in, that is IB (IBO, 2018) and Reggio Emilia (Lindsay, 2016) with their roots in John Dewey's educational principles, such as experiential learning. I remember the initiative I took in studying English in grade 7. Before that, I knew nothing about English. After I got a zero for the first quiz, I made up my mind to work hard on it. The method was listening to the audio while repeating the words heard and jotting them down in the notebook. Now I know the method I used intuitively is combined learning styles or multimodal learning.
 

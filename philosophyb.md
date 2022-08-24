@@ -66,7 +66,11 @@ Teachers take turns to host the life club in different themes at the big kitchen
 
 Apart from my major responsibility to deliver innovative classes to early learners, I shared my ideas of teaching with colleagues through small talk, workshops and teaching materials archived in our class portfolio. I was also a problem solver, for example, covering sick colleagues' classes on short notice with equal quality and impression on students whom I met for the first time (because the students recognized me on the street). I think it took courage, flexibility, charm, and improvisatory quality to tackle emergency like this. Being sort of a tech geek, I also helped setting up a home router for a new comer from the USA.
 
-As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of **inclusive education**
+As an empathetic teacher, I extended concerns for low-achievers and trouble makers by listening carefully to them, responding actively, and helping individual students with their social and emotional well-being. This, I suppose, is the epitome of **inclusive education**.
+
+## My Critical Reflection on a 5th Grader Overwhelmed by Cram Education
+
+<https://pan.baidu.com/s/1LTXqtBOOvCCep9WqgiRDnw?pwd=ckg2>
 
 ---
 
