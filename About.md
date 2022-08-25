@@ -28,6 +28,30 @@ IBO, 2018, _PYP The Learner_
 
 ---
 
+自我评价
+
+- 擅长在跨学科课程设计和教学中运用均衡的文理基础知识（高中会考除历史获得78分外，其余均为优)
+
+- 致力于发掘西方先进的教学理念和体系与中国传统文化元素的创新融合;
+
+- 在K-12段10年教学中自主探索学生自学能力的培养方法和各种学习困难的解决途径；
+
+- 在学习IB PYP教师资格证和IBO授权美国大学IB教育领导力硕士课程的过程中，探究行业发展趋势，所作的预测已经验证（9月开始国内义务教育段课程都需要包括跨学科部分）；
+
+- 致力于成为终身学习者，硕士学位首门课程带领的非洲团队项目获满分，期末总分GPA 4.0，并成为学校IB研硕课程推广大使，受邀参加加拿大WES Global Talent Bridge “Bridges to Teaching for Immigrants and Refugees: Building Cross-Sector Partnerships to Support Internationally Trained Educators” 在线研讨会；
+
+- 以全A+成绩完成加拿大温莎大学的 IB PYP教师资格证全部课程；
+
+- 完成剑桥国际小学英语教师入门课程培训，能够结合已学的先进教学理念和方法帮助同学完成课程设计，期间屡获讲师赞许；
+
+- 深入研究人文主义为核心的早教体系异同, 以国标为起点, 以中国传统文化基本元素贯穿IB超学科课程框架，融合蒙台梭利六大领域课程内容，实现EYFS七大领域目标，对接IB PYP各学科阶段目标；
+
+- 致力于IB体系内的职业发展、双语互通教学法、STEAM教学方法；
+
+- 教培中注重示范、引领、合作备课; 实施个性化测评和教学，注重家校共育。
+
+---
+
 ## Transdisciplinary Projects and Hobbies
 
 ### 3D Printing Project (STEAM)
