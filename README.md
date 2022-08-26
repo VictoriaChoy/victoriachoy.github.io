@@ -8,7 +8,7 @@
 
 ## [Teaching Philosophy](./philosophya.md)
 
-## [Teaching & Learning](./teachingandlearning1.md)
+## [Philosophy in Action](./teachingandlearning1.md)
 
 ## [Professional Growth](./professional.md)
   

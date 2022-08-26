@@ -1,6 +1,6 @@
 [Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
-# Teaching and Learning
+# Philosophy in Action
 
 <img src="teaching and learning s.gif" align="center"/>
 

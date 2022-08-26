@@ -1,4 +1,4 @@
- [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+ [Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # The Period of Leadership (2017-now)
 

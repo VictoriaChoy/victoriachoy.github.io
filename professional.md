@@ -1,4 +1,4 @@
-[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Honor](./honors.md) | [Associations](./associations.md)
+[Teaching Philosophy](./philosophya.md) | [Philosophy in Action](./teachingandlearning1.md) | [Honors](./honors.md) | [Associations](./associations.md)
 
 # Professional Learning and Future Growth
 

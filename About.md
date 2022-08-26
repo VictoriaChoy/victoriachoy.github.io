@@ -1,4 +1,4 @@
-[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) 
+[Teaching Philosophy](./philosophya.md) | [Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md) 
 
 # About me
 
@@ -84,7 +84,7 @@ IBO, 2018, _PYP The Learner_
 
 <https://pan.baidu.com/s/1vqZ0w6Lx-txBWIHejRX5bA?pwd=vgqk>
 
-[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./professional.md)
+[Teaching Philosophy](./philosophya.md) | [Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honors](./professional.md)
 
 📧 Contact:
 <175709572@qq.com> | <guitaracole@gmail.com>

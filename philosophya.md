@@ -1,4 +1,4 @@
-[Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+[Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # Teaching Philosophy
 
@@ -54,7 +54,7 @@ After working in foreign trade of OEM products such as sensors and cables for AB
 
 ---
 
-[About](./About.md) | [Collaboration](./philosophyb.md) | [Teaching & Learning](./teachingandlearning1.md) |  [Professional Growth](./professional.md) | [Honor](./honors.md)
+[About](./About.md) | [Collaboration](./philosophyb.md) | [Philosophy in Action](./teachingandlearning1.md) |  [Professional Growth](./professional.md) | [Honor](./honors.md)
 
 📧 Contact:
 <175709572@qq.com> | <guitaracole@gmail.com>

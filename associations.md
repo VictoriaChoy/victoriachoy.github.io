@@ -1,4 +1,4 @@
-[Teaching Philosophy](./philosophya.md) | [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Appendix](./appendix.md)
+[Teaching Philosophy](./philosophya.md) | [Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Appendix](./appendix.md)
 
 # Associations
 

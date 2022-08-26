@@ -1,4 +1,4 @@
- [Teaching & Learning](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+ [Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
 
 # The Period of Identity Establishment (2021- now)
 
@@ -42,7 +42,7 @@ Sharpes, D. K. (2013). Modern educational philosophies. In _Advanced educational
 
 ---
 
- [Back to Leadership](./philosophyc.md) | [Teaching and Learning](./teachingandlearning1.md)
+ [Back to Leadership](./philosophyc.md) | [Philosophy in Action](./teachingandlearning1.md)
 
  📧 Contact:
 <175709572@qq.com> | <guitaracole@gmail.com>
