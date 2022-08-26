@@ -56,7 +56,7 @@ The **five great stories** in elementary Montessori can be integrated into the I
 
 References:
 
-American Montessori Society, _The eight major principles of Montessori_ 
+American Montessori Society, _The eight major principles of Montessori_
 
 <https://amshq.org/Families/Why-Choose-Montessori>
 

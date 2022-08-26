@@ -14,9 +14,11 @@
 
 <https://universitybusiness.com/the-top-100-universities-in-the-world-ranked-by-real-impact/>
 
-## Webinar Invitation from WES Global Talent Bridge
+## Webinar Invitations from WES Global Talent Bridge
 
 ![WES global](https://user-images.githubusercontent.com/109213222/185920913-5df7c463-cf0d-4f89-97a5-edae348767d1.JPG)
+
+![](webinar%20s.JPG)
 
 ---
 
