@@ -18,7 +18,7 @@ I think I was lucky enough to have the freedom to explore efficient learning met
 
 Although the enjoyment in learning was replaced by pressure when I got into high school, busy preparing for the college entrance exams, I have been able to transfer **interest-oriented** learning methods to the classroom since I became a teacher of young children.
 
-One of the most impactful learning experiences in high school would be the time when I worked out a solution to a complex mathematical question with the presence of my classmate who was seeking my help but I kept silent the next day when my maths teacher said there was no solution to the question. It is a **tradition** to respect our teachers without questioning them and I was shy as a teenager. But I believe I am different now as a professional and dedicated IB educator.
+One of the most impactful learning experiences in high school would be the time when I worked out a solution to a complex mathematical question with the presence of my classmate who was seeking my help but I kept silent the next day when my maths teacher said there was no solution to the question. It is a **tradition** to respect our teachers without questioning them and I was shy as a teenager. But I believe I am different now as a professional and dedicated **IB educator**.
 
 References:
 
@@ -64,7 +64,7 @@ IBO, 2018, _PYP The Learner_
 
 ![mechanic ox cart small](https://user-images.githubusercontent.com/109213222/179356034-8443f180-25da-44c1-a271-71205f96ebfe.PNG)
 
-### English Music Class with a Piano Software (Lieracy, Music and Technology)
+### English Music Class with a Piano Software (Literacy, Music and Technology)
 
 ![piano software small](https://user-images.githubusercontent.com/109213222/179356062-52f2d4d5-bbaf-4b33-a024-d015813f846c.PNG)
 
