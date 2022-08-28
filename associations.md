@@ -14,6 +14,8 @@
 
 - ITTT TEFL/TESOL: <https://www.teflcourse.net/?cu=CQFHU2022D>
 
+- TeacherWit Community: <https://www.teacherwit.com/>
+
 - The University of Windsor: <https://www.uwindsor.ca/>
 
 - University of the People: <https://www.uopeople.edu/>

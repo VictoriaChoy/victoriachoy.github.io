@@ -4,11 +4,15 @@
 
 <img src="PD s.gif" align="center"/>
 
-## List of Qualifications
+## List of Qualifications and Training Experiences
 
 - IB PYP Educator Certificate, the University of Windsor (All courses completed with achievement reports)
 
 - MEd. focusing on IB leadership and advanced learning & teaching, University of the People (In Progress)
+
+- Participation in Drive EDU Conference Hosted by TeacherWit Community
+
+- Member of Focus Group Hosted by Susan Powers (20 Years' Experience in Inquiry-based Teaching)
 
 - Bachelor of Arts, English Language and Literature, Xiamen University
 
@@ -46,7 +50,17 @@
 
 ---
 
-I would complete the courses for IB educator certificate in August. After that, I would continue the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would go on to study PGDE program in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
+Having completed the courses for IB PYP educator certificate, I am going on with the MEd. courses in September, focusing on IB leadership and IB advanced learning and teaching. After I acquire the degree in 2025, I would probably study PGDE program on early learning in Hong Kong because my mother has settled down in the region. I would try to find a teaching position in one of the many world-renowned IB schools there, and continue professional learning for IB leadership. Here is the first course grading of the MEd.
+
+---
+
+### Participation in Drive EDU Conference Hosted by TeacherWit Community
+
+The main goal is to contribute to changing education by generating practical ideas, strategies and tools that educators can adapt and adopt as they embark on a new school year. We offer a free opportunity for educators to build on their inspiration and plan for micro-actionable goals they can implement straight away.
+
+![](drive%20edu.JPG)
+
+<https://edu.teacherwit.com/posts/25564549?utm_source=manual>
 
 ---
 
@@ -91,6 +105,12 @@ I would complete the courses for IB educator certificate in August. After that, 
 ### IPA International Mandarin Teacher Transcript (Intermediate)
 
 ![image](https://user-images.githubusercontent.com/109213222/183637864-216ba52d-5efc-42f9-afd6-80d28d67955c.png)
+
+---
+
+### Member of Focus Group Hosted by Susan Powers (20 Years' Experience in Inquiry-based Teaching)
+
+![](susan%20poweres.JPG)
 
 ---
 
