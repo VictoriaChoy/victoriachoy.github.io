@@ -18,7 +18,7 @@ My understanding of a teacher's roles has been developing since I practiced the 
 
 ## Overview
 
-- A Facilitator of Learning and Personal Growth
+- [A Facilitator of Learning and Personal Growth](./teachingandlearning1.md/#a-facilitator-of-learning-and-growth)
 
 - [An Engaging Instructor](./teachingandlearning2.md)
 
@@ -34,7 +34,7 @@ My understanding of a teacher's roles has been developing since I practiced the 
 
 ---
 
-### A Facilitator of Learning and Personal Growth
+### A Facilitator of Learning and Growth
 
 <img src="facilitator s.gif" align="left"/>
 
