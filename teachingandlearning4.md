@@ -1,6 +1,5 @@
 [Teaching Philosophy](./philosophya.md) | [Professional Growth](./professional.md) | [Honors](./honors.md) | [Associations](./associations.md)
 
-
 # A Life-long Inquirer
 
 <img src="inquirer s.gif" align="left"/>

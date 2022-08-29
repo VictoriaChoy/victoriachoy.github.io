@@ -1,4 +1,4 @@
-[Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honor](./honors.md) | [Associations](./associations.md)
+[Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honors](./honors.md) | [Associations](./associations.md)
 
 # Teaching Philosophy
 
@@ -26,7 +26,7 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 ## Overview
 
-- The Period of Self-awareness
+- [The Period of Self-awareness](./philosophya.md/#self-awareness)
 
 - [The Period of Collaboration](./philosophyb.md)
 
@@ -36,7 +36,7 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 ---
 
-## The Period of Self-awareness (2012-2014)
+## Self-awareness (2012-2014)
 
 <img src="self awareness s.gif" align="left"/>
 
