@@ -1,6 +1,6 @@
  [Philosophy in Action](./teachingandlearning1.md) | [Professional Growth](./professional.md) | [Honors](./honors.md) | [Associations](./associations.md)
 
-# The Period of Identity Establishment (2021- now)
+# The Period of Identity Construction (2021- now)
 
 <img src="LP.gif" align="left"/>
 

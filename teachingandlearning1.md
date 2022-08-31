@@ -104,11 +104,17 @@ Within a positive and supportive **learning community**, IB students are self-mo
 
 ---
 
-I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The **inquiry-based** approach incorporates students' **voice and choice** into planning, which in turn improves **automous learning**, enhances **agency** and **self-efficacy**. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments with the help of the internet after the class. Personally speaking, I was quite amazed by his ability to **think critically and creatively**, and **persistence** for his interests. The inquiry manifested the **higher-order thinking skills** in Bloom's Taxonomy, **approaches to learning** (thinking skills, research skills, self-management skills), and attributes of the IB **learner profile** (reflective thinker, inquirer, balanced, and open-minded).
+I once taught an 11-year-old boy who was quite talented in music, arts, basketball, Chinese calligraphy, and STEAM model-making. Knowing about his interest in models, I introduced STEAM classes to him, such as biomimicry, energy transfer, and assembly of electronic components purchased online for model ships. The **inquiry-based** approach incorporates students' **voice and choice** into planning, which in turn improves **automous learning**, enhances **agency** and **self-efficacy**. As can be seen from the boardwork (please forgive my handwriting), the student addressed problems encountered during the experiment from different angles, which prompted him for more experiments with the help of the internet after the class. Personally speaking, I was quite amazed by his ability to **think critically and creatively**, and **persistence** for his interests. The inquiry manifested the **higher-order thinking skills** in Bloom's Taxonomy, **approaches to learning** (thinking skills, research skills, self-management skills), attributes of the IB **learner profile** (reflective thinker, inquirer, balanced, and open-minded), and the design thinking approach he used adeptly during the processes of **define**, **ideate**, **prototype**, and **test**.
 
  ![image](https://user-images.githubusercontent.com/109213222/180918979-cd9def99-84b1-4849-aa17-a1eadbb944a8.png)
 
 <https://bookunitsteacher.com/wp/?p=8498>
+
+Design Thinking
+
+![](design%20thinking.png)
+
+<https://uxdesign.cc/design-thinking-for-kids-52b5c7351ba4>
 
 Here is an example of his inquiry during a STEAM class.
 

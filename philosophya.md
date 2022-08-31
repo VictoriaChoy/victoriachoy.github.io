@@ -26,17 +26,17 @@ UNESCO, 2020, _Humanistic Futures of Learning_
 
 ## Overview
 
-- [The Period of Self-awareness](./philosophya.md/#self-awareness)
+- [The Period of Self-awareness (2012-2014)](./philosophya.md/#self-awareness)
 
-- [The Period of Collaboration](./philosophyb.md)
+- [The Period of Collaboration (2015-2017)](./philosophyb.md)
 
-- [The Period of Leadership](./philosophyc.md)
+- [The Period of Leadership (2017-now)](./philosophyc.md)
 
-- [The Period of Identity Establishment](./philosophyd.md)
+- [The Period of Identity Construction (2021-now)](./philosophyd.md)
 
 ---
 
-## Self-awareness (2012-2014)
+## Self-awareness
 
 <img src="self awareness s.gif" align="left"/>
 
