@@ -4,8 +4,6 @@
 
 <img src="welcome-19.gif" align="center"/>
 
-Last Updated: 2022/9/18 00:59:04
-
 ## [About me](./About.md)
 
 ## [Teaching Philosophy](./philosophya.md)
@@ -20,5 +18,11 @@ Last Updated: 2022/9/18 00:59:04
 
 ## [Appendix](./appendix.md)
 
+---
+
 📧 Contact:
 <175709572@qq.com> | <guitaracole@gmail.com>
+
+---
+
+Last Updated: 2022/9/18 
