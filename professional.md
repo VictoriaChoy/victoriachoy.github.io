@@ -20,6 +20,8 @@
 
 - Certificate of Participation, Cambridge Assessment International Education, Primary English
 
+- Certificate of Completion, Essentials of Inquiry
+
 - International Chinese Language Teaching Certificate of Participation, hosted by CTCSOL
 
 - IPA International Mandarin Teacher Transcript (Intermediate)
@@ -108,9 +110,9 @@ The main goal is to contribute to changing education by generating practical ide
 
 ---
 
-### Member of Focus Group Hosted by Susan Powers (20 Years' Experience in Inquiry-based Teaching)
+### Certificate of Completion, Essentials of Inquiry
 
-![](susan%20poweres.JPG)
+![](Certificate_of_Completion_Essentials_for_Inquiry_Getting_Started.JPG)
 
 ---
 
