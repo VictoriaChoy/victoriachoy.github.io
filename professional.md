@@ -2,6 +2,8 @@
 
 # Professional Learning and Future Growth
 
+职业发展和未来规划
+
 <img src="PD s.gif" align="center"/>
 
 ## List of Qualifications and Training Experiences
