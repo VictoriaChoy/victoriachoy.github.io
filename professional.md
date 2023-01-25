@@ -84,6 +84,14 @@ The main goal is to contribute to changing education by generating practical ide
 
 ![](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221119165159.jpg)
 
+---
+
+### Academic Report- Grade A for Course EDUC 5440 Assessment and Evaluation
+
+![Alt text](grade%202022.11.JPG)
+
+---
+
 ### IB Educator Certificate Course Transcripts (All Courses)
 
 ![image](https://user-images.githubusercontent.com/109213222/180366410-e0aad636-758b-4723-be60-08a097b44989.png)
