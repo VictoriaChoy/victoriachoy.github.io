@@ -92,6 +92,12 @@ The main goal is to contribute to changing education by generating practical ide
 
 ---
 
+### Academic Report- Grade A+ for Course EDUC 5710 Understanding Barriers to Learning
+
+![Alt text](5710.JPG)
+
+---
+
 ### IB Educator Certificate Course Transcripts (All Courses)
 
 ![image](https://user-images.githubusercontent.com/109213222/180366410-e0aad636-758b-4723-be60-08a097b44989.png)
